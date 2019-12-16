@@ -1,0 +1,32 @@
+########################## WORKING ##################################
+
+##StadiumGoods##
+#SeedUrl
+http://www.stadiumgoods.com/air-jordan
+http://www.stadiumgoods.com/nike
+http://www.stadiumgoods.com/adidas
+http://www.stadiumgoods.com/footwear
+
+&XpathsNAMEURLPRICEIMGNXPATH
+
+#name //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/text()
+//*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div[1]/ul/li/div/div[1]/a/text()
+
+#url //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/@href
+//*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div[1]/ul/li/div/div[1]/a/@href
+
+#price //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[2]/span/span[@class]/text()
+//*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div[1]/ul/li/div/div[2]/span/span/text()
+
+#img //*[@id]/img/@src
+//*[@id]/@src
+
+
+#nextpage
+##//*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
+//*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div[1]/div[4]/div/a[@class="next-link"]/text()
+
+&FLAGS
+p
+Next
+$
