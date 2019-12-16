@@ -1,0 +1,5 @@
+Flask==1.1.1
+faker==2.0.2
+twilio==6.31.0
+python-dotenv==0.10.3
+inflection==0.3.1
