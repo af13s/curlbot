@@ -101,7 +101,7 @@ class ShoeObj:
         self.URL = URL
         self.imgURL = imgURL
         self.sizes = []
-        self.multSZ = False;
+        self.multSZ = False
         self.prices= []
 
     def namelist (self):
