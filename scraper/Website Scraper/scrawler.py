@@ -17,18 +17,6 @@ def htmlTree( URL ):
     tree = html.fromstring(page.content)
     return tree
 
-##def getSizes(shoe):
-##	tree = htmlTree(shoe.URL)
-##    shoe.sizes = (tree.xpath(sizexpath))
-
-##def getPrice(shoe):
-##		pricexpath = ""
-##		for size in shoe.sizes:
-##		tree = htmlTree(shoe.URL)
-##		for sizes in shoe.sizes
-##       pricexpath = tree.getpath(r)  #make sure to only return value that exactly matches string #test amout of values returned
-##		shoe.price.append(tree.xpath(pricexpath)) #test the correctness of the returned value
-
 # Scrape Given URL to extract fields
 def Scraper (tree, xpaths):
     # This will extract a list of shoe names on page
@@ -121,14 +109,13 @@ class RetailerObj:
 if __name__ == "__main__":
 
     try:
-        os.remove("shoelist.txt")
-        os.remove("namelist.txt")
+        os.remove("shampoo.txt")
     except FileNotFoundError:
         pass
 
     Retailers = [] #this will contain all retailer objects
 
-    consts = open ('Constants.txt','r') #open retailers list
+    consts = open ('hair_constants.txt','r') #open retailers list
 
     lists = [[] for i in range(0, 3)] #create three lists within a list
     a=0
