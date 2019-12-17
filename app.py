@@ -19,9 +19,6 @@ from inflection import underscore
 
 TWILIO_NUMBER = "+18313161352"
 
-acct_sid = "AC5679fe7e61f28f6c925d3893591831d0"
-auth_token = "59290cc8c570abae3776c06168ea79a3"
-
 client = Client(acct_sid, auth_token)
 
 # Convert keys to snake_case to conform with the twilio-python api definition contract
