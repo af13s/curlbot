@@ -1,25 +1,35 @@
 
-# WEBSITE https://www.sheamoisture.com
+base_url https://www.sheamoisture.com
 # URLS
-company Shea_Moisture
+# company Shea_Moisture
 
 seed https://www.sheamoisture.com/hair
 
 # XPATHS
-# xname //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/text()
-xurl //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/@href
-# xingredients //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[2]/span/span[@class]/text()
-# ximg //*[@id]/img/@src
+xname /html/body/div[1]/div[2]/div[3]/div[3]/h2/text()
+xurl //*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href
+xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()
+/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text()
+# ximg //*[@id="slick-slide00"]/div/img/@src
 # xnext //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
 
 # FLAGS
 &extra start=0
-&lmit sz=1000
+&limit sz=5
 $
 
-# WEBSITE https://www.devacurl.com/
+company Deva_Curl
+base_url https://www.devacurl.com
 # URLS
 # seed https://www.devacurl.com/products/cleansers
 # seed https://www.devacurl.com/products/conditioners
 # seed https://www.devacurl.com/products/treatments
 # seed https://www.devacurl.com/products/stylers
+
+
+# XPATHS
+# xurl /html/body/app-root/div/ng-component/app-product-grid/main/div/div[6]/div/div/app-card/div/app-clickable[1]/a/@href
+# xname /html/body/app-root/div/ng-component/app-product-detail/app-pdp-intro/article/section/div[1]/app-h2/h1/text()
+# ximg /html/body/app-root/div/ng-component/app-product-detail/main/div[1]/app-pdp-hero-carousel/flickity-carousel/div/div/div/div[1]/app-image/cld-image/img/@src
+# xingredients /html/body/app-root/div/ng-component/app-product-detail/main/div[6]/div/app-pdp-key-ingredients/section/div[2]/div/app-caption/p/p/text()[2]
+# $
