@@ -1,32 +1,25 @@
 
 # WEBSITE https://www.sheamoisture.com
 # URLS
+company Shea_Moisture
+
 seed https://www.sheamoisture.com/hair
 
 # XPATHS
-XNAME //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/text()
-XURL //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/@href
-XINGREDIENTS //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[2]/span/span[@class]/text()
-XIMG //*[@id]/img/@src
-XNEXT //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
+# xname //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/text()
+xurl //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/@href
+# xingredients //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[2]/span/span[@class]/text()
+# ximg //*[@id]/img/@src
+# xnext //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
 
 # FLAGS
 &extra start=0
-&extra sz=1000
+&lmit sz=1000
 $
 
 # WEBSITE https://www.devacurl.com/
 # URLS
-seed https://www.devacurl.com/products/cleansers
-seed https://www.devacurl.com/products/conditioners
-seed https://www.devacurl.com/products/treatments
-seed https://www.devacurl.com/products/stylers
-
-# XPATHS
-XNAME //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/text()
-XURL //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[1]/a/@href
-XINGREDIENTS //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/ul/li/div/div[2]/span/span[@class]/text()
-XIMG //*[@id]/img/@src
-XNEXT //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
-
-$
+# seed https://www.devacurl.com/products/cleansers
+# seed https://www.devacurl.com/products/conditioners
+# seed https://www.devacurl.com/products/treatments
+# seed https://www.devacurl.com/products/stylers

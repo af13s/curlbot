@@ -109,13 +109,13 @@ class RetailerObj:
 if __name__ == "__main__":
 
     try:
-        os.remove("shampoo.txt")
+        os.remove("shoelist.txt")
     except FileNotFoundError:
         pass
 
     Retailers = [] #this will contain all retailer objects
 
-    consts = open ('hair_constants.txt','r') #open retailers list
+    consts = open ('Constants.txt','r') #open retailers list
 
     lists = [[] for i in range(0, 3)] #create three lists within a list
     a=0
