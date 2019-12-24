@@ -17,6 +17,8 @@ from dotenv import load_dotenv, find_dotenv
 from os.path import join, dirname
 from inflection import underscore
 
+import dialogflow
+
 TWILIO_NUMBER = "+18313161352"
 
 client = Client(acct_sid, auth_token)
@@ -29,7 +31,7 @@ def snake_case_keys(somedict):
     return snake_case_dict
 
 app = Flask(__name__)
-fake = Faker()
+# fake = Faker()
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
