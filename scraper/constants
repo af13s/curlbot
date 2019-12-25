@@ -1,25 +1,23 @@
 
 base_url https://www.sheamoisture.com
-# URLS
-# company Shea_Moisture
+company Shea_Moisture
 
 seed https://www.sheamoisture.com/hair
 
-# XPATHS
+XPATHS
 xname /html/body/div[1]/div[2]/div[3]/div[3]/h2/text()
 xurl //*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href
 xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()
-/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text()
 # ximg //*[@id="slick-slide00"]/div/img/@src
 # xnext //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
 
 # FLAGS
 &extra start=0
-&limit sz=5
+&limit sz=500
 $
 
-company Deva_Curl
-base_url https://www.devacurl.com
+#company Deva_Curl
+#base_url https://www.devacurl.com
 # URLS
 # seed https://www.devacurl.com/products/cleansers
 # seed https://www.devacurl.com/products/conditioners
@@ -34,10 +32,10 @@ base_url https://www.devacurl.com
 # xingredients /html/body/app-root/div/ng-component/app-product-detail/main/div[6]/div/app-pdp-key-ingredients/section/div[2]/div/app-caption/p/p/text()[2]
 # $
 
-company aveda
-base_url https://www.aveda.com/
-seed https://www.aveda.com/hair-care
-xurl /html/body/div[3]/div/div/article/div/div/div[2]/div/div/div/div[1]/div/div[1]/div/a[1]/@href
-ximg /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[1]/div/div[3]/div[2]/div/div/div[2]/img/@src
-xname /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/h2/text()[2]
-xingredients /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/div[14]/div[2]/div[3]/div/div[2]/text()
+# company aveda
+# base_url https://www.aveda.com/
+# seed https://www.aveda.com/hair-care
+# xurl /html/body/div[3]/div/div/article/div/div/div[2]/div/div/div/div[1]/div/div[1]/div/a[1]/@href
+# ximg /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[1]/div/div[3]/div[2]/div/div/div[2]/img/@src
+# xname /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/h2/text()[2]
+# xingredients /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/div[14]/div[2]/div[3]/div/div[2]/text()
