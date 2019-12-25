@@ -1,3 +1,40 @@
+import dialogflow_client
+
+AWS_ACCESS_KEY_ID =os.environ["AWS_ACCESS_KEY_ID"]
+AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
+REGION_NAME='us-west-1'
+
+
+PRODUCT_LOOKUP = "Product Lookup"
+
+def admin_session():
+    session = boto3.Session(
+        aws_access_key_id=AWS_ACCESS_KEY_ID,
+        aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
+    )
+
+    return session
+
+
+def dynambo_admin_session():
+    session = admin_session()
+    dynamodb = boto3.client('dynamodb', region_name=REGION_NAME)
+    return dynamodb
+   
+def get_product_ingredients(key_var,range_vartablename="product"):
+   client = dynambo_admin_session()
+   response = client.get_item(
+    TableName=tablename,
+    Key={
+       'S' : key_var,
+       'S': range_var
+    },
+    AttributesToGet=[
+        "ingredients",
+    ])
+
+    return response
+
 def record_message(message, phone_number, tablename="messages"):
    item = {
       "user_phone": phone_number,
@@ -44,39 +81,43 @@ def ingredients_analyzer(ingredients_string):
 
 
 def generate_response(phone, message):
-   record_message(phone, message)
+   # record_message(phone, message)
 
-   intent, variables = dialogflow(message)
+   agent = DialogFlowClient(phone)
+
+   intent, variables = agent.analyze_msg(message)
    reply = None
 
    # psuedo
-   if intent == product_lookup:
-      try:
-         record_product_search(phone_number=phone, product_name=variable["product_name"], brand_name=variable["brand_name"])
-      except Exception as e:
-         print("Error occured trying to add new entry %s", s)
-
-      ingredients = db_search(key=variable["product_name"], range=variable["brand_name"])["ingredients"]
-      reply = ingredients_analyzer(ingredients)
+   if intent == PRODUCT_LOOKUP:
+      # try:
+      #    record_product_search(phone_number=phone, product_name=variable["product_name"], brand_name=variable["brand_name"])
+      # except Exception as e:
+      #    print("Error occured trying to add new entry %s", s)
+      hair_company = variables["HairCompany"]
+      product_name = variables[variables["HairCompany"].replace(" ", "").lower()+"product"]
+      ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
+      reply = str(ingredients)
+      # reply = ingredients_analyzer(ingredients)
       
 
 
    
-   if intent == hair_recommendation:
-      try: 
-         record_user_info(phone_number, curl_type, ...)
-      except Exception as e:
-         print("Error occured trying to add new entry %s", s)
+   # if intent == hair_recommendation:
+   #    try: 
+   #       record_user_info(phone_number, curl_type, ...)
+   #    except Exception as e:
+   #       print("Error occured trying to add new entry %s", s)
 
-      recommendation = dataset_search(hair_type=variables["hair_type"])
-      reply = recommendation
+   #    recommendation = dataset_search(hair_type=variables["hair_type"])
+   #    reply = recommendation
 
 
    
-   string = "Hello from twilio\n "
-   string += message
+   # string = "Hello from twilio\n "
+   # string += message
 
-   return string
+   return reply
 
 
 
@@ -98,6 +139,10 @@ take a message
 extract the variables - use dialogflow to recognize the entities
 discover the intent - sending the message to dialog flow
 response based on intent - add fulfillment webhook to the product. get the intent and use that to form the logic
+
+
+put logic for responsing a database so that we can update and reference it
+make adding new commands extensible
 
 
 

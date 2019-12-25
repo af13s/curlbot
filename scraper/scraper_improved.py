@@ -68,9 +68,12 @@ def product_scraper (product_urls, retailer):
         try: 
             product_ingredients = tree.xpath(retailer.xpaths.product_ingredient_list)
             product_ingredients = re.sub(r'[^\x00-\x7F]+','', product_ingredients[0])
+            product_ingredients = re.sub(r'[^a-zA-Z]+', ' ', product_ingredients)
+            product_ingredients = product_ingredients.lower()
             product_ingredients = product_ingredients.strip().replace("\n", "").replace("\t", "")
             # print("product ingredient: ", product_ingredients)
-            product_name = tree.xpath(retailer.xpaths.product_name)
+            product_name = tree.xpath(retailer.xpaths.product_name)[0].lower()
+            product_name = re.sub(r'[^a-zA-Z]+', ' ', product_name)
             # print("product name: ", product_name)
             product_url = url
         except Exception as e:
@@ -79,7 +82,7 @@ def product_scraper (product_urls, retailer):
         try:
             add_product_to_db(
                 brand_name=retailer.company_name,
-                product_name=product_name[0],
+                product_name=product_name,
                 product_url=product_url,
                 ingredients=product_ingredients
             )
@@ -234,7 +237,7 @@ if __name__ == "__main__":
             continue
 
         if line[0] == "c":
-            company = line.split()[1]
+            company = line.split()[1:]
             continue
         
         if line[0] == "b":
