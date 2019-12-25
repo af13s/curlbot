@@ -38,7 +38,7 @@ load_dotenv(dotenv_path)
 @app.route('/inbound_sms', methods=['POST'])
 def inbound_sms():
     message = request.form['Body']
-    number = request.form['From']
+    phone_number = request.form['From']
     response = MessagingResponse()
     response.message(generate_response(message))
     return str(response)

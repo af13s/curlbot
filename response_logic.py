@@ -1,8 +1,104 @@
-def generate_response(message):
+def record_message(message, phone_number, tablename="messages"):
+   item = {
+      "user_phone": phone_number,
+      "message": message,
+   }
+
+  database.add_table_entry(tablename, item)
+
+def record_product_search(phone_number, product_name, brand_name, tablename="searches"):
+   item = {
+      "user_phone": phone_number,
+      "product_name": product_name,
+      "brand_name": brand_name,
+   }
+
+   database.add_table_entry(tablename, item)
+
+def record_user_info(phone_number, curl_type, **kwargs):
+   item = {
+      "user_phone": phone_number,
+      "curl_type": curl_type,
+   }
+
+   for key, value in kwargs.items():
+      item[key] = value
+   
+   database.add_table_entry(tablename, item)
+
+
+def ingredients_analyzer(ingredients_string):
+
+   bad_ingredients = []
+   ingredients_list = ingredients_string.split(",")
+
+   for ingredient in ingredients_list:
+      if ingredient_is_harmful(ingredient):
+         bad_ingredients.append({
+            ingredient: ingredients_info(ingredient)
+         })
+   
+   report = report_format(bad_ingredients) 
+
+   return report
+
+
+def generate_response(phone, message):
+   record_message(phone, message)
+
+   intent, variables = dialogflow(message)
+   reply = None
+
+   # psuedo
+   if intent == product_lookup:
+      try:
+         record_product_search(phone_number=phone, product_name=variable["product_name"], brand_name=variable["brand_name"])
+      except Exception as e:
+         print("Error occured trying to add new entry %s", s)
+
+      ingredients = db_search(key=variable["product_name"], range=variable["brand_name"])["ingredients"]
+      reply = ingredients_analyzer(ingredients)
+      
+
+
+   
+   if intent == hair_recommendation:
+      try: 
+         record_user_info(phone_number, curl_type, ...)
+      except Exception as e:
+         print("Error occured trying to add new entry %s", s)
+
+      recommendation = dataset_search(hair_type=variables["hair_type"])
+      reply = recommendation
+
+
+   
    string = "Hello from twilio\n "
    string += message
 
    return string
+
+
+
+
+####
+
+### TODO ### 
+
+Store all user messages in the database and timestamp the messages
+
+schema phone_number: string
+       message: string
+       datetime: string
+       epoch_timestamp: number
+
+train dialogflow to understand the messages - take the names in the database and create permutations for dialogflow to train on
+
+take a message
+extract the variables - use dialogflow to recognize the entities
+discover the intent - sending the message to dialog flow
+response based on intent - add fulfillment webhook to the product. get the intent and use that to form the logic
+
 
 
 
