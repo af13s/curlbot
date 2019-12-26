@@ -1,4 +1,6 @@
-import dialogflow_client
+from dialogflow_client import DialogFlowClient
+import os
+import boto3
 
 AWS_ACCESS_KEY_ID =os.environ["AWS_ACCESS_KEY_ID"]
 AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
@@ -21,27 +23,30 @@ def dynambo_admin_session():
     dynamodb = boto3.client('dynamodb', region_name=REGION_NAME)
     return dynamodb
    
-def get_product_ingredients(key_var,range_vartablename="product"):
+def get_product_ingredients(key_var,range_var, tablename="product"):
+   print(key_var)
+   print(range_var)
+
    client = dynambo_admin_session()
    response = client.get_item(
     TableName=tablename,
     Key={
-       'S' : key_var,
-       'S': range_var
-    },
+       "product_name": {'S': key_var},
+       "brand_name": {'S': range_var }
+   },
     AttributesToGet=[
         "ingredients",
     ])
 
-    return response
+   return response
 
 def record_message(message, phone_number, tablename="messages"):
    item = {
       "user_phone": phone_number,
       "message": message,
    }
-
-  database.add_table_entry(tablename, item)
+   
+   database.add_table_entry(tablename, item)
 
 def record_product_search(phone_number, product_name, brand_name, tablename="searches"):
    item = {
@@ -94,7 +99,7 @@ def generate_response(phone, message):
       #    record_product_search(phone_number=phone, product_name=variable["product_name"], brand_name=variable["brand_name"])
       # except Exception as e:
       #    print("Error occured trying to add new entry %s", s)
-      hair_company = variables["HairCompany"]
+      hair_company = variables["HairCompany"].replace(" ", "_")
       product_name = variables[variables["HairCompany"].replace(" ", "").lower()+"product"]
       ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
       reply = str(ingredients)
@@ -121,28 +126,37 @@ def generate_response(phone, message):
 
 
 
+while (True):
+   string = input(">: ")
+   if string == "exit":
+      break
+   
+   print(generate_response("+19543984645", string))
+   
+
+
 
 ####
 
 ### TODO ### 
 
-Store all user messages in the database and timestamp the messages
+# Store all user messages in the database and timestamp the messages
 
-schema phone_number: string
-       message: string
-       datetime: string
-       epoch_timestamp: number
+# schema phone_number: string
+#        message: string
+#        datetime: string
+#        epoch_timestamp: number
 
-train dialogflow to understand the messages - take the names in the database and create permutations for dialogflow to train on
+# train dialogflow to understand the messages - take the names in the database and create permutations for dialogflow to train on
 
-take a message
-extract the variables - use dialogflow to recognize the entities
-discover the intent - sending the message to dialog flow
-response based on intent - add fulfillment webhook to the product. get the intent and use that to form the logic
+# take a message
+# extract the variables - use dialogflow to recognize the entities
+# discover the intent - sending the message to dialog flow
+# response based on intent - add fulfillment webhook to the product. get the intent and use that to form the logic
 
 
-put logic for responsing a database so that we can update and reference it
-make adding new commands extensible
+# put logic for responsing a database so that we can update and reference it
+# make adding new commands extensible
 
 
 

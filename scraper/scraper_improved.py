@@ -4,7 +4,9 @@ import sys #can be removed when storing directly to database
 import os # can also be removed
 import pprint
 import re
-from database_accessor import database
+import sys
+sys.path.append("..")
+from database.database_accessor import database
 
 PRODUCT_TABLE_NAME = "product"
 
@@ -54,6 +56,11 @@ def htmlTree( URL ):
     tree = html.fromstring(page.content)
     return tree
 
+def normalize_string(string):
+    string = re.sub(r'[^\x00-\x7F]+','', string) # remove weird characters
+    string = re.sub(r'[^a-zA-Z,]+', ' ', string) # remove numbers and special characters
+    string = string.strip().replace("\n", "").replace("\t", "")
+    return string
 
 def product_scraper (product_urls, retailer):
 
@@ -66,35 +73,37 @@ def product_scraper (product_urls, retailer):
         # print(etree.tostring(tree,pretty_print=True))
 
         try: 
+            
             product_ingredients = tree.xpath(retailer.xpaths.product_ingredient_list)
-            product_ingredients = re.sub(r'[^\x00-\x7F]+','', product_ingredients[0])
-            product_ingredients = re.sub(r'[^a-zA-Z]+', ' ', product_ingredients)
-            product_ingredients = product_ingredients.lower()
-            product_ingredients = product_ingredients.strip().replace("\n", "").replace("\t", "")
-            # print("product ingredient: ", product_ingredients)
-            product_name = tree.xpath(retailer.xpaths.product_name)[0].lower()
-            product_name = re.sub(r'[^a-zA-Z]+', ' ', product_name)
-            # print("product name: ", product_name)
+            product_ingredients = normalize_string(product_ingredients[0]).lower()
+
+            product_name = tree.xpath(retailer.xpaths.product_name)
+            product_name = normalize_string(product_name[0])
+
             product_url = url
+
         except Exception as e:
             print("Error occured %s", str(e))
 
         try:
-            add_product_to_db(
-                brand_name=retailer.company_name,
-                product_name=product_name,
-                product_url=product_url,
-                ingredients=product_ingredients
-            )
+            raise(Exception)
+            # add_product_to_db(
+            #     brand_name=retailer.company_name,
+            #     product_name=product_name,
+            #     product_url=product_url,
+            #     ingredients=product_ingredients
+            # )
+
         except Exception as e:
             print("\n\n Error occured msg=%s", str(e))
-            print("name={}\n ingredients={}\n brand={}\n url={}\n\n".format(product_name[0], product_ingredients,retailer.company_name, product_url))
+            print("name={}\n ingredients={}\n brand={}\n url={}\n\n".format(product_name, product_ingredients,retailer.company_name, product_url))
 
-        results.append({
-            product_name[0] : {
-            "product_url": product_url,
-            "product_ingredients": product_ingredients,
-        }})
+        if product_ingredients != "":
+            results.append({
+                product_name : {
+                "product_url": product_url,
+                "product_ingredients": product_ingredients,
+            }})
 
 
     return results
@@ -110,6 +119,7 @@ def add_product_to_db(product_name, product_url, ingredients, brand_name, tablen
 
 def url_scraper (tree, urlxpaths):
     product_urls = tree.xpath(urlxpaths.product_url)
+
     return product_urls
 
 
@@ -135,16 +145,15 @@ def crawler ( retailer ):
                 for flag in retailer.urlflags.extra_flags:
                     url += '&' + flag
 
-            print ("\n Scraping Formatted Url: " , url)
+            # print ("\n Scraping Formatted Url: " , url)
             
             tree = htmlTree (url)
 
             products = url_scraper(tree, retailer.xpaths)
             products = [retailer.base_url+x for x in products]
 
-            print(products, "\n\n")
-
-            print(product_scraper(products, retailer))
+            print("total number products: ", len(products))
+            print("number successfully scraped: ", len(product_scraper(products, retailer)))
 
             if (page_number == 1 and retailer.urlflags.next_flag):
                 if ( tree.xpath(retailer.xpaths.next_xpath)[0].strip() != retailer.urlflags.next_flag ): #Very Important IF STATEMENT if its the first page there is no prev so next text in first position
@@ -193,7 +202,7 @@ if __name__ == "__main__":
             print(urlflags)
             new_retailer = Retailer(company, seedurls, xpaths, urlflags, baseurl)
             retailers.append(new_retailer)
-            print(new_retailer, " added")
+            # print(new_retailer, " added")
             seedurls = []
             company = None
             baseurl = None
@@ -218,7 +227,7 @@ if __name__ == "__main__":
 
         if line[0] == 'x':
             xpath_args = line.split()
-            var = xpath_args[0][1:]
+            var = xpath_args[0][1:] #get word after x in xarg
             xpaths[var] = xpath_args[1]
             continue
 
@@ -238,6 +247,7 @@ if __name__ == "__main__":
 
         if line[0] == "c":
             company = line.split()[1:]
+            company = " ".join(company)
             continue
         
         if line[0] == "b":
@@ -247,6 +257,6 @@ if __name__ == "__main__":
     consts.close()
 
     for retailer in retailers:
-        print(retailer)
+        # print(retailer)
         crawler(retailer)
 

@@ -1,0 +1,1195 @@
+Adding New Retailer
+['https://www.sheamoisture.com/hair']
+{'name': '/html/body/div[1]/div[2]/div[3]/div[3]/h2/text()', 'url': '//*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href', 'ingredients': '/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()', 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': 'sz=500', 'extra': ['start=0']}
+Shea Moisture: https://www.sheamoisture.com  added
+
+ 
+ starting url:  https://www.sheamoisture.com/hair
+
+ Scraping Formatted Url:  https://www.sheamoisture.com/hair?&sz=500&start=0
+['https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-shampoo/764302210207.html', 'https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-frizz-free-shine-mist/764302210221.html', 'https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-styler-leave-in-treatment/764302190349.html', 'https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-strobe-shine-spray/764302190417.html', 'https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-conditioner/764302263029.html', 'https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-rinse-out-or-leave-in-conditioner/764302226031.html', 'https://www.sheamoisture.com/raw-shea-butter-rhassoul-clay-shampoo-bar/764302227052.html', 'https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280217.html', 'https://www.sheamoisture.com/raw-shea-butter-reconstructive-finishing-elixir/764302280231.html', 'https://www.sheamoisture.com/raw-shea-butter-moisturizing-detangler/764302280637.html', 'https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280200.html', 'https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280910.html', 'https://www.sheamoisture.com/raw-shea-butter-moisture-recovery-treatment-masque-pkt/764302281009.html', 'https://www.sheamoisture.com/raw-shea-butter-heatless-curl-stretch-gel/764302281108.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-brown/764302200468.html', 'https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-shampoo/764302202042.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-protein-strong-treatment-2oz/764302231462.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-twist-defining-custard/764302231301.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-bentonite-clay-shampoo-bar/764302227045.html', 'https://www.sheamoisture.com/mango-and-carrot-kids-extra-nourishing-conditioner/764302905011.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-conditioning-gel/764302261223.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-and-take-down-detangler/764302261216.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-styling-lotion/764302215523.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215837.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-oil-serum/764302215530.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-max-hold-gel/764302215912.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner-8oz/764302215707.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-conditioning-design-foam/764302215936.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-rinse-out-conditioner/764302215592.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-bentonite-clay-shampoo-bar/764302227038.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-lite-conditioner/764302208129.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-build-up-blaster/764302208105.html', 'https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-shampoo/764302271420.html', 'https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-defining-gel-oil/764302271406.html', 'https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-curl-revival-oil/764302271437.html', 'https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-conditioner/764302271413.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-rhassoul-clay-shampoo-bar/764302227021.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-kids-extra-moisturizing-detangler/764302905028.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-kids-curling-butter-cream/764302905035.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-kids-2-in-1-curl-and-shine-shampoo-and-conditioner/764302905141.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curling-gel-souffli/764302290315.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz-tube/764302290780.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---trial-and-travel-size/764302290711.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---8-oz/764302290735.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---10.3-oz/764302290452.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo/764302290209.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-hair-masque/764302291077.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-hair-masque/764302291084.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-anti-frizz-max-hold-gel/764302291121.html', 'https://www.sheamoisture.com/coconut-and-cactus-water-pump-me-up-volumizing-spray/764302190530.html', 'https://www.sheamoisture.com/coconut-and-cactus-water-pick-me-up-lite-masque/764302190608.html', 'https://www.sheamoisture.com/coconut-and-cactus-water-head-in-the-clouds-shampoo/764302190516.html', 'https://www.sheamoisture.com/coconut-and-cactus-water-head-in-the-clouds-conditioner/764302190509.html', 'https://www.sheamoisture.com/african-water-mint-and-ginger-kaolin-clay-soap/764302228011.html', 'https://www.sheamoisture.com/african-black-soap-bentonite-clay-shampoo-bar/764302227014.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-scalp-tonic-treatment/764302271147.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-kaolin-clay-soap/764302228004.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-gelee-moisturizer/764302270263.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-deep-balancing-conditioner/764302271062.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-rhassoul-clay-shampoo-bar/764302227007.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-treatment-masque-%C2%89uo-2oz/764302204640.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-hot-oil-treatment-rehydrate-and-revive/764302204848.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-leave-in-treatment/764302204213.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-styling-gel/764302204831.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-shampoo/764302204190.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-shampoo/764302204176.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-conditioner/764302204206.html', 'https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-shampoo/764302315889.html', 'https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-primer-and-styler/764302229117.html', 'https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-masque/764302229247.html', 'https://www.sheamoisture.com/gotu-kola-and-raspberry-seed-oil-pre-swim-leave-in-protection/764302600084.html', 'https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-shampoo/764302312659.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo-8-oz/764302215691.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-conditioner---trial-and-travel-size/764302215646.html', 'https://www.sheamoisture.com/back-to-school-%22hydration-heroes%22-bundle/20190816SMOVCOCCBNDL.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-smoothie/764302215851.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-blow-dry-creme/764302215929.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-in-shower-styler/764302208167.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-treatment-masque/764302216360.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215790.html', 'https://www.sheamoisture.com/raw-shea-butter-deep-treatment-masque/764302280248.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner/764302290629.html', 'https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-conditioner/764302210214.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-deep-cleansing-shampoo/764302271048.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-conditioner/764302231059.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-shampoo/764302231493.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-shampoo/764302231042.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-style-milk/764302290247.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---8-oz/764302290742.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-frizz-free-curl-mousse/764302290612.html', 'https://www.sheamoisture.com/mango-and-carrot-kids-extra-nourishing-shampoo/764302905004.html', 'https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-styling-gelee/764302226000.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-finishing-oil-serum/764302204220.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-exfoliating-hair-mud/764302208143.html', 'https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-detangling-shampoo/764302226048.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-overnight-perfecting-treatment/764302204855.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-shampoo/764302208112.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo-10.3oz/764302216131.html', 'https://www.sheamoisture.com/marshmallow-root-and-blueberries-kids-2-in-1-drama-free-detangling-leave-in-conditioner/764302902225.html', 'https://www.sheamoisture.com/marshmallow-root-and-blueberries-kids-2-in-1-drama-free-shampoo-and-conditioner/764302902201.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner-10.3oz/764302216148.html', 'https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-multi-masque/764302208174.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-conditioner/764302204183.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-conditioner/764302231486.html', 'https://www.sheamoisture.com/coconut-and-cactus-water-pick-me-up-lite-masque-2oz/764302190523.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-leave-in-milk/764302231431.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo-16oz/764302215509.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz/764302290476.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-masque/764302231066.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-style-and-smooth-edge-treatment-gel/764302215578.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-treatment-masque/764302215554.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-anti-breakage-spray/764302215943.html', 'https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-miracle-masque/764302190370.html', 'https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-masque-2oz/764302190431.html', 'https://www.sheamoisture.com/back-to-school-%22renew-and-strengthen%22-hair-bundle/20190808SMHJBCOBNDL.html', 'https://www.sheamoisture.com/back-to-school-%22bouncy-curls%22-bundle/20190908SMHCHBNDL.html', 'https://www.sheamoisture.com/back-to-school-%22balancing-trio%22-bundle/20190816SMOABSCCBNDL.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-blonde/764302200512.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-multi-action-leave-in/764302231448.html', 'https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-styling-milk/764302210191.html', 'https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-masque/764302210184.html', 'https://www.sheamoisture.com/superfruit-multi-vitamin-wash-and-go-shampoo/764302201434.html', 'https://www.sheamoisture.com/superfruit-multi-vitamin-leave-in-detangler/764302201397.html', 'https://www.sheamoisture.com/superfruit-multi-vitamin-frizz-taming-smoothie/764302201373.html', 'https://www.sheamoisture.com/superfruit-complex-10-in-1-renewal-system-shampoo/764302201212.html', 'https://www.sheamoisture.com/superfruit-complex-10-in-1-renewal-system-conditioner/764302201205.html', 'https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-styler-leave-in-treatment/764302190332.html', 'https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-twist-and-lock-gel/764302263128.html', 'https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-hair-masque/764302263043.html', 'https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-curl-defining-smoothie/764302263098.html', 'https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-clarifying-shampoo/764302263012.html', 'https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-shine-butter/764302226055.html', 'https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-curl-stretch-pudding/764302226024.html', 'https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280927.html', 'https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280842.html', 'https://www.sheamoisture.com/raw-shea-butter-moisturizing-transitoning-milk/764302280613.html', 'https://www.sheamoisture.com/raw-shea-butter-moisture-recovery-treatment-masque-%28tube/764302280859.html', 'https://www.sheamoisture.com/raw-shea-butter-curl-memory-cream-custard/764302280989.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-styling-gel-cream/764302265030.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo-10.3-fl-oz/764302265115.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo/764302265009.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-hair-masque/764302265023.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner-10.3-fl-oz/764302265122.html', 'https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner/764302265016.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-styling-gel-cream/764302216223.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo/764302216308.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-leave-in-treatment/764302216353.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-hold-mist/764302216179.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-dry-shampoo/764302216193.html', 'https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner/764302216315.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---soft-black/764302200444.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-chestnut-brown/764302200536.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-brown/764302200529.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-blonde/764302200505.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-auburn/764302200499.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---jet-black/764302200420.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-brown/764302200451.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-blonde/764302200475.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-auburn/764302200482.html', 'https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---bright-auburn/764302200437.html', 'https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-styling-gel/764302202035.html', 'https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-masque/764302202066.html', 'https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-finishing-elixir/764302202004.html', 'https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-co-wash/764302202028.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-split-end-balm/764302231455.html', 'https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-protein-strong-treatment-8oz/764302231479.html', 'https://www.sheamoisture.com/manuka-honey-and-mafura-oil-hydrate-and-design-max-hold-gel/764302231424.html', 'https://www.sheamoisture.com/kukui-nut-and-grapeseed-oils-damage-rehab-treatment-masque/764302207054.html', 'https://www.sheamoisture.com/kukui-nut-and-grapeseed-oils-damage-rehab-treatment-masque/764302207085.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-track-tension-and-itch-relief-serum/764302261230.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-odor-neutralizing-mist/764302261254.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-no-rinse-foam-cleanser/764302261247.html', 'https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-laydown-lacquer/764302261285.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-moisture-twist-and-loc-butter-6oz/764302215677.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-moisture-thermal-protect-set-and-hold-spritz-8oz/764302215653.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner---6oz/764302215813.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner-16oz/764302215516.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-high-shine-polishing-gel/764302215660.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-hair-masque/764302215714.html', 'https://www.sheamoisture.com/jamaican-black-castor-oil-rinse-out-conditioner/764302215806.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-shampoo/764302226451.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-masque/764302226475.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-dry-shampoo/764302226772.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse-8-oz/764302226703.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse/764302226635.html', 'https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse/764302226468.html', 'https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-shampoo/764302208303.html', 'https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-lifting-spray/764302208341.html', 'https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-conditioner/764302208310.html', 'https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-and-texturizing-clay/764302208334.html', 'https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-and-styling-foam/764302208327.html', 'https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-curl-primer/764302271444.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-on-the-go-conditioning-hair-fragrance/764302290438.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-hold-and-shine-moisture-mist/764302290230.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-moisture-co-wash/764302290605.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---trial-and-travel-size/764302290759.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie-12oz/764302290223.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---trial-and-travel-size/764302290728.html', 'https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---10.3-oz/764302290469.html', 'https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-shampoo/764302202011.html', 'https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-conditioner/764302202059.html', 'https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-shampoo/764302208006.html', 'https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-protein-masque/764302208051.html', 'https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-leave-in-or-rinse-out-conditioner/764302208037.html', 'https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-growth-shampoo/764302208020.html', 'https://www.sheamoisture.com/argan-oil-and-almond-milk-smooth-and-tame-treatment-masque/764302205265.html', 'https://www.sheamoisture.com/argan-oil-and-almond-milk-smooth-and-tame-conditioner/764302205012.html', 'https://www.sheamoisture.com/african-water-mint-and-ginger-detox-hair-and-scalp-gentle-shampoo/764302214502.html', 'https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-scalp-elixir/764302214533.html', 'https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-leave-in-detangler/764302214526.html', 'https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-conditioner/764302214519.html', 'https://www.sheamoisture.com/african-black-soap-purification-masque/764302270249.html', 'https://www.sheamoisture.com/african-black-soap-eczema-and-psoriasis-therapy/764302270409.html', 'https://www.sheamoisture.com/african-black-soap-deep-cleansing-shampoo/764302270201.html', 'https://www.sheamoisture.com/african-black-soap-clarifying-conditioner/764302270218.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-purification-masque/764302271086.html', 'https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-pre-shampoo-scalp-scrub/764302270836.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-treatment-masque/764302204633.html', 'https://www.sheamoisture.com/100-virgin-coconut-oil-baby-wash-and-shampoo/764302224051.html', 'https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-oil-serum/764302229100.html', 'https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-conditioner/764302315896.html', 'https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-lite-leave-in/764302313557.html', 'https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-conditioner/764302312666.html'] 
+
+
+name=Yucca Plantain Anti Breakage Strengthening Shampoo
+ ingredients=water decyl glucoside sodium lauroyl lactylate glycol stearate guar hydroxypropyltrimonium chloride panthenol stearamide amp butyrospermum parkii shea butter adansonia digitata seed oil aloe barbadensis leaf juice fragrance essential oil blend yucca brevifolia root extract coriandrum sativum coriander extract plantain musa paradisiaca extract hydrolyzed rice protein glycerin vegetable caprylhydroxamic acid caprylyl glycol sodium benzoate potassium sorbate citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-shampoo/764302210207.html
+
+
+name=Yucca Plantain Anti Breakage Frizz Free Shine Mist
+ ingredients=coco caprylate diheptyl succinate isoamyl laurate cocos nucifera coconut oil prunus amygdalis dulcis sweet almond oil argania spinosa kernel oil argan simmondsia chinensis jojoba seed oil butyrospermum parkii shea butter olea europaea olive fruit oil vinis vinifera grape seed oil brassica campestris aleurites fordi oil copolymer persea gratissima avocado oil hydrolyzed rice protein plantain musa paradisiaca extract yucca brevifolia root extract capryloyl glycerin sebacic acid copolymer coriandrum sativum coriander extract fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-frizz-free-shine-mist/764302210221.html
+
+
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Styler Leave In Treatment
+ ingredients=water cetearyl alcohol glycerin vegetable caprylic capric triglyceride dicaprylyl ether polyquaternium panthenol behentrimonium methosulfate limnanthes alba meadowfoam seed oil ricinus communis castor seed oil butyrospermum parkii shea butter saccharum officinarum extract citrus aurantium dulcis orange peel extract camellia sinensis green tea leaf extract althaea officinalis root extract triethyl citrate caprylyl glycol benzoic acid polyquaternium hydroxyethylcellulose sodium benzoate fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-styler-leave-in-treatment/764302190349.html
+
+
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Strobe Shine Spray
+ ingredients=water sd alcohol b cinnamidopropyltrimonium chloride butyrospermum parkii shea butter althaea officinalis root extract limnanthes alba meadowfoam seed oil saccharum officinarum sugarcane extract iron oxide titanium dioxide mica fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-strobe-shine-spray/764302190417.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-conditioner/764302263029.html
+
+
+name=Red Palm Oil Cocoa Butter Rinse Out or Leave In Conditioner
+ ingredients=water butyrospermum parkii shea butter stearyl alcohol cetyl alcohol behentrimonium chloride elaeis guineensis palm oil panthenol fragrance essential oil blend cetrimonium chloride caprylic capric triglyceride hydroxyethylcellulose glycerin vegetable theobroma cacao cocoa seed butter equisetum arvense extract glycyrrhiza glabra licorice root extract linum usitatissimum linseed seed oil camellia sinensis green tea leaf extract aloe barbadensis leaf juice tocopherol sodium benzoate triethyl citrate caprylyl glycol benzoic acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-rinse-out-or-leave-in-conditioner/764302226031.html
+
+
+name=Raw Shea Butter Rhassoul Clay Shampoo Bar
+ ingredients=sodium palmate sodium palm kernelate water glycerin vegetable fragrance essential oil blend sodium gluconate butyrospermum parkii shea butter moroccan lava clay xanthan gum palm acid prunus armeniaca apricot kernel oil sodium chloride palm kernel acid aloe barbadensis leaf juice maltodextrin argania spinosa kernel oil rosmarinus officinalis rosemary leaf extract laminaria digitata extract macrocystis pyrifera kelp extract chondrus crispus extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-rhassoul-clay-shampoo-bar/764302227052.html
+
+
+name=Raw Shea Butter Restorative Conditioner
+ ingredients=water stearyl alcohol olea europaea olive fruit oil behentrimonium chloride cetyl alcohol butyrospermum parkii shea butter glyceryl caprylate argania spinosa kernel oil macrocystis pyrifera kelp extract simmondsia chinensis jojoba seed oil daucus carota sativa carrot seed oil hydrolyzed silk hydrolyzed soy protein aloe barbadensis leaf juice panthenol tocopheryl acetate dicaprylyl ether sodium lsostearoyl lactylate sodium benzoate hydroxyethylcellulose glyceryl undecylenate fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280217.html
+
+
+name=Raw Shea Butter Reconstructive Finishing Elixir
+ ingredients=butyrospermum parkii shea butter argan oil vegetable squalene carrot oil macadamia nut oil isopropyl myristate avocado oil castor oil sebacic acid sea kelp extract essential oil blend lonicera caprifolium honeysuckle flower and lonicera japonica japanese honeysuckle flower extract tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-reconstructive-finishing-elixir/764302280231.html
+
+
+name=Raw Shea Butter Moisturizing Detangler
+ ingredients=glycerin vegetable water propanediol cetearyl alcohol behentrimonium methosulfate butyrospermum parkii shea butter argania spinosa kernel oil macrocystis pyrifera kelp extract althaea officinalis root extract ulmus fulva slippery elm bark extract panthenol fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisturizing-detangler/764302280637.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280200.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280910.html
+
+
+name=Raw Shea Butter Moisture Recovery Treatment Masque PKT
+ ingredients=water kaolin bentonite butyrospermum parkii shea butter glycerin vegetable glyceryl caprylate simmondsia chinensis jojoba seed oil rosa canina rosehip seed oil persea gratissima avocado oil allantoin panthenol commiphora myrrha resin extract boswellia carterii resin extract glyceryl undecylenate fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-recovery-treatment-masque-pkt/764302281009.html
+
+
+name=Raw Shea Butter Heatless Curl Stretch Gel
+ ingredients=water caprylic capric triglyceride magnesium aluminum silicate glycerin vegetable glyceryl stearate xanthan gum unum usitatissimum linseed seed oil caprylyl glycol butyrospermum parkii shea butter glyceryl stearate citrate cetearyl alcohol olea europaea olive fruit oil argania spinosa kernel seed passion flower oil pistacia vera pistachio seed oil aloe barbadensis leaf juice sodium phytate hydrolyzed wheat protein mnetha poperita peppermint leaf extract tocopherol caprylhydroxomic acid glyceryl caprylate fragrance essential oil belnd algae extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-heatless-curl-stretch-gel/764302281108.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-brown/764302200468.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-shampoo/764302202042.html
+
+
+name=Manuka Honey Yogurt Hydrate Repair Protein Strong Treatment oz
+ ingredients=water behentrimonium chloride caprylic capric triglyceride hydrogenated castor oil cetearyl alcohol butyrospermum parkii shea butter stearyl alcohol glycerin vegetable honey butyrospermum parkii shea oil yogurt powder yogurt extract cocos nucifera coconut oil simmondsia chinensis jojoba butter hydrogenated jojoba oil adansonia digitata baobab seed oil trichilia emetica mafura seed oil allantoin panthenol hydrolyzed vegetable protein pg propyl silanetriol tocopherol triethyl citrate caprylyl glycol lnulin benzoic acid fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-protein-strong-treatment-2oz/764302231462.html
+
+
+name=Manuka Honey Mafura Oil Twist Defining Custard
+ ingredients=water caprylic capric triglyceride glycerin vegetable glyceryl stearate butyrospermum parkii shea butter helianthus annuus sunflower seed oil cetyl alcohol stearyl alcohol maltodextrin vp copolymer glyceryl stearate citrate cetearyl alcohol glyceryl caprylate argania spinosa kernel argan oil simmondsia chinensis jojoba seed oil cocos nucifera coconut oil theobroma cacao cocoa seed butter trichilia emetica seed mafura butter hydrolyzed keratin honey tocopherol aloe barbadensis leaf juice glyceryl undecylenate fragrance essential oil blend adansonia digitata seed oil ficus carica fig extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-twist-defining-custard/764302231301.html
+
+
+name=Manuka Honey Mafura Oil Bentonite Clay Shampoo Bar
+ ingredients=sodium palmate sodium palm kernelate water glycerin vegetable fragrance essential oil blend sodium gluconate butyrospermum parkii shea butter xanthan gum palm acid bentonite moroccan lava clay cocos nucifera coconut oil sodium chloride kaolinite palm kernel acid adansonia digitata seed oil trichilia emetica seed butter rosmarinus officinalis rosemary leaf extract ficus carica fig fruit extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-bentonite-clay-shampoo-bar/764302227045.html
+
+
+name=Mango Carrot Kids Extra Nourishing Conditioner
+ ingredients=deionized water decyl gluoside coconut oil olea europaea olive fruit oil cocos nucifera coconut oil butyrospermum parkii shea butter sorbitol esters mangifera indica mango seed butter vegetable protein glycine soja soybean oil cetyl alcohol behenetrimonium chloride panthenol pro vitamin b citrus medica limonium lemon citrus aurantifolia lime citrus sinensis orange blossom extract jasminium officinale slippery elm extract proprietary essential oil blend daucus carota sativa carrot seed oil aloe barbadenis leaf extract rosemary extract caprylyl glycol tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mango-and-carrot-kids-extra-nourishing-conditioner/764302905011.html
+
+
+name=Jojoba Oil Ucuuba Butter Braid Up Conditioning Gel
+ ingredients=water glycerin vegetable magnesium aluminum silicate butyrospermum parkii shea butter simmondsia chinese jojoba seed oil virola sebirefa nut oil daucus carota sativa carrot seed oil arctium lappa root extract aloe barabadensis leaf juice panthenol hydrolyzed vegetable protein pg propyl silanetriol xanthan gum sodium benzoate gluconolactone fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-conditioning-gel/764302261223.html
+
+
+name=Jojoba Oil Ucuuba Butter Braid Up Take Down Detangler
+ ingredients=water glycerin vegetable propanediol cetearyl alcohol behentrimonium methosulfate butyrospermum parkii shea butter simmondsia chinensis jojoba seed oil virola sebifera nut oil daucus carota sativa carrot seed oil arctium lappa root extract ricinus communis castor seed oil cocos nucifera coconut oil vitis vinifera grape seed oil panthenol fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-and-take-down-detangler/764302261216.html
+
+
+name=Jamaican Black Castor Oil Strengthen Restore Styling Lotion
+ ingredients=water aqua hydroxypropyl trimonium hydrolyzed corn starch cetearyl alcohol oat beta glucan hydrolyzed vegetable protein pg propyl silanetriol prunus armeniaca apricot kernel oil olea europaea olive fruit oil lnulin behentrimonium chloride stearyl dihydroxypropyldimonium oligosaccharides behenyl alcohol ricinus communis castor seed oil butyrospermum parkii shea butter niacin vinegar polyglyceryl stearate glycerin simmondsia chinensis jojoba seed oil stearyl alcohol panthenol yeast extract glyceryl caprylate mentha piperita peppermint leaf extract guar hydroxypropyltimonium chloride glyceryl undecylenate diheptyl succinate sodium phytate capryloyl glycerin sebacic acid copolymer citric acid granular mauritia flexuosa fruit oil hydrolyzed keratin fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-styling-lotion/764302215523.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215837.html
+
+
+name=Jamaican Black Castor Oil Strengthen Restore Oil Serum
+ ingredients=carthamus tinctorius safflower seed oil isopropyl myristate ricinus communis castor seed oil butyrospermum parkii shea butter olea europaea olive fruit oil macadamia ternifolia seed oil fragrance niacin daucus carota sativa carrot seed oil hydrolyzed keratin tocopherol mentha piperita peppermint leaf extract yeast extract mauritia flexuosa fruit oil
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-oil-serum/764302215530.html
+
+
+name=Jamaican Black Castor Oil Strengthen Restore Max Hold Gel
+ ingredients=water corn syrup glycerin vegetable magnesium aluminum silicate butyrospermum parkii shea butter ricinus communis castor seed oil mentha piperita peppermint leaf extract xanthan gum triethyl citrate caprylyl glycol benzoic acid fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-max-hold-gel/764302215912.html
+
+
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE LEAVE IN CONDITIONER OZ
+ ingredients=water ricinus communis castor seed oil stearyl alcohol cetyl alcohol behentrimonium chloride butyrospermum parkii shea butter cocos nucifera coconut oil dicaprylyl ether panthenol hydrolyzed rice protein simmondsia chinensis jojoba seed oil hydrolyzed keratin hydroxyethylcellulose adansonia digitata baobab seed oil glycerin vegetable aloe barbadensis leaf juice macadamia ternifolia seed oil mauritia flexuosa fruit buriti oil vinegar mentha piperita peppermint leaf extract trifolium pratense clover flower extract niacin tocopheryl acetate hydrolyzed vegetable protein pg propyl silanetriol yeast extract caprylyl glycol caprylhydroxamic acid fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner-8oz/764302215707.html
+
+
+name=Jamaican Black Castor Oil Strengthen Restore Conditioning Design Foam
+ ingredients=water maltodextrin vp copolymer cocamidopropyl betaine coconut oil glycerin vegetable polyquaternium panthenol cocos nucifera coconut fruit juice mentha piperita peppermint leaf extract ricinus communis castor seed oil butyrospermum parkii shea butter tocopheryl acetate sodium benzoate gluconolactone fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-conditioning-design-foam/764302215936.html
+
+
+name=Jamaican Black Castor Oil Rinse Out Conditioner
+ ingredients=water butyrospermum parkii shea butter cocos nucifera coconut oil stearyl alcohol cetyl alcohol fragrance essential oil blend behentrimonium chloride hydroxyethylcellulose panthenol mentha piperita peppermint leaf extract glycerin vegetable simmondsia chinensis jojoba seed oil macadamia ternifolia seed oil ricinus communis castor seed oil hydrolyzed keratin mauritia flexuosa fruit oil yeast extract tocopherol aloe barbadensis leaf juice hydrolyzed vegetable protein pg propyl silanetriol trifolium pratense clover flower extract hydrolyzed rice protein vinegar niacin caprylhydroxamic acid caprylyl glycol caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-rinse-out-conditioner/764302215592.html
+
+
+name=Jamaican Black Castor Oil Bentonite Clay Shampoo Bar
+ ingredients=sodium palmate sodium palm kernelate water glycerin vegetable fragrance essential oil blend sodium gluconate butyrospermum parkii shea butter xanthan gum palm acid bentonite moroccan lava clay ricinus communis castor seed oil sodium chloride palm kernel acid pyrus malus apple fruit extract mentha piperita peppermint leaf extract rosmarinus officinalis rosemary leaf extract acetic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-bentonite-clay-shampoo-bar/764302227038.html
+
+
+name=Green Coconut Activated Charcoal Purifying Hydrating Lite Conditioner
+ ingredients=water butyrospermum parkii shea butter cetearyl alcohol cocos nucifera coconut oil glyceryl stearate cetrimonium chloride stearyl alcohol glycerin vegetable caprylic caprictriglyceride fragrance essential oil blend butyrospermum parkii shea butter cocos nucifera coconut fruit juice charcoal powder panthenol allantoin camellia sinensis leaf extract melissa officinalis leaf extract mannitol cellulose hydroxypropyl methylcellulose tocopherol triethyl citrate benzoic acid caprylic capric triglyceride iron oxides certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-lite-conditioner/764302208129.html
+
+
+name=Green Coconut Activated Charcoal Purifying Hydrating Build Up Blaster
+ ingredients=water sorbitan oleate decylglucoside crosspolymer butyrospermum parkii shea butter cocos nucifera coconut fruit juice charcoal powder melissa officinalis leaf extract althaea officinalis root extract equisetum arvense extract camellia sinensis leaf extract salix nigra willow bark extract chamomile recutita matricaria flower extract panthenol allantoin glycerin vegetable caprylic capric triglyceride gluconolactone sodium benzoate propanediol fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-build-up-blaster/764302208105.html
+
+
+name=Coconut Custard Make It Last Wash N Go Shampoo
+ ingredients=water decyl glucoside sodium lauroyl lactylate cocamidopropyl betaine cetyl alcohol stearic acid sodium cocoyl lsethionate propanediol fragrance essential oil blend butyrospermum parkii shea butter cocos nucifera coconut oil glycerin vegetable guar hydroxypropyltrimonium chloride hydroxypropyltrimonium hydrolyzed corn starch garcinia lndica kokum seed butter olea europaea olive fruit oil hydrolyzed pea protein panthenol cocos nucifera coconut fruit juice prunus amygdalus dulcis sweet almond oil hydrolyzed wheat protein adansonia digitata baobab seed oil acacia senegal gum extract hydrolyzed wheat starch simmondsia chinensis jojoba seed oil cocos nucifera coconut fruit extract acacia senegal gum tapioca maltodextrin tocopherol biotin triethyl citrate caprylyl glycol benzoic acid sodium benzoate certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-shampoo/764302271420.html
+
+
+name=Coconut Custard Make It Last Wash N Go Defining Gel Oil
+ ingredients=water glycerin vegetable propanediol hydroxypropyltrimonium hydrolyzed starch carrageenan xanthan gum cocos nucifera coconut fruit juice hydrolyzed pea protein butyrospermum parkii shea butter cocos nucifera coconut oil garcinia lndica kokum seed butter prunus amygdalus dulcis sweet almond oil adansonia digitata baobab seed oil helianthus annuus sunflower seed oil cocos nucifera coconut fruit extract acacia senegal gum extract hydrolyzed wheat protein hydrolyzed wheat starch tapioca maltodextrin acacia senegal gum triethyl citrate caprylyl glycol benzoic acid sodium benzoate fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-defining-gel-oil/764302271406.html
+
+
+name=Coconut Custard Make It Last Wash N Go Curl Revival Oil
+ ingredients=caprylic capric triglyceride carthamus tinctorius safflower seed oil vitis vinifera grape seed oil heptyl undecylenate olea europaea olive fruit oil tocopheryl acetate adansonia digitata baobab seed oil butyrospermum parkii shea butter cannabis sativa hemp seed oil cocos nucifera coconut oil garcinia lndica kokum seed butter hydrolyzed adansonia digitata baobab seed extract cocos nucifera coconut fruit extract acacia senegal gum extract tapioca maltodextrin acacia senegal gum hydroxypropyltrimonium hydrolyzed corn starch cocos nucifera coconut fruit juice hydrolyzed pea protein fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-curl-revival-oil/764302271437.html
+
+
+name=Coconut Custard Make It Last Wash N Go Conditioner
+ ingredients=water butyrospermum parkii shea butter cocos nucifera coconut oil glyceryl stearate cetearyl alcohol glycerin vegetable cetyl alcohol stearyl alcohol behentrimonium chloride fragrance essential oil blend panthenol cocos nucifera coconut fruit juice hydroxypropyltrimonium hydrolyzed corn starch garcinia lndica kokum seed butter hydrolyzed pea protein adansonia digitata baobab seed oil prunus amygdalus dulcis sweet almond oil hydrolyzed wheat protein guar hydroxypropyltrimonium chloride cetrimonium chloride tocopheryl acetate hydrolyzed wheat starch cocos nucifera coconut fruit extract acacia senegal gum extract tapioca maltodextrin acacia senegal gum biotin triethyl citrate caprylyl glycol benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-conditioner/764302271413.html
+
+
+name=Coconut Hibiscus Rhassoul Clay Shampoo Bar
+ ingredients=sodium palmate sodium palm kernelate water glycerin vegetable fragrance essential oil blend sodium gluconate butyrospermum parkii shea butter moroccan lava clay xanthan gum palm acid bentonite cocos nucifera coconut oil sodium chloride palm kernel acid cocos nucifera coconut shell powder melia azadirachta seed oil hibiscus sabdariffa flower extract rosmarinus officinalis rosemary leaf extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-rhassoul-clay-shampoo-bar/764302227021.html
+
+
+name=Coconut Hibiscus Kids Extra Moisturizing Detangler
+ ingredients=deionized water cocos nucifera coconut oil butyrospermum parkii shea butter vegetable glycerine simmondsia chinensis jojoba oil hibiscus flower extract citrus medica limonium citrus aurantifolia jasminium officinale slippery elm extract essential oil blend behentrimonium chloride conditioning salt algae extract hyssopus officinalis extract salvia officinalis sage leaf and equisetum arvense extract althaea officinalis extract tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-extra-moisturizing-detangler/764302905028.html
+
+Adding New Retailer
+['https://www.sheamoisture.com/hair']
+{'name': '/html/body/div[1]/div[2]/div[3]/div[3]/h2/text()', 'url': '//*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href', 'ingredients': '/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()', 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': 'sz=500', 'extra': ['start=0']}
+Shea Moisture: https://www.sheamoisture.com  added
+Shea Moisture: https://www.sheamoisture.com
+ 
+ starting url:  https://www.sheamoisture.com/hair
+total number products: %s 223
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-conditioner/764302263029.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280200.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280910.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-brown/764302200468.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-shampoo/764302202042.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215837.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Kids In Curl Shine Shampoo Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-2-in-1-curl-and-shine-shampoo-and-conditioner/764302905141.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Curl Shine Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---10.3-oz/764302290452.html
+
+
+Error occured %s list index out of range
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215790.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo-10.3oz/764302216131.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Conditioner OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner-10.3oz/764302216148.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Curl Enhancing Smoothie OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz/764302290476.html
+
+
+Error occured %s list index out of range
+Error occured %s list index out of range
+Error occured %s list index out of range
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-blonde/764302200512.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Wash Go Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-wash-and-go-shampoo/764302201434.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-leave-in-detangler/764302201397.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Frizz Taming Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-frizz-taming-smoothie/764302201373.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Twist Lock Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-twist-and-lock-gel/764302263128.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-hair-masque/764302263043.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Curl Defining Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-curl-defining-smoothie/764302263098.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Clarifying Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-clarifying-shampoo/764302263012.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Shampoo fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo-10.3-fl-oz/764302265115.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo/764302265009.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-hair-masque/764302265023.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Conditioner fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner-10.3-fl-oz/764302265122.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner/764302265016.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Styling Gel cream
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-styling-gel-cream/764302216223.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo/764302216308.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Hold Mist
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-hold-mist/764302216179.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner/764302216315.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Soft Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---soft-black/764302200444.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Chestnut Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-chestnut-brown/764302200536.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-brown/764302200529.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-blonde/764302200505.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-auburn/764302200499.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Jet Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---jet-black/764302200420.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-brown/764302200451.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-blonde/764302200475.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-auburn/764302200482.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Bright Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---bright-auburn/764302200437.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Styling Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-styling-gel/764302202035.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-masque/764302202066.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Finishing Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-finishing-elixir/764302202004.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Co Wash
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-co-wash/764302202028.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-hair-masque/764302215714.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Baobab Tea Tree Oils Low Porosity Protein Free Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-shampoo/764302202011.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Baobab Tea Tree Oils Low Porosity Protein Free Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-conditioner/764302202059.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Hair Scalp Gentle Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-hair-and-scalp-gentle-shampoo/764302214502.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Scalp Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-scalp-elixir/764302214533.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Hair Scalp Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-leave-in-detangler/764302214526.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Hair Scalp Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-conditioner/764302214519.html
+
+
+number successfully scraped: %s  223
+Adding New Retailer
+['https://www.sheamoisture.com/hair']
+{'name': '/html/body/div[1]/div[2]/div[3]/div[3]/h2/text()', 'url': '//*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href', 'ingredients': '/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()', 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': 'sz=500', 'extra': ['start=0']}
+ 
+ starting url:  https://www.sheamoisture.com/hair
+total number products: %s
+
+ 223
+Adding New Retailer
+['https://www.sheamoisture.com/hair']
+{'name': '/html/body/div[1]/div[2]/div[3]/div[3]/h2/text()', 'url': '//*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href', 'ingredients': '/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()', 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': 'sz=500', 'extra': ['start=0']}
+ 
+ starting url:  https://www.sheamoisture.com/hair
+total number products: %s
+
+ 223
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-conditioner/764302263029.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280200.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280910.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-brown/764302200468.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-shampoo/764302202042.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215837.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Kids In Curl Shine Shampoo Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-2-in-1-curl-and-shine-shampoo-and-conditioner/764302905141.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Curl Shine Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---10.3-oz/764302290452.html
+
+
+Error occured %s list index out of range
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215790.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo-10.3oz/764302216131.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Conditioner OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner-10.3oz/764302216148.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Hibiscus Curl Enhancing Smoothie OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz/764302290476.html
+
+
+Error occured %s list index out of range
+Error occured %s list index out of range
+Error occured %s list index out of range
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-blonde/764302200512.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Wash Go Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-wash-and-go-shampoo/764302201434.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-leave-in-detangler/764302201397.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=SuperFruit Multi Vitamin Frizz Taming Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-frizz-taming-smoothie/764302201373.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Twist Lock Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-twist-and-lock-gel/764302263128.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-hair-masque/764302263043.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Curl Defining Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-curl-defining-smoothie/764302263098.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Sacha Inchi Oil Omega Rescue Repair Clarifying Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-clarifying-shampoo/764302263012.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Shampoo fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo-10.3-fl-oz/764302265115.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo/764302265009.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-hair-masque/764302265023.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Conditioner fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner-10.3-fl-oz/764302265122.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Raw Shea Cupuau Frizz Defense Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner/764302265016.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Styling Gel cream
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-styling-gel-cream/764302216223.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo/764302216308.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Hold Mist
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-hold-mist/764302216179.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peace Rose Oil Complex Nourish Silken Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner/764302216315.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Soft Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---soft-black/764302200444.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Chestnut Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-chestnut-brown/764302200536.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Medium Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-brown/764302200529.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-blonde/764302200505.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Light Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-auburn/764302200499.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Jet Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---jet-black/764302200420.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-brown/764302200451.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-blonde/764302200475.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Dark Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-auburn/764302200482.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Moisture Rich Color Crme Bright Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---bright-auburn/764302200437.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Styling Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-styling-gel/764302202035.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-masque/764302202066.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Finishing Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-finishing-elixir/764302202004.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Co Wash
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-co-wash/764302202028.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Jamaican Black Castor Oil Strengthen Restore Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-hair-masque/764302215714.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Baobab Tea Tree Oils Low Porosity Protein Free Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-shampoo/764302202011.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Baobab Tea Tree Oils Low Porosity Protein Free Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-conditioner/764302202059.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Hair Scalp Gentle Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-hair-and-scalp-gentle-shampoo/764302214502.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Scalp Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-scalp-elixir/764302214533.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Hair Scalp Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-leave-in-detangler/764302214526.html
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=African Water Mint Ginger Detox Refresh Hair Scalp Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-conditioner/764302214519.html
+
+
+number successfully scraped: %s  173

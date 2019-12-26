@@ -7,7 +7,7 @@ seed https://www.sheamoisture.com/hair
 XPATHS
 xname /html/body/div[1]/div[2]/div[3]/div[3]/h2/text()
 xurl //*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href
-xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()
+xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text() /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text() 
 # ximg //*[@id="slick-slide00"]/div/img/@src
 # xnext //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
 

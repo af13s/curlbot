@@ -2,7 +2,7 @@
 import os
 import boto3
 
-AWS_ACCESS_KEY_ID =os.environ["AWS_ACCESS_KEY_ID"]
+AWS_ACCESS_KEY_ID = os.environ["AWS_ACCESS_KEY_ID"]
 AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
 REGION_NAME='us-west-1'
 
@@ -78,11 +78,14 @@ class database:
         result = table.scan()
 
 	    # result = json.loads(result["Items"])
+        with table.batch_writer() as batch:
+            for obj in result["Items"]:
+                batch.delete_item(Key={
+                    key_var: obj["product_name"],
+                    range_var: obj["brand_name"]
+                })
 
-        for obj in result["Items"]:
-            deleteEvent(obj[key_var],obj[range_var])
-
-        print("Events Deleted")
+        print(tablename, "cleared")
     
     @staticmethod
     def add_table_entry(tablename, item):
