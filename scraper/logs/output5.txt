@@ -1,0 +1,304 @@
+Adding New Retailer
+['https://www.camillerose.com/collections/cleanse?page=1', 'https://www.camillerose.com/collections/cleanse?page=2', 'https://www.camillerose.com/collections/hair-butters?page=1', 'https://www.camillerose.com/collections/hair-butters?page=2', 'https://www.camillerose.com/collections/conditioners?page=1', 'https://www.camillerose.com/collections/conditioners?page=2', 'https://www.camillerose.com/collections/deep-conditioners?page=1', 'https://www.camillerose.com/collections/deep-conditioners?page=2', 'https://www.camillerose.com/collections/hair-oils?page=1', 'https://www.camillerose.com/collections/hair-oils?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=1']
+{'name': ['/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()'], 'url': ['//*[@id]/main/div[1]/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div/div[1]/a/@href'], 'ingredients': ['//*[@class="product_acc_right"]/p/text()[contains(.,\'Ingredients\')]'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+ 
+ starting url:  https://www.camillerose.com/collections/cleanse?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  6
+ 
+ starting url:  https://www.camillerose.com/collections/cleanse?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  6
+ 
+ starting url:  https://www.camillerose.com/collections/hair-butters?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Aloe Whipped Butter Gel Travel Size
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel-travel-size
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  5
+ 
+ starting url:  https://www.camillerose.com/collections/hair-butters?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Aloe Whipped Butter Gel Travel Size
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel-travel-size
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  5
+ 
+ starting url:  https://www.camillerose.com/collections/conditioners?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Penetrating Hair Treatment
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  5
+ 
+ starting url:  https://www.camillerose.com/collections/conditioners?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Penetrating Hair Treatment
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  5
+ 
+ starting url:  https://www.camillerose.com/collections/deep-conditioners?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Penetrating Hair Treatment
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Her Essentials Collection Bundle
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/her-essentials-collection-bundle
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  4
+ 
+ starting url:  https://www.camillerose.com/collections/deep-conditioners?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Penetrating Hair Treatment
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Her Essentials Collection Bundle
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/her-essentials-collection-bundle
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  4
+ 
+ starting url:  https://www.camillerose.com/collections/hair-oils?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  6
+ 
+ starting url:  https://www.camillerose.com/collections/hair-oils?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  6
+ 
+ starting url:  https://www.camillerose.com/collections/leave-ins-detanglers?page=2
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Collection
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-collection
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Duo
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-duo
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  4
+ 
+ starting url:  https://www.camillerose.com/collections/leave-ins-detanglers?page=1
+total number products:  6
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Collection
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-collection
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Coconut Water Duo
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-duo
+
+
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+//*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+/html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+number successfully scraped:  4

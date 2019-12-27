@@ -1152,8 +1152,8 @@ name=Baobab Tea Tree Oils Low Porosity Protein Free Shampoo
  Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
 name=Baobab Tea Tree Oils Low Porosity Protein Free Conditioner
  ingredients=
- brand=Shea Moisture
- url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-conditioner/764302202059.html
+ brand=Shea Moistu
+
 
 
 

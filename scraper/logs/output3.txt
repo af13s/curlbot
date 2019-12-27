@@ -1,0 +1,179 @@
+Adding New Retailer
+['https://themanechoice.com/collections/pre-poo', 'https://themanechoice.com/collections/shampoo', 'https://themanechoice.com/collections/co-wash', 'https://themanechoice.com/collections/conditioner', 'https://themanechoice.com/collections/detangler-leave-in', 'https://themanechoice.com/collections/treatments', 'https://themanechoice.com/collections/styler']
+{'name': ['//*[@id="PageContainer"]/main/div/div/div/div[2]/h1/text()'], 'url': ['//*[@id="collection-main"]/div[1]/div/div/p[1]/a/@href'], 'ingredients': ['/html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/text()', '/html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/p/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+Adding New Retailer
+['https://mielleorganics.com/collections/hair?page=1', 'https://mielleorganics.com/collections/hair?page=2']
+{'name': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/h2/text()'], 'url': ['//*[@id="shopify-section-collection-template"]/div/div[5]/div[1]/div/div/a/@href'], 'ingredients': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/div[5]/p[3]/text()[2]', '//*[@id="tab3"]/p[1]/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+ 
+ starting url:  https://themanechoice.com/collections/pre-poo
+total number products:  5
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/pre-poo/products/proceed-with-caution-collection
+
+
+number successfully scraped:  4
+ 
+ starting url:  https://themanechoice.com/collections/shampoo
+total number products:  12
+number successfully scraped:  12
+ 
+ starting url:  https://themanechoice.com/collections/co-wash
+total number products:  4
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/co-wash/products/proceed-with-caution-collection
+
+
+number successfully scraped:  3
+ 
+ starting url:  https://themanechoice.com/collections/conditioner
+total number products:  12
+number successfully scraped:  12
+ 
+ starting url:  https://themanechoice.com/collections/detangler-leave-in
+total number products:  11
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/prickly-pear-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/proceed-with-caution-collection
+
+
+number successfully scraped:  9
+ 
+ starting url:  https://themanechoice.com/collections/treatments
+total number products:  12
+number successfully scraped:  12
+ 
+ starting url:  https://themanechoice.com/collections/styler
+total number products:  12
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/hair-typ-4-leaf-clover-collection
+
+
+number successfully scraped:  11
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=1
+total number products:  24
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Babassu Conditioning Sulfate Free Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/babassu-oil-conditioning-sulfate-free-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Edge Gel
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-edge-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Hair Masque
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-hair-masque
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Multivitamin Daily Styling Crme
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-multi-vitamin-daily-styling-creme
+
+
+number successfully scraped:  19
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=2
+total number products:  24
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Babassu Conditioning Sulfate Free Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/babassu-oil-conditioning-sulfate-free-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Edge Gel
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-edge-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Hair Masque
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-strengthening-hair-masque
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Multivitamin Daily Styling Crme
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com/collections/hair/products/rosemary-mint-multi-vitamin-daily-styling-creme
+
+
+number successfully scraped:  19

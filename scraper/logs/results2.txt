@@ -1,0 +1,2015 @@
+Adding New Retailer
+['https://www.sheamoisture.com/hair']
+{'name': ['/html/body/div[1]/div[2]/div[3]/div[3]/h2/text()'], 'url': ['//*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href'], 'ingredients': ['/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text()', '/html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': 'sz=500', 'extra': ['start=0']}
+ 
+ starting url:  https://www.sheamoisture.com/hair
+total number products:  223
+
+
+ Error occured msg=%s 
+name=Yucca Plantain Anti Breakage Strengthening Shampoo
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, glycol stearate, guar hydroxypropyltrimonium chloride, panthenol, stearamide amp, butyrospermum parkii shea butter , adansonia digitata seed oil, aloe barbadensis leaf juice, fragrance essential oil blend , yucca brevifolia root extract, coriandrum sativum coriander extract, plantain musa paradisiaca extract, hydrolyzed rice protein, glycerin vegetable , caprylhydroxamic acid, caprylyl glycol, sodium benzoate, potassium sorbate, citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-shampoo/764302210207.html
+
+
+
+
+ Error occured msg=%s 
+name=Yucca Plantain Anti Breakage Frizz Free Shine Mist
+ ingredients=coco caprylate, diheptyl succinate, isoamyl laurate, cocos nucifera coconut oil, prunus amygdalis dulcis sweet almond oil, argania spinosa kernel oil argan , simmondsia chinensis jojoba seed oil , butyrospermum parkii shea butter , olea europaea olive fruit oil, vinis vinifera grape seed oil, brassica campestris aleurites fordi oil copolymer, persea gratissima avocado oil , hydrolyzed rice protein, plantain musa paradisiaca extract , yucca brevifolia root extract, capryloyl glycerin sebacic acid copolymer, coriandrum sativum coriander extract, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-frizz-free-shine-mist/764302210221.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Styler Leave In Treatment
+ ingredients=water, cetearyl alcohol, glycerin vegetable , caprylic capric triglyceride, dicaprylyl ether, polyquaternium , panthenol, behentrimonium methosulfate, limnanthes alba meadowfoam seed oil, ricinus communis castor seed oil, butyrospermum parkii shea butter , saccharum officinarum extract, citrus aurantium dulcis orange peel extract, camellia sinensis green tea leaf extract, althaea officinalis root extract, triethyl citrate, caprylyl glycol, benzoic acid, polyquaternium , hydroxyethylcellulose, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-styler-leave-in-treatment/764302190349.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Strobe Shine Spray
+ ingredients=water, sd alcohol b, cinnamidopropyltrimonium chloride, butyrospermum parkii shea butter , althaea officinalis root extract, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, iron oxide, titanium dioxide, mica, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-strobe-shine-spray/764302190417.html
+
+
+
+
+ Error occured msg=%s 
+name=Sacha Inchi Oil Omega Rescue Repair Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-conditioner/764302263029.html
+
+
+
+
+ Error occured msg=%s 
+name=Red Palm Oil Cocoa Butter Rinse Out or Leave In Conditioner
+ ingredients=water, butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium chloride, elaeis guineensis palm oil, panthenol, fragrance essential oil blend , cetrimonium chloride, caprylic capric triglyceride, hydroxyethylcellulose, glycerin vegetable , theobroma cacao cocoa seed butter, equisetum arvense extract, glycyrrhiza glabra licorice root extract, linum usitatissimum linseed seed oil, camellia sinensis green tea leaf extract, aloe barbadensis leaf juice, tocopherol, sodium benzoate, triethyl citrate, caprylyl glycol, benzoic acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-rinse-out-or-leave-in-conditioner/764302226031.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Rhassoul Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , moroccan lava clay, xanthan gum, palm acid, prunus armeniaca apricot kernel oil, sodium chloride, palm kernel acid, aloe barbadensis leaf juice, maltodextrin, argania spinosa kernel oil, rosmarinus officinalis rosemary leaf extract, laminaria digitata extract, macrocystis pyrifera kelp extract, chondrus crispus extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-rhassoul-clay-shampoo-bar/764302227052.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Restorative Conditioner
+ ingredients=water, stearyl alcohol, olea europaea olive fruit oil, behentrimonium chloride, cetyl alcohol, butyrospermum parkii shea butter , glyceryl caprylate, argania spinosa kernel oil, macrocystis pyrifera kelp extract, simmondsia chinensis jojoba seed oil, daucus carota sativa carrot seed oil, hydrolyzed silk, hydrolyzed soy protein, aloe barbadensis leaf juice, panthenol, tocopheryl acetate, dicaprylyl ether, sodium lsostearoyl lactylate, sodium benzoate, hydroxyethylcellulose, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280217.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Reconstructive Finishing Elixir
+ ingredients=butyrospermum parkii shea butter , argan oil, vegetable squalene, carrot oil, macadamia nut oil, isopropyl myristate, avocado oil, castor oil, sebacic acid, sea kelp extract, essential oil blend, lonicera caprifolium honeysuckle flower and lonicera japonica japanese honeysuckle flower extract, tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-reconstructive-finishing-elixir/764302280231.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisturizing Detangler
+ ingredients=glycerin vegetable , water, propanediol, cetearyl alcohol, behentrimonium methosulfate, butyrospermum parkii shea butter, argania spinosa kernel oil, macrocystis pyrifera kelp extract, althaea officinalis root extract, ulmus fulva slippery elm bark extract, panthenol, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisturizing-detangler/764302280637.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280200.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisture Retention Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-retention-shampoo/764302280910.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisture Recovery Treatment Masque PKT
+ ingredients=water, kaolin, bentonite, butyrospermum parkii shea butter , glycerin vegetable , glyceryl caprylate, simmondsia chinensis jojoba seed oil, rosa canina rosehip seed oil, persea gratissima avocado oil, allantoin, panthenol, commiphora myrrha resin extract, boswellia carterii resin extract, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-recovery-treatment-masque-pkt/764302281009.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Heatless Curl Stretch Gel
+ ingredients=water, caprylic capric triglyceride, magnesium aluminum silicate, glycerin vegetable , glyceryl stearate, xanthan gum, unum usitatissimum linseed seed oil, caprylyl glycol, butyrospermum parkii shea butter, glyceryl stearate citrate, cetearyl alcohol, olea europaea olive fruit oil, argania spinosa kernel seed passion flower oil, pistacia vera pistachio seed oil, aloe barbadensis leaf juice, sodium phytate, hydrolyzed wheat protein, mnetha poperita peppermint leaf extract, tocopherol, caprylhydroxomic acid, glyceryl caprylate, fragrance essential oil belnd , algae extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-heatless-curl-stretch-gel/764302281108.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Light Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-brown/764302200468.html
+
+
+
+
+ Error occured msg=%s 
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-shampoo/764302202042.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Protein Strong Treatment oz
+ ingredients=water, behentrimonium chloride, caprylic capric triglyceride, hydrogenated castor oil, cetearyl alcohol, butyrospermum parkii shea butter , stearyl alcohol, glycerin vegetable , honey, butyrospermum parkii shea oil, yogurt powder, yogurt extract, cocos nucifera coconut oil, simmondsia chinensis jojoba butter, hydrogenated jojoba oil, adansonia digitata baobab seed oil, trichilia emetica mafura seed oil, allantoin, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, tocopherol, triethyl citrate, caprylyl glycol, lnulin, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-protein-strong-treatment-2oz/764302231462.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Twist Defining Custard
+ ingredients=water, caprylic capric triglyceride, glycerin vegetable , glyceryl stearate, butyrospermum parkii shea butter , helianthus annuus sunflower seed oil, cetyl alcohol, stearyl alcohol, maltodextrin vp copolymer, glyceryl stearate citrate, cetearyl alcohol, glyceryl caprylate, argania spinosa kernel argan oil, simmondsia chinensis jojoba seed oil, cocos nucifera coconut oil, theobroma cacao cocoa seed butter, trichilia emetica seed mafura butter, hydrolyzed keratin, honey, tocopherol, aloe barbadensis leaf juice, glyceryl undecylenate, fragrance essential oil blend , adansonia digitata seed oil, ficus carica fig extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-twist-defining-custard/764302231301.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Bentonite Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , xanthan gum, palm acid, bentonite, moroccan lava clay, cocos nucifera coconut oil, sodium chloride, kaolinite, palm kernel acid, adansonia digitata seed oil, trichilia emetica seed butter, rosmarinus officinalis rosemary leaf extract, ficus carica fig fruit extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-bentonite-clay-shampoo-bar/764302227045.html
+
+
+
+
+ Error occured msg=%s 
+name=Mango Carrot Kids Extra Nourishing Conditioner
+ ingredients=deionized water, decyl gluoside coconut oil , olea europaea olive fruit oil , cocos nucifera coconut oil , butyrospermum parkii shea butter , sorbitol esters, mangifera indica mango seed butter , vegetable protein, glycine soja soybean oil, cetyl alcohol, behenetrimonium chloride, panthenol pro vitamin b , citrus medica limonium lemon , citrus aurantifolia lime , citrus sinensis orange blossom extract, jasminium officinale, slippery elm extract, proprietary essential oil blend, daucus carota sativa carrot seed oil, aloe barbadenis leaf extract, rosemary extract, caprylyl glycol, tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mango-and-carrot-kids-extra-nourishing-conditioner/764302905011.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter Braid Up Conditioning Gel
+ ingredients=water, glycerin vegetable , magnesium aluminum silicate, butyrospermum parkii shea butter, simmondsia chinese jojoba seed oil, virola sebirefa nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, aloe barabadensis leaf juice, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, xanthan gum, sodium benzoate, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-conditioning-gel/764302261223.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter Braid Up Take Down Detangler
+ ingredients=water, glycerin vegetable , propanediol, cetearyl alcohol, behentrimonium methosulfate, butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, virola sebifera nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, ricinus communis castor seed oil, cocos nucifera coconut oil, vitis vinifera grape seed oil, panthenol, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-braid-up-and-take-down-detangler/764302261216.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Styling Lotion
+ ingredients=water aqua , hydroxypropyl trimonium hydrolyzed corn starch, cetearyl alcohol, oat beta glucan, hydrolyzed vegetable protein pg propyl silanetriol, prunus armeniaca apricot kernel oil, olea europaea olive fruit oil, lnulin, behentrimonium chloride, stearyl dihydroxypropyldimonium oligosaccharides, behenyl alcohol, ricinus communis castor seed oil, butyrospermum parkii shea butter , niacin, vinegar, polyglyceryl stearate, glycerin, simmondsia chinensis jojoba seed oil, stearyl alcohol, panthenol, yeast extract, glyceryl caprylate, mentha piperita peppermint leaf extract, guar hydroxypropyltimonium chloride, glyceryl undecylenate, diheptyl succinate, sodium phytate, capryloyl, glycerin sebacic acid copolymer, citric acid granular, mauritia flexuosa fruit oil, hydrolyzed keratin, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-styling-lotion/764302215523.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215837.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Oil Serum
+ ingredients=carthamus tinctorius safflower seed oil, isopropyl myristate, ricinus communis castor seed oil, butyrospermum parkii shea butter , olea europaea olive fruit oil, macadamia ternifolia seed oil, fragrance, niacin, daucus carota sativa carrot seed oil, hydrolyzed keratin, tocopherol, mentha piperita peppermint leaf extract, yeast extract, mauritia flexuosa fruit oil
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-oil-serum/764302215530.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Conditioning Design Foam
+ ingredients=water, maltodextrin vp copolymer, cocamidopropyl betaine coconut oil , glycerin vegetable , polyquaternium , panthenol, cocos nucifera coconut fruit juice, mentha piperita peppermint leaf extract, ricinus communis castor seed oil, butyrospermum parkii shea butter , tocopheryl acetate, sodium benzoate, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-conditioning-design-foam/764302215936.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Rinse Out Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, stearyl alcohol, cetyl alcohol, fragrance essential oil blend , behentrimonium chloride, hydroxyethylcellulose, panthenol, mentha piperita peppermint leaf extract, glycerin vegetable , simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, ricinus communis castor seed oil, hydrolyzed keratin, mauritia flexuosa fruit oil, yeast extract, tocopherol, aloe barbadensis leaf juice, hydrolyzed vegetable protein pg propyl silanetriol, trifolium pratense clover flower extract, hydrolyzed rice protein, vinegar, niacin, caprylhydroxamic acid, caprylyl glycol, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-rinse-out-conditioner/764302215592.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Bentonite Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , xanthan gum, palm acid, bentonite, moroccan lava clay, ricinus communis castor seed oil, sodium chloride, palm kernel acid, pyrus malus apple fruit extract, mentha piperita peppermint leaf extract, rosmarinus officinalis rosemary leaf extract, acetic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-bentonite-clay-shampoo-bar/764302227038.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating Lite Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cetearyl alcohol, cocos nucifera coconut oil, glyceryl stearate, cetrimonium chloride, stearyl alcohol, glycerin vegetable , caprylic caprictriglyceride, fragrance essential oil blend ,butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, charcoal powder,panthenol, allantoin, camellia sinensis leaf extract, melissa officinalis leaf extract, mannitol, cellulose,hydroxypropyl methylcellulose, tocopherol, triethyl citrate, benzoic acid, caprylic capric triglyceride,iron oxides certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-lite-conditioner/764302208129.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating Build Up Blaster
+ ingredients=water, sorbitan oleate decylglucoside crosspolymer, butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, charcoal powder, melissa officinalis leaf extract, althaea officinalis root extract, equisetum arvense extract, camellia sinensis leaf extract, salix nigra willow bark extract, chamomile recutita matricaria flower extract, panthenol, allantoin, glycerin vegetable , caprylic capric triglyceride, gluconolactone, sodium benzoate, propanediol, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-build-up-blaster/764302208105.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Custard Make It Last Wash N Go Shampoo
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, cocamidopropyl betaine, cetyl alcohol, stearic acid, sodium cocoyl lsethionate, propanediol, fragrance essential oil blend , butyrospermum parkii shea butter , cocos nucifera coconut oil, glycerin vegetable , guar hydroxypropyltrimonium chloride, hydroxypropyltrimonium hydrolyzed corn starch, garcinia lndica kokum seed butter, olea europaea olive fruit oil, hydrolyzed pea protein, panthenol, cocos nucifera coconut fruit juice, prunus amygdalus dulcis sweet almond oil, hydrolyzed wheat protein, adansonia digitata baobab seed oil, acacia senegal gum extract, hydrolyzed wheat starch, simmondsia chinensis jojoba seed oil, cocos nucifera coconut fruit extract, acacia senegal gum, tapioca maltodextrin, tocopherol, biotin, triethyl citrate, caprylyl glycol, benzoic acid, sodium benzoate certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-shampoo/764302271420.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Custard Make It Last Wash N Go Defining Gel Oil
+ ingredients=water, glycerin vegetable , propanediol, hydroxypropyltrimonium hydrolyzed starch, carrageenan, xanthan gum, cocos nucifera coconut fruit juice, hydrolyzed pea protein, butyrospermum parkii shea butter , cocos nucifera coconut oil, garcinia lndica kokum seed butter, prunus amygdalus dulcis sweet almond oil, adansonia digitata baobab seed oil, helianthus annuus sunflower seed oil, cocos nucifera coconut fruit extract, acacia senegal gum extract, hydrolyzed wheat protein, hydrolyzed wheat starch, tapioca maltodextrin, acacia senegal gum, triethyl citrate, caprylyl glycol, benzoic acid, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-defining-gel-oil/764302271406.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Custard Make It Last Wash N Go Curl Revival Oil
+ ingredients=caprylic capric triglyceride, carthamus tinctorius safflower seed oil, vitis vinifera grape seed oil, heptyl undecylenate, olea europaea olive fruit oil, tocopheryl acetate, adansonia digitata baobab seed oil, butyrospermum parkii shea butter , cannabis sativa hemp seed oil, cocos nucifera coconut oil, garcinia lndica kokum seed butter, hydrolyzed adansonia digitata baobab seed extract, cocos nucifera coconut fruit extract, acacia senegal gum extract, tapioca maltodextrin, acacia senegal gum, hydroxypropyltrimonium hydrolyzed corn starch, cocos nucifera coconut fruit juice, hydrolyzed pea protein, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-curl-revival-oil/764302271437.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Custard Make It Last Wash N Go Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, glyceryl stearate, cetearyl alcohol, glycerin vegetable , cetyl alcohol, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , panthenol, cocos nucifera coconut fruit juice, hydroxypropyltrimonium hydrolyzed corn starch, garcinia lndica kokum seed butter, hydrolyzed pea protein, adansonia digitata baobab seed oil, prunus amygdalus dulcis sweet almond oil, hydrolyzed wheat protein, guar hydroxypropyltrimonium chloride, cetrimonium chloride, tocopheryl acetate, hydrolyzed wheat starch, cocos nucifera coconut fruit extract, acacia senegal gum extract, tapioca maltodextrin, acacia senegal gum, biotin, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-conditioner/764302271413.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Rhassoul Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , moroccan lava clay, xanthan gum, palm acid, bentonite, cocos nucifera coconut oil, sodium chloride, palm kernel acid, cocos nucifera coconut shell powder, melia azadirachta seed oil, hibiscus sabdariffa flower extract, rosmarinus officinalis rosemary leaf extract certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-rhassoul-clay-shampoo-bar/764302227021.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Kids Extra Moisturizing Detangler
+ ingredients=deionized water, cocos nucifera coconut oil , butyrospermum parkii shea butter , vegetable glycerine, simmondsia chinensis jojoba oil, hibiscus flower extract, citrus medica limonium, citrus aurantifolia, jasminium officinale, slippery elm extract, essential oil blend, behentrimonium chloride conditioning salt , algae extract, hyssopus officinalis extract, salvia officinalis sage leaf and equisetum arvense extract, althaea officinalis extract, tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-extra-moisturizing-detangler/764302905028.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Kids Curling Butter Cream
+ ingredients=water, glycerin vegetable , cetearyl alcohol, butyrospermum parkii shea butter , cetrimonium chloride, polysorbate , cocos nucifera coconut fruit juice, cocos nucifera coconut oil, oleth , panthenol, tocopheryl acetate, hibiscus rosa sinensis flower extract, melia azadirachta seed oil, aloe barbadensis leaf juice, ulmus fulva slippery elm bark extract, persea gratissima avocado oil, daucus carota sativa carrot seed oil, macadamia ternifolia seed oil, peg , steareth , glyceryl caprylate, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-curling-butter-cream/764302905035.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Kids In Curl Shine Shampoo Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-kids-2-in-1-curl-and-shine-shampoo-and-conditioner/764302905141.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curling Gel Souffl
+ ingredients=aqueous infusion of agave teqilana leaf extract and sugar cane extract, pectin, vegetable glycerin, adansonia digitata pulp baobab extract, cocos nucifera coconut oil , butyrospermum parkii shea butter , panthenol pro vitamin b , aloe barbadensis leaf extract , tocopherol vitamin e vegetable oil source , linum usitatissimum linseed flax seed extract, hibiscus sabdariffa extract, potassium sorbate, proprietary essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curling-gel-souffli/764302290315.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Enhancing Smoothie OZ Tube
+ ingredients=cocos nucifera coconut fruit juice, water, glycerin vegetable , cetearyl alcohol, butyrospermum parkii shea butter , cetrimonium chloride, polysorbate , cocos nucifera coconut oil, oleth , panthenol, peg stearate, steareth , mangifera lndica mango seed butter, persea gratissima avocado oil, macadamia ternifolia seed oil, daucus carota sativa carrot seed oil, aloe barbadensis leaf juice, hydrolyzed silk, hibiscus rosa sinensis flower extract, tocopherol, melia azadirachta seed oil, fragrance essential oil blend , triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz-tube/764302290780.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Shampoo Trial Travel Size
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, sodium lauroyl hydrolyzed silk, cocos nucifera coconut fruit juice, glycol stearate, butyrospermum parkii shea butter , panthenol, tocopherol, stearamide amp, cocos nucifera coconut oil, aloe barbadensis leaf juice, melia azadirachta seed oil, hibiscus rosa sinensis flower extract, rosmarinus officinalis rosemary leaf oil, caprylhydroxamic acid, guar hydroxypropyltrimonium chloride, caprylyl glycol, glycerin vegetable , sodium phytate, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---trial-and-travel-size/764302290711.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Shampoo OZ
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, sodium lauroyl hydrolyzed silk, cocos nucifera coconut fruit juice, glycol stearate, butyrospermum parkii shea butter , panthenol, tocopherol, stearamide amp, cocos nucifera coconut oil, aloe barbadensis leaf juice, melia azadirachta seed oil, hibiscus rosa sinensis flower extract, rosmarinus officinalis rosemary leaf oil, caprylhydroxamic acid, guar hydroxypropyltrimonium chloride, caprylyl glycol, glycerin vegetable , sodium phytate, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---8-oz/764302290735.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo---10.3-oz/764302290452.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Shampoo
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, sodium lauroyl hydrolyzed silk, cocos nucifera coconut fruit juice, glycol stearate, butyrospermum parkii shea butter , panthenol, tocopherol, stearamide amp, cocos nucifera coconut oil, aloe barbadensis leaf juice, melia azadirachta seed oil, hibiscus rosa sinensis flower extract, rosmarinus officinalis rosemary leaf oil, caprylhydroxamic acid, guar hydroxypropyltrimonium chloride, caprylyl glycol, glycerin vegetable , sodium phytate, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-shampoo/764302290209.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Hair Masque
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, glycerin vegetable , butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium methosulfate, cocos nucifera coconut oil, panthenol, behentrimonium chloride, cocos nucifera coconut fruit juice, hydroxyethylcellulose, sodium benzoate, melia azadirachta seed oil, argania spinosa kernel oil, hibiscus rosa sinensis flower extract, tocopherol, hydrolyzed soy protein, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-hair-masque/764302291077.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Hair Masque
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, glycerin vegetable , butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium methosulfate, cocos nucifera coconut oil, panthenol, behentrimonium chloride, cocos nucifera coconut fruit juice, hydroxyethylcellulose, sodium benzoate, melia azadirachta seed oil, argania spinosa kernel oil, hibiscus rosa sinensis flower extract, tocopherol, hydrolyzed soy protein, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-hair-masque/764302291084.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Anti Frizz Max Hold Gel
+ ingredients=water, corn syrup, glycerin vegetable , magnesium aluminum silicate, butyrospermum parkii shea butter , cocos nucifera coconut oil, hibiscus rosa sinensis flower extract, melia azadirachta seed oil, hydrolyzed silk, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-anti-frizz-max-hold-gel/764302291121.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Cactus Water Pump Me Up Volumizing Spray
+ ingredients=water, sorbitan oleate decylglucoside crosspolymer, maltodextrin vp copolymer, polyglyceryl myristate, cetrimonium chloride, cocos nucifera coconut fruit juice, opuntia ficus indica extract, agave tequilana leaf extract, butyrospermum parkii shea butter , panthenol, glycerin vegetable , triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-cactus-water-pump-me-up-volumizing-spray/764302190530.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Cactus Water Pick Me Up Lite Masque
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, butyrospermum parkii shea butter , cetyl alcohol, stearyl alcohol, behentrimonium chloride, glycerin vegetable , cetrimonium chloride, cocos nucifera coconut fruit juice, opuntia ficus lndica extract, agave tequilana leaf extract, cocos nucifera coconut oil, hydrolyzed rice protein, panthenol, tocopheryl acetate, hydroxyethylcellulose, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-cactus-water-pick-me-up-lite-masque/764302190608.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Cactus Water Head In The Clouds Shampoo
+ ingredients=water, sodium lauroyl methyl isethionate, cocamidopropyl betaine, butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, cocos nucifera coconut oil, opuntia ficus indica extract, agave tequilana leaf extract, panthenol, glycerin vegetable , guar hydroxypropyltrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-cactus-water-head-in-the-clouds-shampoo/764302190516.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Cactus Water Head In The Clouds Conditioner
+ ingredients=water, cetrimonium chloride, sorbitan oleate decylglucoside crosspolymer, panthenol, butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, opuntia ficus indica extract, agave tequilana leaf extract, caprylic capric triglyceride, glycerin vegetable , sodium benzoate, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-cactus-water-head-in-the-clouds-conditioner/764302190509.html
+
+
+
+
+ Error occured msg=%s 
+name=African Water Mint Ginger Kaolin Clay Soap
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , kaolin, sodium gluconate, titanium dioxide, palm acid, sodium chloride, butyrospermum parkii shea butter , palm kernel acid, mentha piperita peppermint leaf, zingiber officinale ginger root extract, helianthus annuus sunflower seed oil, mentha aquatica leaf extract, charcoal powder certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-kaolin-clay-soap/764302228011.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bentonite Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , gluconate, sodium shea butterate, coca pod ash, sodium cocoate, moroccan lava clay, carbon, avena sativa oat kernel meal, palm acid, sodium chloride, kaolin, palm kernel acid, bentonite, melaleuca alternifolia tea tree leaf oil, melia azadirachta seed oil, tocopheryl acetate, aloe barbadensis leaf juice, maltodextrin, salix alba willow bark extract, salix ala willow leaf extract, phenoxyethanol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bentonite-clay-shampoo-bar/764302227014.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Scalp Tonic Treatment
+ ingredients=water, hamamelis virginiana witch hazel extract, sorbitan oleate decylglucoside crosspolymer, glycerin vegetable ,lsopropyl alcohol, butyrospermum parkii shea butter , charcoal powder, sodium palm kernelate, sodium shea butterate, sodium cocoate, melaleuca alternifolia tea tree leaf oil, mentha piperita peppermint oil, theobroma cacao cocoa pod ash, salix nigra willow bark extract, iota carrageenan, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-scalp-tonic-treatment/764302271147.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Gelee Moisturizer
+ ingredients=water, glycerin vegetable , magnesium aluminum silicate, crambe abyssinica seed oil, phytosterol esters, caprylic capric triglyceride, aloe barbadensis leaf juice, bisabolol, panthenol, allantoin, charcoal powder, melaleuca alternifolia tea tree leaf oil, butyrospermum parkii shea butter , avena sativa oat bran extract, fragrance essential oil blend , sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, caprylhydroxamic acid, caprylyl glycol, xanthan gum, triethyl citrate, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-gelee-moisturizer/764302270263.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Deep Balancing Conditioner
+ ingredients=water, stearyl alcohol, butyrospermum parkii shea butter , cocos nucifera coconut oil, cetyl alcohol, behentrimonium chloride, panthenol, fragrance essentialoil blend , charcoal powder, melaleuca alternifolia tea tree leaf oil, tocopherol, polyquaternium , macadamia ternifolia seed oil, simmondsia chinensis jojoba seed oil, aloe barbadensis leaf juice, salix nigra willow bark extract, hydroxyethylcellulose, glycerin vegetable , sodium palm kernelate, sodium sheabutterate, sodium cocoate, mannitol, theobroma cacao cocoa pod ash, cellulose, hydroxypropyl methylcellulose, iron oxides, caprylic capric triglyceride, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-deep-balancing-conditioner/764302271062.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Rhassoul Clay Shampoo Bar
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , sodium gluconate, butyrospermum parkii shea butter , xanthan gum, palm acid, bentonite, moroccan lava clay, cocos nucifera coconut oil, sodium chloride, titanium dioxide, palm kernel acid, argania spinosa kernel oil, cocos nucifera coconut fruit powder, prunus amygdalus dulcis sweet almond oil, rosmarinus officinalis rosemary leaf extract, rosa canina fruit oil, acacia senegal gum certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-rhassoul-clay-shampoo-bar/764302227007.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Rehydration Treatment Masque OZ
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, butyrospermum parkii shea butter , glycerin vegetable , stearyl alcohol, cetyl alcohol, behentrimonium methosulfate, panthenol, behentrimonium chloride, caprylic capric triglyceride, cocos nucifera coconut fruit juice, tocopherol, hydrolyzed rice protein, acacia senegal gum extract, cetrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-treatment-masque-%C2%89uo-2oz/764302204640.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Rehydration Hot Oil Treatment Rehydrate Revive
+ ingredients=helianthus annuus sunflower seed oil, pru nus amygdalus dulcis sweet almond oil, fragrance essential oil blend , cocos nucifera coconut oil, tocopheryl acetate, acacia senegal gum extract, butyrospermum parkii shea butter , cocos nucifera coconut fruit extract after fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-hot-oil-treatment-rehydrate-and-revive/764302204848.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Leave in Treatment
+ ingredients=water, glyceryl stearate, glycerin vegetable , caprylic capric triglyceride, cocos nucifera coconut oil, glyceryl caprylate, cetrimonium chloride, butyrospermum parkii shea butter , prunus amygdalus dulcis sweet almond oil, coconut acid, glyceryl stearate citrate, cetearyl alcohol, cocos nucifera coconut fruit extract, algae extract, equisetum arvense horsetail extract, argania spinosa kernel argan oil, rosa canina fruit rosehip oil, tocopherol, urtica dioica nettle leaf extract, acacia senegal gum extract, hydrolyzed keratin, hydrolyzed vegetable protein pg propyl silanetriol, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-leave-in-treatment/764302204213.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Styling Gel
+ ingredients=water, maltodextrin vp copolymer, glycerin vegetable , hydroxypropyltrimonium hydrolyzed corn starch, dehydroxanthan gum, cocos nucifera coconut fruit juice, acacia senegal gum, cocos nucifera coconut oil, butyrospermum parkii shea butter , cocs nucifera coconut fruit extract, acacia senegal gum extract, gluconolactone, methylcellulose, pullulan, sorbitol, trehalose, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingrdient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-styling-gel/764302204831.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, glycol stearate, glycol distearate, sodium cocoyl isethionate, sodium methyl cocoyl taurate, glycerin vegetable , cocos nucifera coconut oil, caprylic capric triglyceride, butyrospernum parkii shea butter , aloe barbadensis leaf juice, panthenol, algae extract, equisetum arvense horsetail extract, tocopherol, rosa canina fruit rosehip oil, argania spinosa kernel argan oil, coconut acid, prunus amygdalus dulcis sweet almond oil, acacia senegal gum extract, cocos nucifera coconut fruit extract, cocos nucifera coconut fruit juice, caprylhydroxamic acid, caprylyl glycol, guar hydroxypropyltrimonium chloride, sodium benzoate, polyquarternium , sodium phytate, stearamide amp, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-shampoo/764302204190.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, glycol stearate, glycol distearate, sodium cocoyl lsethionate, sodium methyl cocoyl taurate, glycerin vegetable , cocos nucifera coconut oil, caprylic capric triglyceride, butyrospermum parkii shea butter , aloe barbadensis leaf juice, panthenol, algae extract, equisetum arvense horsetail extract, tocopherol, rosa canina fruit rosehip oil, argania spinosa kernel argan oil, coconut acid, prunus amygdalus dulcis sweet almond oil, acacia senegal gum extract, cocos nucifera coconut fruit extract, cocos nucifera coconut fruit juice, caprylhydroxamic acid, caprylyl glycol, guar hydroxypropyltrimonium chloride, sodium benzoate, polyquaternium , sodium phytate, stearamide amp, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-shampoo/764302204176.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Conditioner
+ ingredients=water, cetyl alcohol, stearyl alcohol, butyrospermum parkii shea butter , cocos nucifera coconut oil, glycerin vegetable , cetrimonium chloride, cocos nucifera coconut fruit juice, glyceryl caprylate, panthenol, aloe barbadensis leaf juice, rosa canina fruit rosehip oil, argania spinosa kernel argan oil, cocos nucifera coconut fruit extract, coconut acid, acacia senegal gum extract, tocopherol, equisetum arvense horsetail extract, algae extract, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-conditioner/764302204206.html
+
+
+
+
+ Error occured msg=%s 
+name=Purple Rice Water Strength Color Care Shampoo
+ ingredients=water, sodium lauroyl methyl isethionate, cocamidopropyl betaine, glycol distearate, panthenol, melia azadirachta flower extract, coccinia indica fruit extract, butyrospermum parkii shea butter , macadamia ternifolia seed oil, argania spinosa argan kernel oil, simmondsia chinensis jojoba seed oil, oryza sativa rice extract, orchis mascula early purple orchid flower exract, viola odorata violet flower extract, glycerin vegetable , tocopheryl acetate, sodium benzoate, guar hydroxypropyltrimonium chloride, trisodium ethylenediamine disuccinate, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-shampoo/764302315889.html
+
+
+
+
+ Error occured msg=%s 
+name=Purple Rice Water Strength Color Care Primer Styler
+ ingredients=water, caprylic capric triglyceride, glyceryl stearate, behentrimonium chloride, glycerin vegetable , cetyl alcohol, maltodextrin vp copolymer, argania spinosa argan kernel oil, melia azadirachta flower extract, coccinia indica fruit extract, butyrospermum parkii shea butter , oryza sativa rice extract, orchis mascula flower extract, viola odorata violet flower extract, hydrolyzed wheat protein pg propyl silanetriol, benzoic acid, triethyl citrate, caprylyl glycol, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-primer-and-styler/764302229117.html
+
+
+
+
+ Error occured msg=%s 
+name=Purple Rice Water Strength Color Care Masque
+ ingredients=water, caprylic capric triglyceride, cetearyl alcohol, stearyl alcohol, cetyl alcohol, butyrospermum parkii shea butter , theobroma cacao cocoa seed butter, behentrimonium methosulfate, glycerin vegetable , behentrimonium chloride, hydrogenated vegetable oil, macadamia ternifolia seed oil, melia azadirachta flower extract, hydrolyzed rice protein, coccinia indica fruit extract, viola odorata violet flower extract, orchis mascula early purple orchid flower extract, oryza sativa rice extract, tocopheryl acetate, hydroxyethylcellulose, panthenol, cetrimonium chloride, citric acid, benzoic acid, triethyl citrate, caprylyl glycol, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-masque/764302229247.html
+
+
+
+
+ Error occured msg=%s 
+name=Gotu Kola Raspberry Seed Oil Pre Swim Leave In Protection
+ ingredients=water, caprylic capric triglyceride, cetearyl alcohol, stearyl alcohol, cetyl alcohol, butyrospermum parkii shea butter, theobroma cacao cocoa seed butter, behentrimonium methosulfate, behentrimonium chloride, glycerin vegetable , prunusamygdalus dulcis sweet almond oil, hydrogenated vegetable oil, panthenol, cinnamidopropyltrimonium chloride, cetrimonium chloride, centella asiatica gotu kola extract, rubus idaeus raspberry seed oil, tocopherol, hydrolyzed rice protein, glycine soja soybean oil, daucus carota sativa carrot root extract, beta carotene, hydroxyethylcellulose, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/gotu-kola-and-raspberry-seed-oil-pre-swim-leave-in-protection/764302600084.html
+
+
+
+
+ Error occured msg=%s 
+name=Cannabis Sativa Hemp Seed Oil Lush Length Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, glycerin vegetable , gylcol distearate, sodium lauroyl lactylate, propanediol, oleaeuropaea olive fruit oil, cannabis sativa hemp seed oil, butyrospermumparkii shea butter , panax ginseng root extract, equisetum arvense horsetail extract, aloe barbadensis leaf juice, tocopherol, hydrolyzed riceprotein, hydrolyzed soy protein, panthenol, hydrogenated ethylhexyl olivate,hydrogenated olive oil unsaponifiables, guar hydroxypropyltrimoniumchloride, glycine soja soybean oil, sodium benzoate, triethyl citrate,caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-shampoo/764302312659.html
+
+
+
+
+ Error occured msg=%s 
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE SHAMPOO OZ
+ ingredients=water aqua , decyl glucoside, sodium lauroyl lactylate, fragrance essential oil blend , glycerin vegetable , hydrolyzed rice protein, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, guar hydroxypropyltrimonium chloride, butyrospermum parkii shea butter , ricinus communis castor seed oil, mentha piperita peppermint leaf extract, mauritia flexuosa fruit oil, hydrolyzed keratin, tocopherol, aloe barbadensis leaf juice, vinegar, yeast extract, niacin, trifolium pratense clover flower extract, caprylhydroxamic acid, caprylyl glycol, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo-8-oz/764302215691.html
+
+
+
+
+ Error occured msg=%s 
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE CONDITIONER TRIAL TRAVEL SIZE
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, stearyl alcohol, cetyl alcohol, fragrance essential oil blend , behentrimonium chloride, hydroxyethylcellulose, panthenol, mentha piperita peppermint leaf extract, glycerin vegetable , simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, ricinus communis castor seed oil, hydrolyzed keratin, mauritia flexuosa fruit oil, yeast extract, tocopherol, aloe barbadensis leaf juice, hydrolyzed vegetable protein pg propyl silanetriol, trifolium pratense clover flower extract, hydrolyzed rice protein, vinegar, niacin, caprylhydroxamic acid, caprylyl glycol, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-conditioner---trial-and-travel-size/764302215646.html
+
+
+
+
+ Error occured msg=%s 
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE CONDITIONER TRIAL TRAVEL SIZE
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, stearyl alcohol, cetyl alcohol, fragrance essential oil blend , behentrimonium chloride, hydroxyethylcellulose, panthenol, mentha piperita peppermint leaf extract, glycerin vegetable , simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, ricinus communis castor seed oil, hydrolyzed keratin, mauritia flexuosa fruit oil, yeast extract, tocopherol, aloe barbadensis leaf juice, hydrolyzed vegetable protein pg propyl silanetriol, trifolium pratense clover flower extract, hydrolyzed rice protein, vinegar, niacin, caprylhydroxamic acid, caprylyl glycol, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/back-to-school-%22hydration-heroes%22-bundle/20190816SMOVCOCCBNDL.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Smoothie
+ ingredients=water, glycerin vegetable , cetrimonium chloride, butyrospermum parkii shea butter , glyceryl stearate citrate, cetearyl alcohol, cetyl alcohol, cocos nucifera coconut oil, glyceryl caprylate, macadamia ternifolia seed oil, mangifera lndica mango seed butter, aloe barbadensis leaf juice, ricinus communis castor seed oil, vanilla planifolia fruit extract, mentha piperita peppermint leaf extract, hydrolyzed rice protein, biotin, niacinamide, panthenol, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-smoothie/764302215851.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Kaolin Clay Soap
+ ingredients=sodium palmate, sodium palm kernelate, water, glycerin vegetable , fragrance essential oil blend , kaolin, sodium gluconate, african black soap sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash , palm acid, sodium chloride, charcoal powder, butyrospermum parkii shea butter , palm kernel acid, melaleuca alternifolia tea tree leaf oil certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-kaolin-clay-soap/764302228004.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Blow Dry Creme
+ ingredients=water, caprylic capric triglyceride coconut oil derived , glyceryl stearate, butyrospermum parkii shea butter , maltodextrin vp copolymer, cetyl alcohol, stearyl alcohol, glycerin vegetable , behentrimonium chloride, helianthus annuus sunflower seed oil, prunus amygdalus dulcis sweet almond oil, hydroxyethylcellulose, panthenol, argania spinosa kernel oil, mentha piperita peppermint leaf extract, ricinus communis castor seed oil, aloe barbadensis leaf juice, vinegar, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-blow-dry-creme/764302215929.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating In Shower Styler
+ ingredients=water, caprylic capric triglyceride, stearyl alcohol, glycerin vegetable , glyceryl stearate citrate, butyrospermum parkii shea butter , cetearyl alcohol, cocos nucifera coconut fruit juice, charcoal powder, camellia sinensis leaf extract, melissa officinalis leaf extract, melaleuca alternifolia tea tree leaf oil, aloe barbadensis leaf juice, panthenol, behentrimonium chloride, hydroxyethylcellulose, glyceryl caprylate, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-in-shower-styler/764302208167.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Treatment Masque
+ ingredients=water, cetearyl alcohol, butyrospermum parkii shea butter , theobroma cacao cocoa seed butter, glycerin vegetable , capric caprylic triglycerides, cetyl alcohol, stearyl alcohol, behentrimonium chloride, behentrimonium methosulfate, glyceryl caprylate, fragrance essential oil blend , rosa centifolia flower water, rosa damascena flower oil, rhododendron ferrugineum leaf cell culture extract, rosa canina flower extract, balanites aegyptiaca kernel oil, rosa centifolia flower wax, rosa damascena flower wax, camellia sinensis leaf extract, simmondsia chinensis jojoba seed oil, hydrolyzed adansonia digitata seed extract, panthenol, tocopheryl acetate, aloe barbadensis leaf juice, cetrimonium chloride, glyceryl undecylenate certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-treatment-masque/764302216360.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo/764302215790.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Deep Treatment Masque
+ ingredients=water, cetyl alcohol, butyrospermum parkii shea butter , ricinus communis castor seed oil, glycerin vegetable , olea europaea olive fruit oil, glyceryl stearate citrate, cetearyl alcohol, panthenol, aloe barbadensis leaf juice, argania spinosa kernel oil, persea gratissima avocado oil, hydrolyzed vegetable protein pg propyl silanetriol, glyceryl caprylate, daucus carota sativa carrot seed oil, macrocystis pyrifera kelp extract, tocopherol, behentrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-deep-treatment-masque/764302280248.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Conditioner
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, cetyl alcohol, caprylic capric triglyceride, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, hydrolyzed vegetable protein pg propyl silanetriol, glycerin, tocopherol, glycine soja soybean oil, hibiscus rosa sinensis flower extract, mangifera indica mango seed butter, aloe barbadensis leaf juice, sodium lauroyl hydrolyzed silk, brassica campestris rapeseed seed oil, melia azadirachta neem seed oil, panthenol, triethyl citrate, caprylyl glycol, hydroxyethylcellulose, benzoic acid, phenoxyethanol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner/764302290629.html
+
+
+
+
+ Error occured msg=%s 
+name=Yucca Plantain Anti breakage Strengthening Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, stearyl alcohol, cetyl alcohol, behentrimonium chloride, hydroxyethylcellulose, panthenol, glycerin vegetable , simmondsia chinensis jojoba seed oil, fragrance essential oil blend , adansonia digitata seed oil, tocopherol, aloe barbadensis leaf juice, yucca brevifolia root extract, coriandrum sativum coriander extract, plantain musa paradisiaca extract, hydrolyzed vegetable protein pg propyl silanetriol, hydrolyzed rice protein, caprylhydroxamic acid, caprylyl glycol, sodium benzoate, potassium sorbate, citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-conditioner/764302210214.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Deep Cleansing Shampoo
+ ingredients=water, sodium lauroyl methyl lsethionate, cocamidopropyl betaine, glycol distearate, fragrance essential oil blend , panthenol, guar hydroxypropyltrimonium chloride, aloe barbadensis leaf juice, sodium benzoate, sodium palm kernelate, tocopheryl acetate, melaleuca alternifolia tea tree leaf oil, salix nigra willow bark extract, butyrospermum parkii shea butter , argania spinosa kernel oil, simmondsia chinensis jojoba seed oil, charcoal powder, macadamiaternifolia seed oil, sodium shea butterate, sodium cocoate, theobromacacao cocoa pod ash, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-deep-cleansing-shampoo/764302271048.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Intensive Hydration Conditioner
+ ingredients=water aqua , stearyl alcohol, cetyl alcohol, butyropermum parkii shea butter , cocos nucifera coconut oil, trichliav emetica seed butter, behentrimonium chloride, panthenol, hydrolyzed cellulose, glycerin vegetable , simmondsia chinensis jojoba seed oil, adansonia digitata seed oil, dicaprylyl ether, honey, fragrance essential oil blend tocopherol, aloe barbadensis leaf juice, hydrolyzed rice protein, caprylhydroxamic acid, hydrolyzed vegetable protein pg propyl silanrtriol, caprylyl glycol, ficus fig extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-conditioner/764302231059.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Shampoo
+ ingredients=water, sodium lauroyl methyl lsethionate, cocoamidopropyl betaine, sodium methyl cocoyl taurate, sodium cocoyl lsethionate, glycol distearate, glycerin vegetable , butyrospermum parkii shea butter , honey, yogurt powder, yogurt extract, lnulin, adansonia digitata baobab seed oil, trichilia emetica mafura seed oil, cocos nucifera coconut oil, panthenol, guar hydroxypropyltrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, mica, titanium dioxide, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-shampoo/764302231493.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Intensive Hydration Shampoo
+ ingredients=water aqua , decyl glucoside, sodium lauroyl lactylate, glycol stearate, glycerin vegetable , hydrolyzed rice protein, panthenol, butyrospermum parkii shea butter , fragrance essential oil blend , adansonia digitata seed oil, guar hydroxypropyltrimonium chloride, trichilia emetica seed butter, ficus carica fig extract, caprylhydroxamic acid, caprylyl glycol, stearamide amp, aloe barbadensis leaf juice, tocopherol, honey
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-shampoo/764302231042.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Style Milk
+ ingredients=water, cocos nucifera coconut oil, glyceryl stearate, glycerin vegetable , stearyl alcohol, cetyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, panthenol, daucus carota sativa carrot seed oil, sodium lauroyl hydrolyzed silk, algae extract, melia azadirachta seed oil, salvia officinalis sage leaf extract, equisetum arvense extract, hibiscus rosa sinensis flower extract, hydroxyethylcellulose, tocopherol, sodium benzoate, glyceryl caprylate, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-style-milk/764302290247.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Conditioner OZ
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, cetyl alcohol, caprylic capric triglyceride, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, hydrolyzed vegetable protein pg propyl silanetriol, glycerin, tocopherol, glycine soja soybean oil, hibiscus rosa sinensis flower extract, mangifera indica mango seed butter, aloe barbadensis leaf juice, sodium lauroyl hydrolyzed silk, brassica campestris rapeseed seed oil, melia azadirachta neem seed oil, panthenol, triethyl citrate, caprylyl glycol, hydroxyethylcellulose, benzoic acid, phenoxyethanol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---8-oz/764302290742.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Frizz Free Curl Mousse
+ ingredients=deionized water, cocomidroprpyl betaine coconut oil, vegetable gylcerine, olea europaea olive fruit oil , butyrospermum parkii shea butter oil ,moringa oleifera seed oil, vegetable glycerin, keratin, polyquaternium , hibiscus sabdariffa extract, silk protien, polyquaternium , sucrose laurate and alcohol non drying , melia azadiratcha neem seed oil, proprietary essential oil blend,potassium sorbate, citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-frizz-free-curl-mousse/764302290612.html
+
+
+
+
+ Error occured msg=%s 
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE LEAVE IN CONDITIONER OZ
+ ingredients=water, ricinus communis castor seed oil, stearyl alcohol, cetyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , cocos nucifera coconut oil, dicaprylyl ether, panthenol, hydrolyzed rice protein, simmondsia chinensis jojoba seed oil, hydrolyzed keratin, hydroxyethylcellulose, adansonia digitata baobab seed oil, glycerin vegetable , aloe barbadensis leaf juice, macadamia ternifolia seed oil, mauritia flexuosa fruit buriti oil, vinegar, mentha piperita peppermint leaf extract, trifolium pratense clover flower extract, niacin, tocopheryl acetate, hydrolyzed vegetable protein pg propyl silanetriol, yeast extract, caprylyl glycol, caprylhydroxamic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner-8oz/764302215707.html
+
+
+
+
+ Error occured msg=%s 
+name=Mango Carrot Kids Extra Nourishing Shampoo
+ ingredients=deionized water, decyl gluoside coconut oil , olea europaea olive fruit oil , lauroyl lactylate lactic acid , cocos nucifera coconut oil , butyrospermum parkii shea oil , mangifera indica mango seed butter , aloe barbadensis leaf extract, panthenol pro vitamin b , citrus medica limonium lemon , citrus aurantifolia lime , citrus sinensis orange blossom extract, jasminium officinale, slippery elm extract, proprietary essential oil blend, daucus carota sativa carrot seed oil, stearic acid, rosemary extract, caprylyl glycol, tocopherol vitamin e
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mango-and-carrot-kids-extra-nourishing-shampoo/764302905004.html
+
+
+
+
+ Error occured msg=%s 
+name=Red Palm Oil Cocoa Butter Styling Gelee
+ ingredients=water, glycerin vegetable , magnesium aluminum silicate, fragrance essential oil blend , theobroma cacao cocoa seed butter, elaeis guineensis palm oil, panthenol, allantoin, butyrospermum parkii shea butter , linum usitatissimum linseed seed oil, camellia sinensis green tea leaf extract, glycyrrhiza glabra licorice root extract, equisetum arvense extract, tocopheryl acetate, polyquaternium , caprylic capric triglyceride, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-styling-gelee/764302226000.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Finishing Oil Serum
+ ingredients=caprylic capric triglyceride, ricinus communis castor seed oil, vitis vinifera grape seed oil, lsopropyl myristate, butyrospermum parkii shea butter ,persea gratissima avocado oil, argania spinosa kernel argan oil, cocos nucifera coconut oil, rosa canina fruit rosehip oil, helianthus annuus sunflower seed oil, prunus amygdalus dulcis sweet almond oil, rosmarinus officinalis rosemary leaf oil, tocopheryl acetate, coconut acid, acacia senegal gum extract, cocos nucifera coconut fruit extract, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-finishing-oil-serum/764302204220.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating Exfoliating Hair Mud
+ ingredients=sucrose sugar , cocamidopropyl betaine, sodium chloride, cocos nucifera coconut oil, glycerin vegetable , butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, charcoal powder, camellia sinensis leaf extract, water, melissa officinalis extract, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-exfoliating-hair-mud/764302208143.html
+
+
+
+
+ Error occured msg=%s 
+name=Red Palm Oil Cocoa Butter Detangling Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, glycol distearate, sodium cocoyl lsethionate, frangrance essential oil blend , elaeis guineensis palm oil, glycerin vegetable , propanediol, guar hydroxypropyltrimonium chloride, butyrospermum parkii shea butter , panthenol, prunus amygdalus dulcis sweet almond oil, theobroma cacao cocoa seed butter, equisetum arvense extract, polyquaternium , linum usitatissimum linseed seed oil, hydrolyzed soy protein, glycyrrhiza glabra licorice root extract, aloe barbadensis leaf juice, camellia sinensis green tea leaf extract, tocopherol, triethyl citrate, caprylyl glycol, benzoic acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-detangling-shampoo/764302226048.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Overnight Perfecting Treatment
+ ingredients=water, glycerin vegetable , cocos nucifera coconut oil, butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, cocos nucifera coconut fruit extract, cetearyl alcohol, panthenol, caprylic capric triglyceride, acacia senegal gum extract, lavandula intermedia flower leaf stem oil, lavandula angustifolia lavender extract, sodium benzoate, methylcellulose, dehydroxanthan gum, polyquaternium , triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-overnight-perfecting-treatment/764302204855.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Max Hold Gel
+ ingredients=water, corn syrup, glycerin vegetable , magnesium aluminum silicate, butyrospermum parkii shea butter , ricinus communis castor seed oil, mentha piperita peppermint leaf extract, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-max-hold-gel/764302215912.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating Shampoo
+ ingredients=water, sodium lauroyl methyl lsethionate, cocamidopropyl betaine, glycerin vegetable , butyrospermum parkii shea butter , charcoal powder, camellia sinensis leaf extract, melissa officinalis leaf extract, cocos nucifera coconut fruit juice, cocos nucifera coconut oil, salix alba willow bark extract, althaea officinalis root extract, simmondsia chinensis jojoba seed oil, vitis vinifera grape seed oil, panthenol, equisetum arvense extract, chamomilla recutita matricaria flower extract, guar hydroxypropyltrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-shampoo/764302208112.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Shampoo OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo-10.3oz/764302216131.html
+
+
+
+
+ Error occured msg=%s 
+name=Marshmallow Root Blueberries KIDS IN Drama Free Detangling Leave In Conditioner
+ ingredients=water, glycerin vegetable , caprylic capric triglyceride, glyceryl stearate, cetyl alcohol, glyceryl stearate citrate, cetearyl alcohol, panthenol, stearyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , aloe barbadensis leaf juice, cocos nucifera coconut oil, hydrolyzed rice protein, tocopherol, persea gratissima avocado oil, calendula officinalis flower extract, simmondsia chinensis jojoba seed oil, linum usitatissimum linseed seed oil, vaccinium angustifolium blueberry leaf extract, althaea officinalis root extract, algae extract, glyceryl caprylate, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/marshmallow-root-and-blueberries-kids-2-in-1-drama-free-detangling-leave-in-conditioner/764302902225.html
+
+
+
+
+ Error occured msg=%s 
+name=Marshmallow Root Blueberries KIDS in Drama Free Shampoo Conditioner
+ ingredients=water, cocamidopropyl betaine, glyceryl stearate, caprylic capric triglyceride, butyrospermum parkii shea butter , cocos nucifera coconut oil, cetearyl alcohol, glycerin vegetable , behentrimonium chloride, glycol distearate, caprylyl glycol, hydroxyethylcellulose, panthenol, tocopherol, sodium phytate, aloe barbadensis leaf juice, linum usitatissimum linseed seed oil, persea gratissima avocado oil, citrus paradisi grapefruit peel oil, althaea officinalis root extract, vaccinium angustifolium blueberry leaf extract, chamomilla recutita matricaria flower extract, calendula officinalis flower
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/marshmallow-root-and-blueberries-kids-2-in-1-drama-free-shampoo-and-conditioner/764302902201.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Conditioner OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner-10.3oz/764302216148.html
+
+
+
+
+ Error occured msg=%s 
+name=Green Coconut Activated Charcoal Purifying Hydrating Multi Masque
+ ingredients=jelly ingredients water, magnesium aluminum silicate, glycerin vegetable , butyrospermum parkii shea butter , cocos nucifera coconut fruit juice, charcoal powder, camellia sinensis leaf extract, melissa officinalis leaf extract, salix alba willow bark extract, althaea officinalis root extract, chamomilla recutita matricaria flower extract, equisetum arvense extract, panthenol, caprylic capric triglyceride, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend creme ingredients water, caprylic capric triglyceride, butyrospermum parkii shea butter , stearyl alcohol, glycerin vegetable , glyceryl stearate citrate, cetearyl alcohol, cetyl alcohol, cocos nucifera coconut fruit juice, charcoal powder, camellia sinensis leaf extract, melissa officinalis leaf extract, equisetum arvense extract, salix alba willow bark extract, aloe barbadensis leaf juice, panthenol, sodium pca, behentrimonium chloride, chamomilla recutita matricaria flower extract, triethyl citrate, caprylyl glycol, glyceryl caprylate, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/green-coconut-and-activated-charcoal-purifying-and-hydrating-multi-masque/764302208174.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Daily Hydration Conditioner
+ ingredients=water, cetyl alcohol, stearyl alcohol, butyrospermum parkii shea butter , cocos nucifera coconut oil, glycerin vegetable , cetrimonium chloride, cocos nucifera coconut fruit juice, glyceryl caprylate, panthenol, aloe barbadensis leaf juice, rosa canina fruit rosehip oil, argania spinosa kernel argan oil, cocos nucifera coconut fruit extract, coconut acid, acacia senegal gum extract, tocopherol, equisetum arvense horsetail extract, algae extract, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-daily-hydration-conditioner/764302204183.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Conditioner
+ ingredients=water, glyceryl stearate, cetearyl alcohol, cetrimonium chloride, butyrospermum parkii shea butter , stearyl alcohol, glycerin vegetable , honey, yogurt powder, yogurt extract, lnulin, trichilia emetica mafura seed oil, persea gratissima avocado oil, evening primrose oenothera biennis oil, adansonia digitata baobab seed oil, aloe barbadensis leaf juice, panthenol, bisabolol, tocopherol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-conditioner/764302231486.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Cactus Water Pick Me Up Lite Masque oz
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, butyrospermum parkii shea butter , cetyl alcohol, stearyl alcohol, behentrimonium chloride, glycerin vegetable , cetrimonium chloride, cocos nucifera coconut fruit juice, opuntia ficus lndica extract, agave tequilana leaf extract, cocos nucifera coconut oil, hydrolyzed rice protein, panthenol, tocopheryl acetate, hydroxyethylcellulose, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-cactus-water-pick-me-up-lite-masque-2oz/764302190523.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Intensive Hydration Leave In Milk
+ ingredients=water, cocos nucifera coconut oil, glyceryl stearate, glycerin vegetable , cetyl alcohol, stearyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , fragrance essential oil blend , adansonia digitata baobab oil, trichilia emetica mafura seed oil, polyquaternium , tocopherol, panthenol, honey, equisetum arvense extract, hydroxyethylcellulose, sodium benzoate, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingrdient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-leave-in-milk/764302231431.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Shampoo oz
+ ingredients=water aqua , decyl glucoside, sodium lauroyl lactylate, fragrance essential oil blend , glycerin vegetable , hydrolyzed rice protein, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, guar hydroxypropyltrimonium chloride, butyrospermum parkii shea butter , ricinus communis castor seed oil, mentha piperita peppermint leaf extract, mauritia flexuosa fruit oil, hydrolyzed keratin, tocopherol, aloe barbadensis leaf juice, vinegar, yeast extract, niacin, trifolium pratense clover flower extract, caprylhydroxamic acid, caprylyl glycol, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-shampoo-16oz/764302215509.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Enhancing Smoothie OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---6-oz/764302290476.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Intensive Hydration Masque
+ ingredients=water aqua , cetyl alcohol, cocos nucifera coconut oil, behentrimonium methosulfate, butyrospermum parkii shea butter , glycerin vegetable , stearyl alcohol, behentrimonium chloride, panthenol, trichilia emetica mafura seed oil, honey, hydrolyzed rice protein, fragrance essential oil blend , adansonia digitata baobab seed oil, cetrimonium chloride, persea gratissma avocado oil, ficus fig extract, mangifera indica mango seed butter , tocopherol, aloe barbadensis leaf extract, caprylhydroxamic acid, caprylyl glycol, butylene glycol butter
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-intensive-hydration-masque/764302231066.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Style Smooth Edge Treatment Gel
+ ingredients=glycerin vegetable , water, corn syrup glucose, pectin, ricinus communis castor seed oil, butyrospermum parkii shea butter , mentha piperita peppermint leaf extract, aloe barbadensis leaf juice, cocodimonium hydroxypropyl hydrolyzed keratin, tocopherol, macadamia ternifolia seed oil, panthenol, vinegar, cetrimonium chloride, agave tequilana leaf extract, niacin, potassium sorbate, mauritia flexuosa fruit oil, fragrance essential oil blend , yeast extract, citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-style-and-smooth-edge-treatment-gel/764302215578.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Treatment Masque
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, glycerin vegetable , butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium methosulfate, fragrance essential oil blend , behentrimonium chloride, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, cetrimonium chloride, persea gratissima avocado oil, mangifera lndica mango seed butter, olea europaea olive fruit oil, mentha piperita peppermint leaf extract, ricinus communis castor seed oil, mauritia flexuosa fruit oil, yeast extract, hydrolyzed keratin, macadamia ternifolia seed oil, tocopherol, hydrogenated vegetable oil, niacin, aloe barbadensis leaf juice, vinegar, caprylhydroxamic acid, caprylyl glycol, trifolium pratense clover flower extract, caramel certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-treatment-masque/764302215554.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Anti Breakage Spray
+ ingredients=water, glyceryl stearate, glycerin vegetable , caprylic capric triglyceride, cetrimonium chloride, hydroxyethylcellulose, butyrospermum parkii shea butter , ricinus communis castor seed oil, prunus amygdalus dulcis sweet almond oil, vinegar, tocopherol, hydrolyzed pea protein pg propyl silanetriol, hydrolyzed rice protein, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-anti-breakage-spray/764302215943.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Miracle Masque
+ ingredients=water, glycerin vegetable , polyquaternium , cetearyl alcohol, dicaprylyl ether, panthenol, butyrospermum parkii shea butter , sodium benzoate, guar hydroxypropyltrimonium chloride, sclerotium gum, behentrimonium chloride, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, althaea officinalis root extract, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-miracle-masque/764302190370.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Masque oz
+ ingredients=water, glycerin vegetable , polyquaternium , cetearyl alcohol, dicaprylyl ether, panthenol, butyrospermum parkii shea butter , sodium benzoate, guar hydroxypropyltrimonium chloride, sclerotium gum, behentrimonium chloride, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, althaea officinalis root extract, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-masque-2oz/764302190431.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Masque oz
+ ingredients=water, glycerin vegetable , polyquaternium , cetearyl alcohol, dicaprylyl ether, panthenol, butyrospermum parkii shea butter , sodium benzoate, guar hydroxypropyltrimonium chloride, sclerotium gum, behentrimonium chloride, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, althaea officinalis root extract, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/back-to-school-%22renew-and-strengthen%22-hair-bundle/20190808SMHJBCOBNDL.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Masque oz
+ ingredients=water, glycerin vegetable , polyquaternium , cetearyl alcohol, dicaprylyl ether, panthenol, butyrospermum parkii shea butter , sodium benzoate, guar hydroxypropyltrimonium chloride, sclerotium gum, behentrimonium chloride, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, althaea officinalis root extract, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/back-to-school-%22bouncy-curls%22-bundle/20190908SMHCHBNDL.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Masque oz
+ ingredients=water, glycerin vegetable , polyquaternium , cetearyl alcohol, dicaprylyl ether, panthenol, butyrospermum parkii shea butter , sodium benzoate, guar hydroxypropyltrimonium chloride, sclerotium gum, behentrimonium chloride, limnanthes alba meadowfoam seed oil, saccharum officinarum sugarcane extract, althaea officinalis root extract, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/back-to-school-%22balancing-trio%22-bundle/20190816SMOABSCCBNDL.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Medium Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-blonde/764302200512.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Multi Action Leave In
+ ingredients=water, cetrimonium chloride, caprylic capric triglyceride, glycerin vegetable , butyrospermum parkii shea butter , honey, yogurt powder, yogurt extract, lnulin, adansonia digitata baobab seed oil, trichilia emetica mafura seed oil, hydrolyzed wheat protein pg propyl silanetriol, bisabolol, tocopherol, stearyl alcohol, cetyl alcohol, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-multi-action-leave-in/764302231448.html
+
+
+
+
+ Error occured msg=%s 
+name=Yucca Plantain Anti Breakage Strengthening Styling Milk
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, behentrimonium chloride, hydrolyzed rice protein, yucca breviofolia root extract, simmondsia chinensis jojoba seed oil, stearyl alcohol, panthenol, fragrance essential oil blend , adansonia digitata seed oil, plantain musa paradisiaca extract, hydrolyzed vegetable protein pg propyl silanetriol, coriandum sativum coriander extract, caprylhydroxamic acid, cetyl alcohol, behentrimonium methosulfate, glycerin vegetable , aloe barbadensis leaf juice, caprylyl glycol, hydrolyzed cellulose, tocopherol
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-styling-milk/764302210191.html
+
+
+
+
+ Error occured msg=%s 
+name=Yucca Plantain Anti Breakage Strengthening Masque
+ ingredients=water, cetyl alcohol, cocos nucifera coconut oil, behentrimonium methosulfate, glycerin vegetable , butyrospermum parkii shea butter , stearyl alcohol, behentrimonium chloride, panthenol, cetrimonium chloride, persea gratissima avocado oil, mangifera indica mango seed butter , olea europaea olive fruit oil, fragrance essential oil blend , simmondsia chinensis jojoba seed oil, adansonia digitata oil, tocopherol, hydrolyzed vegetable protein pg propyl silanetriol, hydrolyzed rice protein, yucca brevifolia root extract, plantain musa paradisiaca extract, coriandrum sativum coriander extract, aloe barbadensis leaf juice, caprylhydroxamic acid, caprylyl glycol, butylene glycol, acetyl tetrapeptide , dextran, trifolium pratense clover flower extract, sodium benzoate, potassium sorbate, citric acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/yucca-and-plantain-anti-breakage-strengthening-masque/764302210184.html
+
+
+
+
+ Error occured msg=%s 
+name=SuperFruit Multi Vitamin Wash Go Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-wash-and-go-shampoo/764302201434.html
+
+
+
+
+ Error occured msg=%s 
+name=SuperFruit Multi Vitamin Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-leave-in-detangler/764302201397.html
+
+
+
+
+ Error occured msg=%s 
+name=SuperFruit Multi Vitamin Frizz Taming Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-multi-vitamin-frizz-taming-smoothie/764302201373.html
+
+
+
+
+ Error occured msg=%s 
+name=SuperFruit Complex IN Renewal System Shampoo
+ ingredients=water, decyl glucoside, sodium lauroyl lactylate, glycol stearate, guar hydroxypropyltrimonium chloride, panthenol, biotin, butyrospermum parkii shea butter , fragrance essential oil blend , sclerocarya birrea seed oil, aloe barbadensis leaf juice, rubus idaeus raspberry fruit extract, lycium barbarum fruit extract, euterpe oleracea fruit extract, psidium guajava fruit extract, hydrolyzed rice protein, stearamide amp, glycerin vegetable , caprylhydroxamic acid, caprylyl glycol, citric acid, sodium citrate, ipomoea batatas extract, cinnamidopropyltrimonium chloride
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-complex-10-in-1-renewal-system-shampoo/764302201212.html
+
+
+
+
+ Error occured msg=%s 
+name=SuperFruit Complex IN Renewal System Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil , stearyl alcohol, cetyl alcohol, behentrimonium chloride, hydroxyethylcellulose, panthenol, biotin, glycerin, sclerocarya birrea seed oil, fragrance essential oil blend , tocopherol, rubus idaeus raspberry fruit extract, lycium barbarum fruit extract, euterpe oleracea fruit extract, psidium guajava fruit extract, hydrolyzed rice protein, cinnamidopropyltrimonium chloride, caprylhydroxamic acid, caprylyl glycol, sodium citrate, citric acid, ipomoea batatas extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/superfruit-complex-10-in-1-renewal-system-conditioner/764302201205.html
+
+
+
+
+ Error occured msg=%s 
+name=Sugarcane Extract Meadowfoam Seed Silicone Free Miracle Styler Leave In Treatment
+ ingredients=water, cetearyl alcohol, glycerin vegetable , caprylic capric triglyceride, dicaprylyl ether, polyquaternium , panthenol, behentrimonium methosulfate, limnanthes alba meadowfoam seed oil, ricinus communis castor seed oil, butyrospermum parkii shea butter , saccharum officinarum extract, citrus aurantium dulcis orange peel extract, camellia sinensis green tea leaf extract, althaea officinalis root extract, triethyl citrate, caprylyl glycol, benzoic acid, polyquaternium , hydroxyethylcellulose, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sugarcane-extract-and-meadowfoam-seed-silicone-free-miracle-styler-leave-in-treatment/764302190332.html
+
+
+
+
+ Error occured msg=%s 
+name=Sacha Inchi Oil Omega Rescue Repair Twist Lock Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-twist-and-lock-gel/764302263128.html
+
+
+
+
+ Error occured msg=%s 
+name=Sacha Inchi Oil Omega Rescue Repair Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-hair-masque/764302263043.html
+
+
+
+
+ Error occured msg=%s 
+name=Sacha Inchi Oil Omega Rescue Repair Curl Defining Smoothie
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-curl-defining-smoothie/764302263098.html
+
+
+
+
+ Error occured msg=%s 
+name=Sacha Inchi Oil Omega Rescue Repair Clarifying Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/sacha-inchi-oil-omega-3-6-9-rescue-repair-clarifying-shampoo/764302263012.html
+
+
+
+
+ Error occured msg=%s 
+name=Red Palm Oil Cocoa Butter Shine Butter
+ ingredients=butyrospermum parkii shea butter , hydrogenated vegetable oil, theobroma cacao cocoa seed butter, euphorbia cerifera candelilla wax, linum usitatissimum linseed seed oil, fragrance essential oil blend , tocopheryl acetate, elaeis guineensis palm oil
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-shine-butter/764302226055.html
+
+
+
+
+ Error occured msg=%s 
+name=Red Palm Oil Cocoa Butter Curl Stretch Pudding
+ ingredients=water, cetearyl alcohol, linum usitatissimum linseed seed oil, butyrospermum parkii shea butter , glycerin vegetable , stearyl alcohol, behentrimonium methosulfate, cetyl alcohol, prunus amygdalus dulcis sweet almond oil, behentrimonium chloride, fragrance essential oil blend , panthenol, elaeis guineensis palm oil, hydrolyzed soy protein, theobroma cacao cocoa seed butter, persea gratissima avocado oil, hydrogenated vegetable oil, tocopherol, cetrimonium chloride, glycyrrhiza glabra licorice root extract, camellia sinensis green tea leaf extract, equisetum arvense extract, triethyl citrate, caprylyl glycol, benzoic acid
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/red-palm-oil-and-cocoa-butter-curl-stretch-pudding/764302226024.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Restorative Conditioner
+ ingredients=water, stearyl alcohol, olea europaea olive fruit oil, behentrimonium chloride, cetyl alcohol, butyrospermum parkii shea butter , glyceryl caprylate, argania spinosa kernel oil, macrocystis pyrifera kelp extract, simmondsia chinensis jojoba seed oil, daucus carota sativa carrot seed oil, hydrolyzed silk, hydrolyzed soy protein, aloe barbadensis leaf juice, panthenol, tocopheryl acetate, dicaprylyl ether, sodium lsostearoyl lactylate, sodium benzoate, hydroxyethylcellulose, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280927.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Restorative Conditioner
+ ingredients=water, stearyl alcohol, olea europaea olive fruit oil, behentrimonium chloride, cetyl alcohol, butyrospermum parkii shea butter , glyceryl caprylate, argania spinosa kernel oil, macrocystis pyrifera kelp extract, simmondsia chinensis jojoba seed oil, daucus carota sativa carrot seed oil, hydrolyzed silk, hydrolyzed soy protein, aloe barbadensis leaf juice, panthenol, tocopheryl acetate, dicaprylyl ether, sodium lsostearoyl lactylate, sodium benzoate, hydroxyethylcellulose, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-restorative-conditioner/764302280842.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisturizing Transitoning Milk
+ ingredients=water, cocos nucifera coconut oil, fragrance essential oil blend , butyrospermum parkii shea butter , stearyl alcohol, glyceryl caprylate, cetyl alcohol, glycerin vegetable , behentrimonium chloride, hydroxyethylcellulose, panthenol, argania spinosa kernel oil, simmondsia chinensis jojoba seed oil, hydrolyzed rice protein, macrocystis pyrifera kelp extract, daucus carota sativa carrot seed oil, tocopheryl acetate, aloe barbadensis leaf juice, triticum vulgare wheat germ oil, glyceryl undecylenate certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisturizing-transitoning-milk/764302280613.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Moisture Recovery Treatment Masque tube
+ ingredients=water, kaolin, bentonite, butyrospermum parkii shea butter , glycerin vegetable , glyceryl caprylate, simmondsia chinensis jojoba seed oil, rosa canina rosehip seed oil, persea gratissima avocado oil, allantoin, panthenol, commiphora myrrha resin extract, boswellia carterii resin extract, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-moisture-recovery-treatment-masque-%28tube/764302280859.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Butter Curl Memory Cream Custard
+ ingredients=water, caprylic capric triglyceride, glycerin vegetable , butyrospermum parkii shea butter, helianthus annuus sunflower seed oil, cetyl alcohol, stearyl alcohol, maltodextrin vp copolymer, glyceryl stearate citrate, cetearyl alcohol, glyceryl caprylate, cocos nucifera coconut oil, argania spinosa kernel argan oil, simmondsia chinensis jojoba seed oil, lonicera caprifolium honeysuckle extract, macrocystis pyrifera kelp extract, commiphora myrrha extract, alow bardadensis leaf juice, tocopherol, hydrolyzed keratin, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-butter-curl-memory-cream-custard/764302280989.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Styling Gel Cream
+ ingredients=water, magnesium aluminum silicate, butyrospermum parkii shea butter , mentha piperita peppermint leaf extract, pistacia vera pistachio seed oil, theobroma grandiflorum seed butter, passiflora incarnata flower extract, xanthan gum, glycerin caprylyl glycol, caprylhydroxamic acid, sodium phytate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-styling-gel-cream/764302265030.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Shampoo fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo-10.3-fl-oz/764302265115.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-shampoo/764302265009.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-hair-masque/764302265023.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Conditioner fl OZ
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner-10.3-fl-oz/764302265122.html
+
+
+
+
+ Error occured msg=%s 
+name=Raw Shea Cupuau Frizz Defense Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/raw-shea-and-cupua%C3%A7u-frizz-defense-conditioner/764302265016.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Styling Gel cream
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-styling-gel-cream/764302216223.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-shampoo/764302216308.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Leave In Treatment
+ ingredients=water, glycerin vegetable , sorbitan oleate decyglucoside crosspolymer, rosa centifolia flower water, panthenol, butyrospermum parkii shea butter , rhododendron ferrugineum leaf cell culture extract, rosa damascena flower oil, rosa canina flower extract, cetrimonium chloride, polyquarternium , balanites aegyptiaca kernel oil, gluconolactone, sodium benzoate, fragrance essentail oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-leave-in-treatment/764302216353.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Hold Mist
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-hold-mist/764302216179.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Dry Shampoo
+ ingredients=zea mays corn starch, tapioca starch, magnesium carbonate, gluconolactone, butyrospermum parkii shea butter , rosa canina flower extract, rosa damascena flower oil, rosa damascena flower water, camellia sinensis leaf extract, rosa centifolia flower wax, rosa damascena flower wax, rhododendron ferruqineum leaf cell culture extract, balanites aeqyptiaca kernel oil, isomalt, lecithin, lactic acid, glycerin, water, sodium benzoate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-dry-shampoo/764302216193.html
+
+
+
+
+ Error occured msg=%s 
+name=Peace Rose Oil Complex Nourish Silken Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/peace-rose-oil-complex-nourish-and-silken-conditioner/764302216315.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Soft Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---soft-black/764302200444.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Medium Chestnut Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-chestnut-brown/764302200536.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Medium Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---medium-brown/764302200529.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Light Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-blonde/764302200505.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Light Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---light-auburn/764302200499.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Jet Black
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---jet-black/764302200420.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Dark Brown
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-brown/764302200451.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Dark Blonde
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-blonde/764302200475.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Dark Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---dark-auburn/764302200482.html
+
+
+
+
+ Error occured msg=%s 
+name=Nourishing Moisture Rich Color Crme Bright Auburn
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/nourishing-moisture-rich-color-creme---bright-auburn/764302200437.html
+
+
+
+
+ Error occured msg=%s 
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Styling Gel
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-styling-gel/764302202035.html
+
+
+
+
+ Error occured msg=%s 
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-masque/764302202066.html
+
+
+
+
+ Error occured msg=%s 
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Finishing Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-finishing-elixir/764302202004.html
+
+
+
+
+ Error occured msg=%s 
+name=Mongongo Hemp Seed Oils High Porosity Moisture Seal Co Wash
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/mongongo-and-hemp-seed-oils-high-porosity-moisture-seal-co-wash/764302202028.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Split End Balm
+ ingredients=ricinus communis castor seed oil, hydrogenated castor oil, copernicia cerifera carnauba wax, euphorbia cerifera candelilla wax, butyrospermum parkii shea butter , fragrance essential oil blend , adansonia digitata baobab seed oil, trichilia emetica mafura seed oil, yogurt extract, yogurt powder, lnulin, honey certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-split-end-balm/764302231455.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Yogurt Hydrate Repair Protein Strong Treatment oz
+ ingredients=water, behentrimonium chloride, caprylic capric triglyceride, hydrogenated castor oil, cetearyl alcohol, butyrospermum parkii shea butter , stearyl alcohol, glycerin vegetable , honey, butyrospermum parkii shea oil, yogurt powder, yogurt extract, cocos nucifera coconut oil, simmondsia chinensis jojoba butter, hydrogenated jojoba oil, adansonia digitata baobab seed oil, trichilia emetica mafura seed oil, allantoin, panthenol, hydrolyzed vegetable protein pg propyl silanetriol, tocopherol, triethyl citrate, caprylyl glycol, lnulin, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient under the list
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-yogurt-hydrate-repair-protein-strong-treatment-8oz/764302231479.html
+
+
+
+
+ Error occured msg=%s 
+name=Manuka Honey Mafura Oil Hydrate Design Max Hold Gel
+ ingredients=water, corn syrup, glycerin vegetable , magnesium aluminum silicate, butyrospermum parkii shea butter , honey, trichilia emetica mafura seed oil, adansonia digitata baobab seed oil, ficus carica fig extract, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/manuka-honey-and-mafura-oil-hydrate-and-design-max-hold-gel/764302231424.html
+
+
+
+
+ Error occured msg=%s 
+name=Kukui Nut Grapeseed Oils Damage Rehab Treatment Masque
+ ingredients=water, cetearyl alcohol, glycerin vegetable , butyrospermum parkii shea butter , aleurites moluccanus kukui seed oil, vitis vinifera grape seed oil, stearyl alcohol, persea gratissima avocado oil, cocos nucifera coconut oil, cetyl alcohol, behentrimonium methosulfate, behentrimonium chloride, glyceryl caprylate, olea europaea olive leaf extract, hydrolyzed rice protein, panthenol, tocopherol, cetrimonium chloride, hydrogenated vegetable oil, caprylic capric triglyceride, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/kukui-nut-and-grapeseed-oils-damage-rehab-treatment-masque/764302207054.html
+
+
+
+
+ Error occured msg=%s 
+name=Kukui Nut Grapeseed Oils Damage Rehab Treatment Masque
+ ingredients=water, cetearyl alcohol, glycerin vegetable , butyrospermum parkii shea butter , aleurites moluccanus kukui seed oil, vitis vinifera grape seed oil, stearyl alcohol, persea gratissima avocado oil, cocos nucifera coconut oil, cetyl alcohol, behentrimonium methosulfate, behentrimonium chloride, glyceryl caprylate, olea europaea olive leaf extract, hydrolyzed rice protein, panthenol, tocopherol, cetrimonium chloride, hydrogenated vegetable oil, caprylic capric triglyceride, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/kukui-nut-and-grapeseed-oils-damage-rehab-treatment-masque/764302207085.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter Track Tension Itch Relief Serum
+ ingredients=water, glycerin vegetable , butyrospermum parkii shea butter, simmondsia chinensis jojoba seed oil, virola sebifera nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, avena sativa oat bran extract, hydrolyzed silk, hydrolyzed rice protein, allantoin, panthenol, bisacolol, aloe barbadensis leaf juice, hamamelis, virginiana witch hazel extract, mentha piperita peppermint oil, gellan gum, xanthan gum, sodium benzoate, potassium sorbate, isopropyl alcohol, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-track-tension-and-itch-relief-serum/764302261230.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter Odor Neutralizing Mist
+ ingredients=water, glycerin vegetable , polysorbate , triethyl citrate, butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, virola sebifera nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, panthenol, allantoin, tocopherol, sodium benzoate, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-odor-neutralizing-mist/764302261254.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter No Rinse Foam Cleanser
+ ingredients=water, glycerin vegetable , sodium bicarbonate, cocamidopropyl betaine, butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, virola sebifera nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, sodium benzoate, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-no-rinse-foam-cleanser/764302261247.html
+
+
+
+
+ Error occured msg=%s 
+name=Jojoba Oil Ucuuba Butter Laydown Lacquer
+ ingredients=water, ceteareth , glycerin vegetable , hydroxypropyltrimonium hydrolyzed corn starch, maltodextrin vp copolymer, butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, virola sebifera nut oil, daucus carota sativa carrot seed oil, arctium lappa root extract, polyquaternium , sodium benzoate, gluconolactone, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jojoba-oil-and-ucuuba-butter-laydown-lacquer/764302261285.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Moisture Twist and Loc Butter oz
+ ingredients=aloe barbadensis leaf juice, water, butyrospermum parkii shea butter , prunus amygdalus dulcis sweet almond oil, cocos nucifera coconut oil, glyceryl stearate, stearyl alcohol, glycerin vegetable , cetyl alcohol, mangifera lndica mango seed butter, behentrimonium chloride, mentha piperita peppermint leaf extract, rosmarinus officinalis rosemary leaf oil, salvia officinalis sage leaf extract, chamomilla recutita matricaria flower extract, lavandula angustifolia lavender extract, ricinus communis castor seed oil, vinegar, maltodextrin vp copolymer, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-moisture-twist-and-loc-butter-6oz/764302215677.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Moisture Thermal Protect Set Hold Spritz oz
+ ingredients=water, glycerin vegetable , capric caprylic triglycerides, glyceryl stearate, fragrance essential oil blend , butyrospermum parkii shea butter , centrimonium chloride, hydrolyzed keratin, prunus amygdalus dulcis sweet almond oil, ricinus communis castor seed oil, althaea officinalis root extract, mentha piperita peppermint leaf extract, vinegar, hydrolyzed vegetable protein pg propyl silanetriol, tocopherol, urtica dioica leaf extract, glyceryl caprylate, glyceryl undecylenate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-moisture-thermal-protect-set-and-hold-spritz-8oz/764302215653.html
+
+
+
+
+ Error occured msg=%s 
+name=JAMAICAN BLACK CASTOR OIL STRENGTHEN RESTORE LEAVE IN CONDITIONER OZ
+ ingredients=water, ricinus communis castor seed oil, stearyl alcohol, cetyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , cocos nucifera coconut oil, dicaprylyl ether, panthenol, hydrolyzed rice protein, simmondsia chinensis jojoba seed oil, hydrolyzed keratin, hydroxyethylcellulose, adansonia digitata baobab seed oil, glycerin vegetable , aloe barbadensis leaf juice, macadamia ternifolia seed oil, mauritia flexuosa fruit buriti oil, vinegar, mentha piperita peppermint leaf extract, trifolium pratense clover flower extract, niacin, tocopheryl acetate, hydrolyzed vegetable protein pg propyl silanetriol, yeast extract, caprylyl glycol, caprylhydroxamic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner---6oz/764302215813.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Leave In Conditioner oz
+ ingredients=water, ricinus communis castor seed oil, stearyl alcohol, cetyl alcohol, behentrimonium chloride, butyrospermum parkii shea butter , cocos nucifera coconut oil, dicaprylyl ether, panthenol, hydrolyzed rice protein, simmondsia chinensis jojoba seed oil, hydrolyzed keratin, hydroxyethylcellulose, adansonia digitata baobab seed oil, glycerin vegetable , aloe barbadensis leaf juice, macadamia ternifolia seed oil, mauritia flexuosa fruit buriti oil, vinegar, mentha piperita peppermint leaf extract, trifolium pratense clover flower extract, niacin, tocopheryl acetate, hydrolyzed vegetable protein pg propyl silanetriol, yeast extract, caprylyl glycol, caprylhydroxamic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-leave-in-conditioner-16oz/764302215516.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore High Shine Polishing Gel
+ ingredients=water, sodium magnesium silicate, butyrospermum parkii shea butter , ricinus communis castor seed oil, mentha piperita peppermint leaf extract, glycerin, xanthan gum, hydrolyzed keratin, caprylhydroxamic acid, caprylyl glycol, citric acid, fragrance essential oil blend , vinegar certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-high-shine-polishing-gel/764302215660.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Strengthen Restore Hair Masque
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-strengthen-and-restore-hair-masque/764302215714.html
+
+
+
+
+ Error occured msg=%s 
+name=Jamaican Black Castor Oil Rinse Out Conditioner
+ ingredients=water, butyrospermum parkii shea butter , cocos nucifera coconut oil, stearyl alcohol, cetyl alcohol, fragrance essential oil blend , behentrimonium chloride, hydroxyethylcellulose, panthenol, mentha piperita peppermint leaf extract, glycerin vegetable , simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, ricinus communis castor seed oil, hydrolyzed keratin, mauritia flexuosa fruit oil, yeast extract, tocopherol, aloe barbadensis leaf juice, hydrolyzed vegetable protein pg propyl silanetriol, trifolium pratense clover flower extract, hydrolyzed rice protein, vinegar, niacin, caprylhydroxamic acid, caprylyl glycol, caramel
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/jamaican-black-castor-oil-rinse-out-conditioner/764302215806.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Shampoo
+ ingredients=aloe barbadensis leaf juice, sodium lauroyl methyl isethionate, cocamidopropyl betaine, water, cocos nucifera coconut fruit juice, glycerin, fragrance essential oil blend , litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit fruit extract, pyrus malus apple fruit extract, garcinia livingstonei african mangosteen seed oil, butyrospermum parkii shea butter , prunus armeniaca apricot kernel oil, hydrolyzed rice protein, guar hydroxypropyltrimonium chloride, sodium benzoate, panthenol, psidium guajava fruit extract, caprylhydroxamic acid, caprylyl glycol, sodium phytate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-shampoo/764302226451.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Masque
+ ingredients=water, cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, cetearyl alcohol, butyrospermum parkii shea butter , capric caprylic triglycerides, theobroma cacao cocoa seed butter, cetyl alcohol, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , behentrimonium methosulfate, glyceryl caprylate, glycerin vegetable , litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit fruit extract, pyrus malus apple fruit extract, garcinia livingstonei african mangosteen seed oil, persea gratissima avocado oil, mangifera indica mango seed butter, hydrolyzed rice protein, psidium guajava fruit extract, myrciaria dubia fruit extract, tocopheryl acetate, panthenol, cetrimonium chloride, glyceryl undecylenate, citrus grandis grapefruit fruit extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-masque/764302226475.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Dry Shampoo
+ ingredients=zea mays corn starch, magnesium carbonate, tapioca starch, fragrance essential oil blend , gluconolactone, butyrospermum parkii shea butter , garcinia livingstonei african mangosteen seed oil, litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit fruit extract, pyrus malus apple fruit extract, cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, psidium guajava fruit extract, water, glycerin, citrus grandis grapefruit seed extract, sodium benzoate certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-dry-shampoo/764302226772.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Crme Rinse Oz
+ ingredients=water, cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium chloride, glyceryl caprylate, panthenol, fragrance essential oil blend , litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit extract, pyrus malus apple fruit extract, garcinia livingstonei african mangosteen seed oil, prunus amygdalus dulcis sweet almond oil, hydrolyzed rice protein, glycerin, psidium guajava fruit extract, citrus grandis grapefruit fruit extract, hydroxyethylcellulose, capric caprylic triglycerides, tocopherol, sodium benzoate, myrciaria dubia fruit extract, cetrimonium chloride, glyceryl undecylenate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse-8-oz/764302226703.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Crme Rinse
+ ingredients=water, cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium chloride, glyceryl caprylate, panthenol, fragrance essential oil blend , litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit extract, pyrus malus apple fruit extract, garcinia livingstonei african mangosteen seed oil, prunus amygdalus dulcis sweet almond oil, hydrolyzed rice protein, glycerin, psidium guajava fruit extract, citrus grandis grapefruit fruit extract, hydroxyethylcellulose, capric caprylic triglycerides, tocopherol, sodium benzoate, myrciaria dubia fruit extract, cetrimonium chloride, glyceryl undecylenate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse/764302226635.html
+
+
+
+
+ Error occured msg=%s 
+name=Fruit Fusion Coconut Water Weightless Crme Rinse
+ ingredients=water, cocos nucifera coconut fruit juice, aloe barbadensis leaf juice, butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium chloride, glyceryl caprylate, panthenol, fragrance essential oil blend , litchi chinensis lychee fruit extract, hylocereus undatus dragon fruit extract, pyrus malus apple fruit extract, garcinia livingstonei african mangosteen seed oil, prunus amygdalus dulcis sweet almond oil, hydrolyzed rice protein, glycerin, psidium guajava fruit extract, citrus grandis grapefruit fruit extract, hydroxyethylcellulose, capric caprylic triglycerides, tocopherol, sodium benzoate, myrciaria dubia fruit extract, cetrimonium chloride, glyceryl undecylenate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/fruit-fusion-coconut-water-weightless-creme-rinse/764302226468.html
+
+
+
+
+ Error occured msg=%s 
+name=Dragon s Blood Coffee Cherry Volume Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, sodium cocoyl lsethionate, glycol stearate, sodium methyl cocoyl taurate, glyceryl caprylate, butyrospermum parkii shea butter , croton lechleri resin extract, coffea arabica coffee seed extract, lycium barbarum fruit extract, euterpe oleracea fruit extract, morinda citrifolia fruit extract, punica granatum extract, camellia sinensis leaf, guar hydroxypropyltrimonium chloride, caprylic capric triglyceride, panthenol, borago officinalis seed oil, ribes nigrum blackcurrant fruit oil, trigonella foenum graecum extract, urtica dioica nettle leaf extract, equisetum arvense extract, oenothera biennis evening primrose flower extract, glycerin vegetable , stearamide amp, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-shampoo/764302208303.html
+
+
+
+
+ Error occured msg=%s 
+name=Dragon s Blood Coffee Cherry Volume Lifting Spray
+ ingredients=water, lsopropyl alcohol, maltodextrin vp copolymer, glycerin vegetable , butyrospermum parkii shea butter , croton lechleri resin extract, lycium barbarum fruit extract, coffea arabica coffee seed extract, euterpe oleracea fruit extract, morinda citrifolia fruit extract, punica granatum extract, camellia sinensis leaf extract, garcinia mangostana mangosteen fruit extract, borago officinalis seed oil, ribes nigrum blackcurrant fruit oil, olea europaea leaf extract, aloe barbadensis leaf juice, hydrolyzed soy protein, equisetum arvense extract, vitis vinifera grape seed oil, hydrolyzed rice protein, panthenol, hydroxypropyltrimonium hydrolyzed corn starch, tocopherol, sodium chloride, sodium benzoate, gluconolactone, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-lifting-spray/764302208341.html
+
+
+
+
+ Error occured msg=%s 
+name=Dragon s Blood Coffee Cherry Volume Conditioner
+ ingredients=water, caprylic capric triglyceride, cetearyl alcohol, butyrospermum parkii shea butter , stearyl alcohol, glyceryl stearate citrate, glycerin vegetable , cetearyl alcohol, cetrimonium chloride, glyceryl caprylate, croton lechleri resin extract , coffea arabica coffee seed extract, borago officinalis seed oil, ribes nigrum blackcurrant seed oil, caffeine, lycium barbarum fruit extract, euterpe oleracea fruit extract, morinda citrifolia fruit extract, punica granatum extract, camellia sinensis leaf extract, polyquaternium , aloe barbadensis leaf juice, panthenol, urtica dioica nettle leaf extract, oenothera biennis evening primrose flower extract, equisetum arvense extract, tocopherol, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-conditioner/764302208310.html
+
+
+
+
+ Error occured msg=%s 
+name=Dragon s Blood Coffee Cherry Volume Texturizing Clay
+ ingredients=water, kaolin, caprylic capric triglyceride coconut oil derived , cetearyl alcohol, butyrospermum parkii shea butter , glycerin vegetable , bentonite, stearic acid, glyceryl stearate citrate, ribes nigrum blackcurrant fruit oil, borago officinalis seed oil, equisetum arvense extract, croton lechleri resin extract, hydrolyzed soy protein, lycium barbarum fruit extract, punica granatum extract, coffea arabica coffee seed extract, euterpe oleracea fruit extract, marinda citrifolia fruit extract, camellia sinensis leaf extract, garcinia mangostana mangosteen fruit extract, sodium pca, glyceryl caprylate, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-and-texturizing-clay/764302208334.html
+
+
+
+
+ Error occured msg=%s 
+name=Dragon s Blood Coffee Cherry Volume Styling Foam
+ ingredients=water, maltodextrin vp copolymer, cocamidopropyl betaine, glycerin vegetable , butyrospermum parkii shea butter , croton lechleri resin extract, coffea arabica coffee seed extract, ribes nigrum black currant seed oil, borago officinalis seed oil, lycium barbarum fruit extract, euterpe oleracea fruit extract, marinda citrifolia fruit extract, punica granatum extract, camellia sinensis leaf extract, panthenol, equisetum arvense extract, algae extract, caprylhydroxamic acid, caprylyl glycol, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/dragon%27s-blood-and-coffee-cherry-volume-and-styling-foam/764302208327.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Custard Make It Last Wash N Go Curl Primer
+ ingredients=water, glycerin vegetable , cetearyl alcohol, propanediol, behentrimonium chloride, glyceryl stearate, butyrospermum parkii shea butter , cocos nucifera coconut oil, hydroxypropyltrimonium hydrolyzed corn starch, cocos nucifera coconut fruit juice, hydrolyzed pea protein, guar hydroxypropyltrimonium chloride, garcinia lndica kokum seed butter, helianthus annuus sunflower seed oil, panthenol, adansonia digitata baobab seed oil, hydrolyzed wheat protein, acacia senegal gum extract, cocos nucifera coconut fruit extract, hydrolyzed wheat starch, argania spinosa kernel oil, tapioca maltodextrin, acacia senegal gum, biotin, triethyl citrate, caprylyl glycol, sodium benzoate, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-custard-make-it-last-wash-n%27-go-curl-primer/764302271444.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus On The Go Conditioning Hair Fragrance
+ ingredients=lsopropyl myristate, caprylic capric triglyceride, heptyl undecylenate, dicaprylyl ether, fragrance essential oil blend , hydrolyzed silk, melia azadirachta seed oil, cocos nucifera coconut oil, butyrospermum parkii shea butter , hibiscus rosa sinensis flower extract, tocopheryl acetate, water, glycerin certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-on-the-go-conditioning-hair-fragrance/764302290438.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Hold Shine Moisture Mist
+ ingredients=deonized water, cocos nucifera coconut oil , butyrospermum parkii shea butter , silk protein, essential oil blend, melia azadirachia neem seed oil, behentrimonium chloride conditioning salt , hyssopus officinalis extract, salvia officinalis sage leaf and equisetum arvense extract, lonicera caprifolium honeysuckle flower and lonicera japonica japanese honeysuckle flower extract, tocopherol vitamin e , hibiscus flower extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-hold-and-shine-moisture-mist/764302290230.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Moisture Co Wash
+ ingredients=water, butyrospermum parkii shea butter , stearyl alcohol, cocos nucifera coconut oil, behentrimonium chloride, cetyl alcohol, olea europaea olive fruit oil, triticum vulgare wheat germ oil, melia azadirachta seed oil, kaolin, simmondsia chinensis jojoba seed oil, salicylic acid, aloe barbadensis leaf juice, sodium lauroyl hydrolyzed silk, hydrolyzed vegetable protein pg propyl silanetriol, melaleuca alternifolia tea tree leaf oil, hydroxyethylcellulose, tocopheryl acetate, glyceryl caprylate, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-moisture-co-wash/764302290605.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Enhancing Smoothie Trial Travel Size
+ ingredients=deionized water, butyrospermum parkii shea butter , cocos nucifera coconut oil , macadamia ternifolia seed oil, magnifera indica mango seed butter , persea gratissima avacado oil, vegetable glycerin, aloe barbadensis leaf extract, silk protein, ammonium salt, melia azadiratcha neem seed oil, daucus carota sativa carrot seed oil, sorbitol esters, panthenol pro vitamin b , caprylyl glycol, proprietary essential oil blend, lonicera caprifolium honeysuckle flower and lonicera japonica japanese honeysuckle flower extract, tocopherol vitamin e , hibiscus flower extract
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie---trial-and-travel-size/764302290759.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Enhancing Smoothie oz
+ ingredients=cocos nucifera coconut fruit juice, water, glycerin vegetable , cetearyl alcohol, butyrospermum parkii shea butter , cetrimonium chloride, polysorbate , cocos nucifera coconut oil, oleth , panthenol, peg stearate, steareth , mangifera lndica mango seed butter, persea gratissima avocado oil, macadamia ternifolia seed oil, daucus carota sativa carrot seed oil, aloe barbadensis leaf juice, hydrolyzed silk, hibiscus rosa sinensis flower extract, tocopherol, melia azadirachta seed oil, fragrance essential oil blend , triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-enhancing-smoothie-12oz/764302290223.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Conditioner Trial Travel Size
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, cetyl alcohol, caprylic capric triglyceride, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, hydrolyzed vegetable protein pg propyl silanetriol, glycerin, tocopherol, glycine soja soybean oil, hibiscus rosa sinensis flower extract, mangifera indica mango seed butter, aloe barbadensis leaf juice, sodium lauroyl hydrolyzed silk, brassica campestris rapeseed seed oil, melia azadirachta neem seed oil, panthenol, triethyl citrate, caprylyl glycol, hydroxyethylcellulose, benzoic acid, phenoxyethanol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---trial-and-travel-size/764302290728.html
+
+
+
+
+ Error occured msg=%s 
+name=Coconut Hibiscus Curl Shine Conditioner OZ
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, cetyl alcohol, caprylic capric triglyceride, stearyl alcohol, behentrimonium chloride, fragrance essential oil blend , butyrospermum parkii shea butter , simmondsia chinensis jojoba seed oil, hydrolyzed vegetable protein pg propyl silanetriol, glycerin, tocopherol, glycine soja soybean oil, hibiscus rosa sinensis flower extract, mangifera indica mango seed butter, aloe barbadensis leaf juice, sodium lauroyl hydrolyzed silk, brassica campestris rapeseed seed oil, melia azadirachta neem seed oil, panthenol, triethyl citrate, caprylyl glycol, hydroxyethylcellulose, benzoic acid, phenoxyethanol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/coconut-and-hibiscus-curl-and-shine-conditioner---10.3-oz/764302290469.html
+
+
+
+
+ Error occured msg=%s 
+name=Baobab Tea Tree Oils Low Porosity Protein Free Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-shampoo/764302202011.html
+
+
+
+
+ Error occured msg=%s 
+name=Baobab Tea Tree Oils Low Porosity Protein Free Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/baobab-and-tea-tree-oils-low-porosity-protein-free-conditioner/764302202059.html
+
+
+
+
+ Error occured msg=%s 
+name=Bamboo Extract Maca Root Resilient Length Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, sodium cocoyl lsethionate, glycol stearate, sodium methyl cocoyl taurate, glycerin vegetable , butyrospermum parkii shea butter , bambusa arundinacea stem extract, hydrolyzed lepidium meyenii root, trifolium pratense clover flower extract, linum usitatissim linseed seed oil, panthenol, aloe barbadensis leaf juice, calendula officinalis flower extract, caprylic capric triglyceride, caprylhydroxamic acid, caprylyl glycol, guar hydroxypropyltrimonium chloride, stearamide amp, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-shampoo/764302208006.html
+
+
+
+
+ Error occured msg=%s 
+name=Bamboo Extract Maca Root Resilient Length Protein Masque
+ ingredients=water, caprylic capric triglyceride, stearyl alcohol, butyrospermum parkii shea butter , glycerin vegetable , cetyl alcohol, cetrimonium chloride, behentrimonium chloride, glyceryl stearate citrate, cetearyl alcohol, glyceryl caprylate, bambusa arundinacea stem extract, hydrolyzed lepidium meyenii root, trifolium pratense clover flower extract, linum usitatissimum linseed seed oil, panthenol, aloe barbadensis leaf juice, calendula officinalis flower extract, trigonella foenum graecum extract, glyceryl undecylenate, sodium pca, fragrance essential oil blend certified organic ingredient fair trade ingredient natural ingredients may vary in color and consistency if irritation occurs, discontinue use
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-protein-masque/764302208051.html
+
+
+
+
+ Error occured msg=%s 
+name=Bamboo Extract Maca Root Resilient Length Leave in or Rinse out Conditioner
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, stearyl alcohol, butyrospermum parkii shea butter , glyceryl stearate citrate, glycerin vegetable , glyceryl caprylate, bambusa arundinacea stem extract, lepidium meyenii root extract, trigonella foenum graecum extract, polyquaternium , aloe barbadensis leaf juice, cetrimonium chloride, panthenol, calendula officinalis flower extract, trifolium pratense clover flower extract, tocopherol, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-length-leave-in-or-rinse-out-conditioner/764302208037.html
+
+
+
+
+ Error occured msg=%s 
+name=Bamboo Extract Maca Root Resilient Growth Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, sodium cocoyl lsethionate, glycol stearate, sodium methyl cocoyl taurate, glycerin vegetable , butyrospermum parkii shea butter , bambusa arundinacea stem extract, hydrolyzed lepidium meyenii root, trifolium pratense clover flower extract, linum usitatissim linseed seed oil, panthenol, aloe barbadensis leaf juice, calendula officinalis flower extract, caprylic capric triglyceride, caprylhydroxamic acid, caprylyl glycol, guar hydroxypropyltrimonium chloride, stearamide amp, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/bamboo-extract-and-maca-root-resilient-growth-shampoo/764302208020.html
+
+
+
+
+ Error occured msg=%s 
+name=Argan Oil Almond Milk Smooth Tame Treatment Masque
+ ingredients=water, cocos nucifera coconut oil, cetearyl alcohol, glycerin vegetable , butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, behentrimonium chloride, behentrimonium methosulfate, fragrance essential oil blend , argania spinosa kernel oil, prunus amygdalus dulcis sweet almond oil, prunus amygdalus dulcis fruit extract, theobroma cacao cocoa seed butter, acetate, althaea officinalis root extract, hydrogenated vegetable oil, cetrimonium chloride, zea mays starch, caprylhydroxamic acid, caprylyl glycol certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/argan-oil-and-almond-milk-smooth-and-tame-treatment-masque/764302205265.html
+
+
+
+
+ Error occured msg=%s 
+name=Argan Oil Almond Milk Smooth Tame Conditioner
+ ingredients=water, argania spinosa kernel oil, butyrospermum parkii shea butter , glyceryl stearate, cetrimonium chloride, glycerin vegetable , cetearyl alcohol, stearyl alcohol, behentrimonium chloride, glyceryl caprylate, panthenol, prunus amygdalus dulcis sweet almond oil, annona cherimola fruit extract, coconut alkanes, prunus amygdalus dulcis fruit extract, simmondsia chinensis jojoba seed oil, aloe, barbadensis leaf juice, limnanthes alba meadowfoam seed oil, cococaprylate caprate, althaea officinalis root extract, zea mays starch, sodium hydroxide, fragrance essential oil blend , propanediol, glyceryl undecylenate certified organic ingredient fair trade ingrdient natural ingredients may vary in color and consistency if irritation occurs, discontinue use
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/argan-oil-and-almond-milk-smooth-and-tame-conditioner/764302205012.html
+
+
+
+
+ Error occured msg=%s 
+name=African Water Mint Ginger Detox Hair Scalp Gentle Shampoo
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-hair-and-scalp-gentle-shampoo/764302214502.html
+
+
+
+
+ Error occured msg=%s 
+name=African Water Mint Ginger Detox Refresh Scalp Elixir
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-scalp-elixir/764302214533.html
+
+
+
+
+ Error occured msg=%s 
+name=African Water Mint Ginger Detox Refresh Hair Scalp Leave In Detangler
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-leave-in-detangler/764302214526.html
+
+
+
+
+ Error occured msg=%s 
+name=African Water Mint Ginger Detox Refresh Hair Scalp Conditioner
+ ingredients=
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-water-mint-and-ginger-detox-and-refresh-hair-and-scalp-conditioner/764302214519.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Purification Masque
+ ingredients=aloe barbadensis leaf juice, water, cetearyl alcohol, cocos nucifera coconut oil, stearyl alcohol, glycerin vegetable , butyrospermum parkii shea butter , olea europaea olive fruit oil, persea gratissima avocado oil, prunus amygdalus dulcis sweet almond oil, cetyl alcohol, behentrimonium methosulfate, glyceryl caprylate, behentrimonium chloride, salicylic acid, vinegar, melaleuca alternifolia tea tree leaf oil, argania spinosa kernel oil, simmondsia chinensis jojoba seed oil, mangifera lndica mango seed butter, nigella sativa seed oil, melia azadirachta seed oil, vitis vinifera grape seed oil, ormenis multicaulis oil, hamamelis virginiana witch hazel extract, salix nigra willow bark extract, plantago major leaf extract, rosmarinus officinalis rosemary leaf extract, salvia officinalis sage leaf extract, sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, camellia sinensis green tea leaf extract, avena sativa oat bran extract, euterpe oleracea fruit extract, beta glucan, tocopheryl acetate, sodium chloride, lsopropyl alcohol, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-purification-masque/764302270249.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Eczema Psoriasis Therapy
+ ingredients=sodium palm kernelate, water, glycerin, fragrance parfum , palmitic acid, butyrospermum parkii shea butter , helianthus annuus, sunflower seed oil and salix alba willow bark extracts, saponified butyrospermum parkii shea butter , saponified cocos nucifera coconut oil, saponified elaeis guineensis palm kernel oil, cocoa pod ash, avena sativa oat kernel meal, carbon, avena sativa oat kernel flour, melaleuca alternifolia tea tree leaf oil, sodium chloride, tetrasodium edta, tatresodium etidronate
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-eczema-and-psoriasis-therapy/764302270409.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Deep Cleansing Shampoo
+ ingredients=water, sodium lauroyl methyl lsethionate, cocamidopropyl betaine, glycerin vegetable , glycol distearate, glyceryl caprylate, vinegar, olea europaea olive fruit oil, butyrospermum parkii shea butter , salicylic acid, melaleuca alternifolia tea tree leaf oil, persea gratissima avocado oil, cocos nucifera coconut oil, argania spinosa kernel oil, simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, mangifera lndica mango seed butter, nigella sativa seed oil, melia azadirachta seed oil, vitis vinifera grape seed oil, salix nigra willow bark extract, plantago major leaf extract, rosmarinus officinalis rosemary leaf extract, salvia officinalis sage leaf extract, sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, aloe barbadensis leaf juice, hydrolyzed rice protein, tocopheryl acetate, caramel, guar hydroxypropyltrimonium chloride, sodium chloride, glyceryl undecylenate, fragrance essential oil blend
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-deep-cleansing-shampoo/764302270201.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Clarifying Conditioner
+ ingredients=aloe barbadensis leaf juice, water, butyrospermum parkii shea butter , stearyl alcohol, cocos nucifera coconut oil, cetyl alcohol, behentrimonium chloride, glyceryl caprylate, glycerin vegetable , vinegar, salicylic acid, olea europaea olive fruit oil, melaleuca alternifolia ttea tree leaf oil, persea gratissima avocado oil, argania spinosa kernel oil, simmondsia chinensis jojoba seed oil, macadamia ternifolia seed oil, mangifera indica mango seed butter, nigella sativa seed oil, melia azadirachta seed oil, vitis vinifera grape seed oil, salix nigra willow bark extract, plantago major leaf extract, rosmarinus officinalis rosemary leaf extract, salvia officinalis sage leaf extract, sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, hydrolyzed rice protein, tocopheryl acetate, panthenol, sodium chloride, hydroxyethylcellulose, sodium phytate, glyceryl undecylenate, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-clarifying-conditioner/764302270218.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Purification Masque
+ ingredients=water, cetearyl alcohol, caprylic capric triglyceride, glycerin vegetable ,butyrospermum parkii shea butter , stearyl alcohol, cetyl alcohol, cocos nucifera coconut oil, persea gratissima avocado oil, aloe barbadensis leaf juice, behentrimonium methosulfate, behentrimonium chloride, fragrance essentialoil blend , panthenol, hydrogenated vegetable oil, melaleuca alternifolia teatree leaf oil, hydroxyethylcellulose, avena sativa oat kernel flour, charcoal powder, salicylic acid, hydrolyzed vegetable protein pg propyl silanetriol, polyquaternium , beta glucan, hamamelis virginiana witch hazel extract, lsopropyl alcohol, avena sativa oat bran extract, sodium palm kernelate, sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, salix nigra willow bark extract, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-purification-masque/764302271086.html
+
+
+
+
+ Error occured msg=%s 
+name=African Black Soap Bamboo Charcoal Pre Shampoo Scalp Scrub
+ ingredients=water, lithium magnesium sodium silicate, glycerin vegetable , menthyl lactate, fragrance essential oil blend , butyrospermumparkii shea butter , salicylic acid, charcoal powder, panthenol, caprylic capric triglyceride, sodium palm kernelate,sodium shea butterate, sodium cocoate, theobroma cacao cocoa pod ash, coffea arabica coffee seed powder, quercus suber bark, plantago major leaf extract, melaleucaalternifolia tea tree leaf oil, tocopheryl acetate, salix nigra willow bark extract, avena sativa oat bran extract,tamarindus lndica fruit extract, menthol, xanthan gum, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/african-black-soap-bamboo-charcoal-pre-shampoo-scalp-scrub/764302270836.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Rehydration Treatment Masque
+ ingredients=water, cetearyl alcohol, cocos nucifera coconut oil, butyrospermum parkii shea butter , glycerin vegetable , stearyl alcohol, cetyl alcohol, behentrimonium methosulfate, panthenol, behentrimonium chloride, caprylic capric triglyceride, cocos nucifera coconut fruit juice, tocopherol, hydrolyzed rice protein, acacia senegal gum extract, cetrimonium chloride, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-rehydration-treatment-masque/764302204633.html
+
+
+
+
+ Error occured msg=%s 
+name=Virgin Coconut Oil Baby Wash Shampoo
+ ingredients=water, decyl glucoside, cocamidopropyl betaine, sodium lauroyl lactylate, fragrance essential oil blend , guar hydroxypropyltrimonium chloride, butyrospermum parkii shea butter , calendula officinalis flower extract, arnica montana flower extract, chamomilla recutita matricaria flower extract, cocos nucifera coconut oil, astrocaryum murumuru seed butter, triethyl citrate, caprylyl glycol, benzoic acid certified organic ingredients fair trade ingredients natural ingredients may vary in consistency if irritation occurs, discontinue use tested on our family for four generations never on animals this packaging contains a minimum of post consumer resin
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/100-virgin-coconut-oil-baby-wash-and-shampoo/764302224051.html
+
+
+
+
+ Error occured msg=%s 
+name=Purple Rice Water Strength Color Care Oil Serum
+ ingredients=hydrogenated ethylhexyl olivate, caprylic capric triglyceride, isopropyl myristate, hydrogenated olive oil unsaponifiable, glycerin vegetable , viola odorata violet flower extract, orchis mascula flower extract, oryza sativa rice extract, butyrospermum parkii shea butter , water, cinnamidopropyltrimonium chloride, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-oil-serum/764302229100.html
+
+
+
+
+ Error occured msg=%s 
+name=Purple Rice Water Strength Color Care Conditioner
+ ingredients=water, theobroma cacao cocoa seed butter, cetearyl alcohol, stearyl alcohol, butyrospermum parkii shea butter , argania spinosa argan kernel oil, glycerin vegetable , behentrimonium chloride, macadamia ternifolia seed oil, simmondsia chinensis jojoba seed oil, coccinia indica fruit extract, viola odorata violet flower extract, orchis mascula flower extract, aloe barbadensis leaf juice, oryza sativa rice extract, hydrogenated vegetable oil, melia azadirachta flower extract, tocopheryl acetate, panthenol, hydroxyethylcellulose, triethyl citrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/purple-rice-water-strength-and-color-care-conditioner/764302315896.html
+
+
+
+
+ Error occured msg=%s 
+name=Cannabis Sativa Hemp Seed Oil Lush Length Lite Leave In
+ ingredients=water, glycerin vegetable , caprylic capric triglyceride,behentrimonium methosulfate, cetearyl alcohol, panthenol, helianthus annuus sunflower seed oil, ricinus communis castor seed oil, hydrogenated ethylhexylolivate, hydrogenated olive oil unsaponifiables, behentrimonium chloride,cannabis sativa hemp seed oil, panax ginseng root extract, equisetum arvense horsetail extract, cocos nucifera coconut oil, adansonia digitata baobab seedoil, butyrospermum parkii shea butter , sodium hydroxide, triethyl citrate,caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-lite-leave-in/764302313557.html
+
+
+
+
+ Error occured msg=%s 
+name=Cannabis Sativa Hemp Seed Oil Lush Length Conditioner
+ ingredients=water, glyceryl stearate, caprylic capric triglyceride,glycerin vegetable , stearyl alcohol, cetyl alcohol, behentrimoniumchloride, panthenol, sodium pca, hydrogenated ethylhexyl olivate,hydrogenated olive oil unsaponifiables, bisabolol, prunus armeniaca apricot kernel oil, butyrospermum parkii shea butter , cannabissativa hemp seed oil, cocos nucifera coconut oil, olea europaea olive fruit oil, hydrolyzed rice protein, panax ginseng root extract,aloe barbadensis leaf juice, equisetum arvense horsetail extract, triethylcitrate, caprylyl glycol, benzoic acid, fragrance essential oil blend certified organic ingredient fair trade ingredient
+ brand=Shea Moisture
+ url=https://www.sheamoisture.com/cannabis-sativa-%28hemp-seed-oil-lush-length-conditioner/764302312666.html
+
+
+number successfully scraped:  173

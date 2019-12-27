@@ -1,0 +1,1616 @@
+Adding New Retailer
+['https://themanechoice.com/collections/pre-poo', 'https://themanechoice.com/collections/shampoo', 'https://themanechoice.com/collections/co-wash', 'https://themanechoice.com/collections/conditioner', 'https://themanechoice.com/collections/detangler-leave-in', 'https://themanechoice.com/collections/treatments', 'https://themanechoice.com/collections/styler']
+{'name': ['//*[@id="PageContainer"]/main/div/div/div/div[2]/h1/text()'], 'url': ['//*[@id="collection-main"]/div[1]/div/div/p[1]/a/@href'], 'ingredients': ['/html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/p/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+Adding New Retailer
+['https://mielleorganics.com/collections/hair?page=1', 'https://mielleorganics.com/collections/hair?page=2']
+{'name': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/h2/text()'], 'url': ['//*[@id="shopify-section-collection-template"]/div/div[5]/div[1]/div/div/a/@href'], 'ingredients': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/div[5]/p[3]/text()[2]', '//*[@id="tab3"]/p[1]/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+Adding New Retailer
+['https://asiamnaturally.com/collections/shampoo', 'https://asiamnaturally.com/collections/cowash', 'https://asiamnaturally.com/collections/condition', 'https://asiamnaturally.com/collections/leave-in-conditioner', 'https://asiamnaturally.com/collections/stylers', 'https://asiamnaturally.com/collections/oils', 'https://asiamnaturally.com/collections/daily-moisturizers', 'https://asiamnaturally.com/collections/treatment', 'https://asiamnaturally.com/collections/vegan', 'https://asiamnaturally.com/collections/henna-happiness']
+{'name': ['//*[@id="product-box"]/div[2]/section/h1/text()'], 'url': ['//*[@id="Collection"]/div/div/div/div/div[2]/a/@href'], 'ingredients': ['//*[@id="product-box"]/div[2]/section/div[3]/p[3]/text()', '//*[@id="product-box"]/div[2]/section/div[6]/p[7]/text()', '//*[@id="product-box"]/div[2]/section/div[3]/p[3]/span/text()', '//*[@id="product-box"]/div[2]/section/div[4]/p[2]/text()[2]', '//*[@id="product-box"]/div/section/div/p/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+Adding New Retailer
+['https://www.camillerose.com/collections/cleanse?page=1', 'https://www.camillerose.com/collections/cleanse?page=2', 'https://www.camillerose.com/collections/hair-butters?page=1', 'https://www.camillerose.com/collections/hair-butters?page=2', 'https://www.camillerose.com/collections/conditioners?page=1', 'https://www.camillerose.com/collections/conditioners?page=2', 'https://www.camillerose.com/collections/deep-conditioners?page=1', 'https://www.camillerose.com/collections/deep-conditioners?page=2', 'https://www.camillerose.com/collections/hair-oils?page=1', 'https://www.camillerose.com/collections/hair-oils?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=1']
+{'name': ['/html/body/div/main/div/div/div/div/h1/text()'], 'url': ['//*[@id]/main/div[1]/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div/div[1]/a/@href'], 'ingredients': ['/html/body/div/main/div/div/div/div/div/div/div/div/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+ 
+ starting url:  https://themanechoice.com/collections/pre-poo
+total number products:  5
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Heavenly Halo Herbal Hair Tonic Soy Milk Deep Hydration Pre Poo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/pre-poo/products/heavenly-halo-herbal-hair-tonic-soy-milk-deep-hydration-pre-poo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Exotic Cool Laid Sweet Papaya Pineapple Infinite Conditioner Pre Poo, Rinse Out, Leave In, Co Wash, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/pre-poo/products/exclusively-at-walgreens-exotic-cool-laid-sweet-papaya-pineapple-infinite-conditioner-pre-poo-rinse-out-leave-in-co-wash-detangler
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/pre-poo/products/proceed-with-caution-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Paradise Minty Scalp Purifying Spray
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/pre-poo/products/exclusively-at-target-prickly-pear-paradise-minty-scalp-purifying-spray
+
+
+number successfully scraped:  1
+ 
+ starting url:  https://themanechoice.com/collections/shampoo
+total number products:  12
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=CHEERS SUPREME STRENGTH FULL PROTECTION SHAMPOO
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/available-exclusively-at-walmart-cheers-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=PROCEED WITH CAUTION SLIPPERY WHEN WET SHAMPOO
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/exclusively-at-sally-beauty-proceed-with-caution-slippery-when-wet-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Head Honcho Hair Beard Shampoo Conditioner Too CLEAN
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/head-honcho-hair-beard-shampoo-conditioner-too-clean
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Heavenly Halo Herbal Hair Tonic Soy Milk Deep Hydration Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/heavenly-halo-herbal-hair-tonic-soy-milk-deep-hydration-shampoo-1
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Anti Breakage Repair Antidote Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/ancient-egyptian-anti-breakage-repair-antidote-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Pink Lemonade Coconut Super Antioxidant Texture Beautifier Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/pink-lemonade-coconut-super-antioxidant-texture-beautifier-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Juicy Orange Fruit Medley KIDS Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/juicy-orange-fruit-medley-kids-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=White Willow Bark Cucumber Baby Hair to Toe Wash Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/white-willow-bark-cucumber-hair-to-toe-wash-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Tropical Moringa Sweet Oil Honey Endless Moisture Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/tropical-moringa-sweet-oil-honey-endless-moisture-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Do It FRO The Culture Powerful Shampoo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/shampoo/products/available-exclusively-at-sally-beauty-do-if-fro-the-culture-powerful-shampoo
+
+
+number successfully scraped:  1
+ 
+ starting url:  https://themanechoice.com/collections/co-wash
+total number products:  4
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Soft As Can Be Revitalize Refresh in Co Wash, Leave In, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/co-wash/products/soft-as-can-be-revitalize-refresh-3-in-1-co-wash-leave-in-detangler
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Exotic Cool Laid Sweet Papaya Pineapple Infinite Conditioner Pre Poo, Rinse Out, Leave In, Co Wash, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/co-wash/products/exclusively-at-walgreens-exotic-cool-laid-sweet-papaya-pineapple-infinite-conditioner-pre-poo-rinse-out-leave-in-co-wash-detangler
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/co-wash/products/proceed-with-caution-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Paradise No Poo Cleasing Foam
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/co-wash/products/exclusively-at-target-prickly-pear-paradise-no-poo-cleasing-foam
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://themanechoice.com/collections/conditioner
+total number products:  12
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=CHEERS SUPREME STRENGTH FULL PROTECTION CONDITIONER
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/available-exclusively-at-walmart-cheers-to-supreme-strength-full-protection-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=PROCEED WITH CAUTION WAY CONDITIONER
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/exclusively-available-at-sally-proceed-with-caution-4-way-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=PROCEED WITH CAUTION STOP THE DAMAGE PRE OR POST POO MASK
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/exclusively-available-at-sally-beauty-proceed-with-caution-stop-the-damage-pre-or-post-poo-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Easy On The CURLS Detangling Hydration Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/easy-on-the-curls-detangling-hydration-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Soft As Can Be Revitalize Refresh in Co Wash, Leave In, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/soft-as-can-be-revitalize-refresh-3-in-1-co-wash-leave-in-detangler
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Head Honcho Hair Beard Shampoo Conditioner Too CLEAN
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/head-honcho-hair-beard-shampoo-conditioner-too-clean
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=LIMITED EDITION Hair Type Leaf Clover Leave In Cream
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/limited-edition-hair-type-4-leaf-clover-leave-in-cream
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Leave In Spray
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-leave-in-spray
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Heavenly Halo Herbal Hair Tonic Soy Milk Deep Hydration Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/heavenly-halo-herbal-hair-tonic-soy-milk-deep-hydration-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Anti Breakage Repair Antidote Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/ancient-egyptian-anti-breakage-repair-antidote-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Pink Lemonade Coconut Super Antioxidant Texture Beautifier Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/conditioner/products/pink-lemonade-coconut-super-antioxidant-texture-beautifier-conditioner
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://themanechoice.com/collections/detangler-leave-in
+total number products:  11
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Soft As Can Be Revitalize Refresh in Co Wash, Leave In, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/soft-as-can-be-revitalize-refresh-3-in-1-co-wash-leave-in-detangler
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Tropical Moringa Sweet Oil Honey Endless Moisture Rinse Out or Leave In Conditioner
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/tropical-moringa-sweet-oil-honey-endless-moisture-rinse-out-or-leave-in-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Leave In Spray
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-leave-in-spray
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Anti Breakage Repair Antidote Cuticle Control Control Leave In Lotion
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/ancient-egyptian-anti-breakage-repair-antidote-cuticle-control-control-leave-in-lotion
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=LIMITED EDITION Hair Type Leaf Clover Leave In Cream
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/limited-edition-hair-type-4-leaf-clover-leave-in-cream
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Do It FRO The Culture Accomplished Triple Layer Leave In
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/available-exclusively-at-sally-beauty-do-it-fro-the-culture-accomplished-triple-layer-leave-in
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=PROCEED WITH CAUTION WAY CONDITIONER
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/exclusively-available-at-sally-proceed-with-caution-4-way-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/prickly-pear-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Proceed With Caution Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/proceed-with-caution-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Paradise Leave In Conditioning Cream
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/exclusively-at-target-prickly-pear-paradise
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Exotic Cool Laid Sweet Papaya Pineapple Infinite Conditioner Pre Poo, Rinse Out, Leave In, Co Wash, Detangler
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/detangler-leave-in/products/exclusively-at-walgreens-exotic-cool-laid-sweet-papaya-pineapple-infinite-conditioner-pre-poo-rinse-out-leave-in-co-wash-detangler
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://themanechoice.com/collections/treatments
+total number products:  12
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=PROCEED WITH CAUTION STOP THE DAMAGE PRE OR POST POO MASK
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/exclusively-available-at-sally-beauty-proceed-with-caution-stop-the-damage-pre-or-post-poo-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Heavenly Halo Herbal Hair Tonic Soy Milk Deep Hydration Pre Poo
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/heavenly-halo-herbal-hair-tonic-soy-milk-deep-hydration-pre-poo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Heavenly Halo Herbal Hair Tonic Soy Milk Deep Hydration Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/heavenly-halo-herbal-hair-tonic-soy-milk-deep-hydration-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Anti Breakage Repair Antidote Hair Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/ancient-egyptian-anti-breakage-repair-antidote-hair-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Anti Breakage Repair Antidote Split End Treatment Serum
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/ancient-egyptian-anti-breakage-repair-antidote-split-end-treatment-serum
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Pink Lemonade Coconut Super Antioxidant Texture Beautifier Minute Reviving Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/pink-lemonade-coconut-super-antioxidant-texture-beautifier-5-minute-reviving-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Do It FRO The Culture Magnificent Miracle Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/available-exclusively-at-sally-beauty-do-it-fro-the-culture-magnificent-miracle-mask
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Tropical Moringa Sweet Oil Honey Endless Moisture Mask
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/treatments/products/tropical-moringa-sweet-oil-honey-endless-moisture-mask
+
+
+number successfully scraped:  3
+ 
+ starting url:  https://themanechoice.com/collections/styler
+total number products:  12
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=LAID BACK EFFORTLESSLY Growth Stimulating Edge Control
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/growth-stimulating-edge-control
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Prickly Pear Paradise Curl Creator Styling Custard
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/prickly-pear-paradise-curl-creator-styling-custard
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Stubborn Edges Freezing Gel
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-stubborn-edges-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Moisturizing Styling Cream
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/available-exclusively-at-sally-beauty-hair-type-4-leaf-clover-moisturizing-styling-cream
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Ancient Egyptian Karat Gold Twisting Gel
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/ancient-egyptian-24-karat-gold-twisting-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Pink Lemonade Coconut Super Antioxidant Texture Beautifier Mousse
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/pink-lemonade-coconut-super-antioxidant-texture-beautifier-mousse
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Pink Lemonade Coconut Super Anti Oxidant Texture Beautifier Curl Boosting Sherbet
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/pink-lemonade-coconut-super-anti-oxidant-texture-beautifier-curl-boosting-sherbet
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Tropical Moringa Sweet Oil Honey Endless Moisture Pearly Braid Out Glaze
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/tropical-moringa-sweet-oil-honey-endless-moisture-pearly-braid-out-glaze
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Hair Type Leaf Clover Collection
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/hair-typ-4-leaf-clover-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Do It FRO The Culture Bold Buttery Gel
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/available-exclusively-at-sally-beauty-do-it-fro-the-culture-bold-buttery-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Peach Black Tea Vitamin Fusion Anti Shedding Intense Volume Therapy Mousse
+ ingredients=
+ brand=The Mane Choice
+ url=https://themanechoice.com/collections/styler/products/exclusively-at-sally-beauty-peach-black-tea-vitamin-fusion
+
+
+number successfully scraped:  1
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=1
+total number products:  24
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Babassu Conditioning Sulfate Free Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/babassu-oil-conditioning-sulfate-free-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Edge Gel
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-edge-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Hair Masque
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-hair-masque
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Multivitamin Daily Styling Crme
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-multi-vitamin-daily-styling-creme
+
+
+number successfully scraped:  19
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=2
+total number products:  24
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Babassu Conditioning Sulfate Free Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/babassu-oil-conditioning-sulfate-free-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Edge Gel
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-edge-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Shampoo
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Strengthening Hair Masque
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-strengthening-hair-masque
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Rosemary Mint Multivitamin Daily Styling Crme
+ ingredients=
+ brand=Mielle Organics
+ url=https://mielleorganics.com//collections/hair/products/rosemary-mint-multi-vitamin-daily-styling-creme
+
+
+number successfully scraped:  19
+ 
+ starting url:  https://asiamnaturally.com/collections/shampoo
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Strengthening Shampoo
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/shampoo/products/strengthening-shampoo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Cleansing Pudding
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/shampoo/products/cleansing-pudding-sulfate-free-moisturizing-cleanser
+
+
+number successfully scraped:  4
+ 
+ starting url:  https://asiamnaturally.com/collections/cowash
+total number products:  7
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=GroWash
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/cowash/products/growash
+
+
+number successfully scraped:  6
+ 
+ starting url:  https://asiamnaturally.com/collections/condition
+total number products:  4
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Conditioner
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/condition/products/conditioner
+
+
+number successfully scraped:  3
+ 
+ starting url:  https://asiamnaturally.com/collections/leave-in-conditioner
+total number products:  4
+number successfully scraped:  4
+ 
+ starting url:  https://asiamnaturally.com/collections/stylers
+total number products:  10
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Curl Enhancing Smoothie
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/curl-enhancing-smoothie
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Curling Jelly
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/curling-jelly
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=GroEdges
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/groedges
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Smoothing Gel
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/smoothing-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Twist Defining Cream
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/twist-defining-cream
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Oil Sheen Spray
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/stylers/products/oil-sheen-spray
+
+
+number successfully scraped:  4
+ 
+ starting url:  https://asiamnaturally.com/collections/oils
+total number products:  9
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=GroHair Oil
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/oils/products/grohair-oil
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Nourishing Hair Body Oil
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/oils/products/nourishing-hair-body-oil
+
+
+number successfully scraped:  7
+ 
+ starting url:  https://asiamnaturally.com/collections/daily-moisturizers
+total number products:  7
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=DoubleButter Cream
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/daily-moisturizers/products/doublebutter-cream
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=So Much Moisture
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/daily-moisturizers/products/so-much-moisture-tm
+
+
+number successfully scraped:  5
+ 
+ starting url:  https://asiamnaturally.com/collections/treatment
+total number products:  1
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Scalp Serum
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/treatment/products/scalp-serum
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://asiamnaturally.com/collections/vegan
+total number products:  18
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Curling Jelly
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/vegan/products/curling-jelly
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=GroHair Oil
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/vegan/products/grohair-oil
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Smoothing Gel
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/vegan/products/smoothing-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Twist Defining Cream
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/vegan/products/twist-defining-cream
+
+
+number successfully scraped:  14
+ 
+ starting url:  https://asiamnaturally.com/collections/henna-happiness
+total number products:  1
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Henna Happiness
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com//collections/henna-happiness/products/henna-happinesstm
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/cleanse?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/buritti-nectar-repair-hair-oil-1
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/caramel-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/citrus-blossom-cleansing-milk
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/clean-rinse
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/coconut-water-curl-coating-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/creme-restore-conditioning-cleanser
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/cleanse?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/buritti-nectar-repair-hair-oil-1
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/caramel-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/citrus-blossom-cleansing-milk
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/clean-rinse
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/coconut-water-curl-coating-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/cleanse/products/creme-restore-conditioning-cleanser
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/hair-butters?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/almond-jai-twisting-butter
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel-travel-size
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/brown-butter-melt
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/coconut-water-style-setter
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/hair-butters?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/almond-jai-twisting-butter
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/aloe-whipped-butter-gel-travel-size
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/brown-butter-melt
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-butters/products/coconut-water-style-setter
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/conditioners?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/buritti-nectar-repair-cholesterol-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-curl-coating-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-leave-in-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/fresh-curl
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/jansyns-moisture-max-conditioner
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/conditioners?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/buritti-nectar-repair-cholesterol-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-curl-coating-cowash
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-leave-in-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/fresh-curl
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/conditioners/products/jansyns-moisture-max-conditioner
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/deep-conditioners?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/algae-renew-deep-conditioning-max
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/buritti-nectar-repair-cholesterol-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/her-essentials-collection-bundle
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/lavender-quench-deep-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/nangai-tsubaki-strength-restore-protein-treatment-1
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/deep-conditioners?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/algae-renew-deep-conditioning-max
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/buritti-nectar-repair-cholesterol-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/coconut-water-penetrating-hair-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/her-essentials-collection-bundle
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/lavender-quench-deep-conditioner
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/deep-conditioners/products/nangai-tsubaki-strength-restore-protein-treatment-1
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/hair-oils?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/brown-butter-melt
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/buritti-nectar-repair-hair-oil-1
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/cocoa-nibs-and-honey
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/herbal-tea-the-leave-in-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/nangai-tsubaki-strength-restore-hair-oil-1
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/hair-oils?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/brown-butter-melt
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/buritti-nectar-repair-hair-oil-1
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/cocoa-nibs-and-honey
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/herbal-tea-the-leave-in-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/hair-oils/products/nangai-tsubaki-strength-restore-hair-oil-1
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/leave-ins-detanglers?page=2
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-duo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-hydrating-elixir
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-leave-in-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-style-setter
+
+
+number successfully scraped:  0
+ 
+ starting url:  https://www.camillerose.com/collections/leave-ins-detanglers?page=1
+total number products:  6
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/brown-butter-melt-signature-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-collection
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-duo
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-hydrating-elixir
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-leave-in-treatment
+
+
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=
+ ingredients=
+ brand=Camille_Rose
+ url=https://www.camillerose.com/collections/leave-ins-detanglers/products/coconut-water-style-setter
+
+
+number successfully scraped:  0

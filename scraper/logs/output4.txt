@@ -1,0 +1,23 @@
+Adding New Retailer
+['https://mielleorganics.com/collections/hair?page=1', 'https://mielleorganics.com/collections/hair?page=2']
+{'name': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/h2/text()'], 'url': ['//*[@id="shopify-section-collection-template"]/div/div[5]/div[1]/div/div/a/@href'], 'ingredients': ['//*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/div[5]/p[3]/text()[2]', '//*[@id="tab3"]/p[1]/text()', '//*[@id="tab3"]/p[1]/span/text()'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+Adding New Retailer
+['https://www.camillerose.com/collections/cleanse?page=1', 'https://www.camillerose.com/collections/cleanse?page=2', 'https://www.camillerose.com/collections/hair-butters?page=1', 'https://www.camillerose.com/collections/hair-butters?page=2', 'https://www.camillerose.com/collections/conditioners?page=1', 'https://www.camillerose.com/collections/conditioners?page=2', 'https://www.camillerose.com/collections/deep-conditioners?page=1', 'https://www.camillerose.com/collections/deep-conditioners?page=2', 'https://www.camillerose.com/collections/hair-oils?page=1', 'https://www.camillerose.com/collections/hair-oils?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=2', 'https://www.camillerose.com/collections/leave-ins-detanglers?page=1']
+{'name': ['/html/body/div/main/div/div/div/div/h1/text()'], 'url': ['//*[@id]/main/div[1]/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div/div[1]/a/@href'], 'ingredients': ['//*[@class="product_acc_right"]/p/text()[contains(.,', "'Ingredients')", 'or', "contains(.,'ingredients')]"], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=1
+total number products:  24
+number successfully scraped:  24
+ 
+ starting url:  https://mielleorganics.com/collections/hair?page=2
+total number products:  24
+number successfully scraped:  24
+ 
+ starting url:  https://www.camillerose.com/collections/cleanse?page=1
+total number products:  6
+Error occured  Invalid predicate
+
+
+ Error occured msg=%s local variable 'product_name' referenced before assignment

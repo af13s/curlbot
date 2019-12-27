@@ -1,0 +1,254 @@
+
+    (Update) All EntityTypes
+    (Add) Company Names
+    (Create) Entity Types & Update Company Names
+    (ALL) Update EntityTypes & Company Names
+    (E) to (Exit)
+    
+
+     
+ >: 
+
+ As I Am Curling Cream ['Curling', 'Cream'] 
+
+
+
+
+ As I Am Coil Defining Jelly ['Coil Defining', 'Coil Jelly', 'Defining Jelly'] 
+
+
+
+
+ As I Am JBCO Smoothie ['JBCO', 'Smoothie'] 
+
+
+
+
+ As I Am Twist Defining Cream ['Twist Defining', 'Twist Cream', 'Defining Cream'] 
+
+
+
+
+ As I Am GroWash ['GroWash'] 
+
+
+
+
+ As I Am GroHair Oil ['GroHair', 'Oil'] 
+
+
+
+
+ As I Am Henna Happiness ['Henna', 'Happiness'] 
+
+
+
+
+ As I Am Avocado Shea CoWash ['Avocado Shea', 'Avocado CoWash', 'Shea CoWash'] 
+
+
+
+
+ As I Am Virgin Black Seed Oil ['Virgin Black Seed', 'Virgin Black Oil', 'Virgin Seed Oil', 'Black Seed Oil'] 
+
+
+
+
+ As I Am Rosemary Vanilla Twist Defining Smoothie ['Rosemary Vanilla Twist Defining', 'Rosemary Vanilla Twist Smoothie', 'Rosemary Vanilla Defining Smoothie', 'Rosemary Twist Defining Smoothie', 'Vanilla Twist Defining Smoothie'] 
+
+
+
+
+ As I Am Coconut Cowash oz ['Coconut Cowash', 'Coconut oz', 'Cowash oz'] 
+
+
+
+
+ As I Am JBCO Shampoo ['JBCO', 'Shampoo'] 
+
+
+
+
+ As I Am Extra Virgin Olive Oil ['Extra Virgin Olive', 'Extra Virgin Oil', 'Extra Olive Oil', 'Virgin Olive Oil'] 
+
+
+
+
+ As I Am Smoothing Gel ['Smoothing', 'Gel'] 
+
+
+
+
+ As I Am Olive Tea Tree Oil Shampoo ['Olive Tea Tree Oil', 'Olive Tea Tree Shampoo', 'Olive Tea Oil Shampoo', 'Olive Tree Oil Shampoo', 'Tea Tree Oil Shampoo'] 
+
+
+
+
+ As I Am Vitamin E Oil ['Vitamin E', 'Vitamin Oil', 'E Oil'] 
+
+
+
+
+ As I Am Argan Leave In Conditioner Detangler ['Argan Leave In Conditioner', 'Argan Leave In Detangler', 'Argan Leave Conditioner Detangler', 'Argan In Conditioner Detangler', 'Leave In Conditioner Detangler'] 
+
+
+
+
+ As I Am Scalp Serum ['Scalp', 'Serum'] 
+
+
+
+
+ As I Am Aloe Shampoo Wash ['Aloe Shampoo', 'Aloe Wash', 'Shampoo Wash'] 
+
+
+
+
+ As I Am Olive Tea Tree Oil Treatment ['Olive Tea Tree Oil', 'Olive Tea Tree Treatment', 'Olive Tea Oil Treatment', 'Olive Tree Oil Treatment', 'Tea Tree Oil Treatment'] 
+
+
+
+
+ As I Am GroEdges ['GroEdges'] 
+
+
+
+
+ As I Am Olive Tea Tree Oil CoWash ['Olive Tea Tree Oil', 'Olive Tea Tree CoWash', 'Olive Tea Oil CoWash', 'Olive Tree Oil CoWash', 'Tea Tree Oil CoWash'] 
+
+
+
+
+ As I Am Olive Tea Tree Oil Leave In Conditioner ['Olive Tea Tree Leave', 'Olive Tea Tree In', 'Olive Tea Tree Conditioner', 'Olive Tea Leave In', 'Olive Tea Leave Conditioner', 'Olive Tea In Conditioner', 'Olive Tree Leave In', 'Olive Tree Leave Conditioner', 'Olive Tree In Conditioner', 'Olive Leave In Conditioner', 'Tea Tree Leave In', 'Tea Tree Leave Conditioner', 'Tea Tree In Conditioner', 'Tea Leave In Conditioner', 'Tree Leave In Conditioner'] 
+
+
+
+
+ As I Am Coconut CoWash oz ['Coconut CoWash', 'Coconut oz', 'CoWash oz'] 
+
+
+
+
+ As I Am JBCO Water ['JBCO', 'Water'] 
+
+
+
+
+ As I Am Hydration Elation ['Hydration', 'Elation'] 
+
+
+
+
+ As I Am Extra Virgin Coconut Oil ['Extra Virgin Coconut', 'Extra Virgin Oil', 'Extra Coconut Oil', 'Virgin Coconut Oil'] 
+
+
+
+
+ As I Am JBCO Curling Crme ['JBCO Curling', 'JBCO Crme', 'Curling Crme'] 
+
+
+
+
+ As I Am Virgin Jamaican Black Castor Oil oz ['Virgin Jamaican Black Castor', 'Virgin Jamaican Black Oil', 'Virgin Jamaican Black oz', 'Virgin Jamaican Castor Oil', 'Virgin Jamaican Castor oz', 'Virgin Jamaican Oil oz', 'Virgin Black Castor Oil', 'Virgin Black Castor oz', 'Virgin Black Oil oz', 'Virgin Castor Oil oz', 'Jamaican Black Castor Oil', 'Jamaican Black Castor oz', 'Jamaican Black Oil oz', 'Jamaican Castor Oil oz', 'Black Castor Oil oz'] 
+
+
+
+
+ As I Am JBCO Leave In Conditioner ['JBCO Leave In', 'JBCO Leave Conditioner', 'JBCO In Conditioner', 'Leave In Conditioner'] 
+
+
+
+
+ As I Am Conditioner ['Conditioner'] 
+
+
+
+
+ As I Am Olive Tea Tree Oil Conditioner ['Olive Tea Tree Oil', 'Olive Tea Tree Conditioner', 'Olive Tea Oil Conditioner', 'Olive Tree Oil Conditioner', 'Tea Tree Oil Conditioner'] 
+
+
+
+
+ As I Am JBCO Water oz ['JBCO Water', 'JBCO oz', 'Water oz'] 
+
+
+
+
+ As I Am GroYogurt ['GroYogurt'] 
+
+
+
+
+ As I Am Cleansing Pudding ['Cleansing', 'Pudding'] 
+
+
+
+
+ As I Am Curl Clarity Shampoo ['Curl Clarity', 'Curl Shampoo', 'Clarity Shampoo'] 
+
+
+
+
+ As I Am So Much Moisture ['So Much', 'So Moisture', 'Much Moisture'] 
+
+
+
+
+ As I Am JBCO CoWash ['JBCO', 'CoWash'] 
+
+
+
+
+ As I Am Nourishing Hair Body Oil ['Nourishing Hair Body', 'Nourishing Hair Oil', 'Nourishing Body Oil', 'Hair Body Oil'] 
+
+
+
+
+ As I Am Shea Cocoa Butter Balm ['Shea Cocoa Butter', 'Shea Cocoa Balm', 'Shea Butter Balm', 'Cocoa Butter Balm'] 
+
+
+
+
+ As I Am Curl Enhancing Smoothie ['Curl Enhancing', 'Curl Smoothie', 'Enhancing Smoothie'] 
+
+
+
+
+ As I Am Virgin Argan Oil ['Virgin Argan', 'Virgin Oil', 'Argan Oil'] 
+
+
+
+
+ As I Am DoubleButter Cream ['DoubleButter', 'Cream'] 
+
+
+
+
+ As I Am Detangling Conditioner ['Detangling', 'Conditioner'] 
+
+
+
+
+ As I Am Argan Curl Defining Jelly ['Argan Curl Defining', 'Argan Curl Jelly', 'Argan Defining Jelly', 'Curl Defining Jelly'] 
+
+
+
+
+ As I Am Strengthening Shampoo ['Strengthening', 'Shampoo'] 
+
+
+
+
+ As I Am Leave In Conditioner ['Leave In', 'Leave Conditioner', 'In Conditioner'] 
+
+
+
+
+ As I Am JBCO Moisturizing Masque ['JBCO Moisturizing', 'JBCO Masque', 'Moisturizing Masque'] 
+
+
+
+
+ As I Am Moisture Milk ['Moisture', 'Milk'] 
+
+

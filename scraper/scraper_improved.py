@@ -71,28 +71,44 @@ def product_scraper (product_urls, retailer):
         tree = htmlTree(url)
 
         # print(etree.tostring(tree,pretty_print=True))
+        product_name = ""
+        product_ingredients = ""
 
         try: 
-            
-            product_ingredients = tree.xpath(retailer.xpaths.product_ingredient_list)
-            product_ingredients = normalize_string(product_ingredients[0]).lower()
+            for ingredients_xpath in retailer.xpaths.product_ingredient_list:
+                product_ingredients = tree.xpath(ingredients_xpath)
+                if len(product_ingredients) > 0:
+                    product_ingredients = normalize_string(product_ingredients[0]).lower()
+                else:
+                    product_ingredients = ""
 
-            product_name = tree.xpath(retailer.xpaths.product_name)
-            product_name = normalize_string(product_name[0])
+                if product_ingredients != "":
+                    break
 
-            product_url = url
-
+            for product_name_xpath in retailer.xpaths.product_name:
+                product_name = tree.xpath(product_name_xpath)
+                if len(product_name) > 0:
+                    product_name = normalize_string(product_name[0])
+                else:
+                    product_name = ""
+                if product_ingredients != "":
+                    break
         except Exception as e:
-            print("Error occured %s", str(e))
+            print("Error occured " , str(e))
+
+        product_url = url
 
         try:
-            raise(Exception)
-            # add_product_to_db(
-            #     brand_name=retailer.company_name,
-            #     product_name=product_name,
-            #     product_url=product_url,
-            #     ingredients=product_ingredients
-            # )
+            # FOR DEBUGGING
+            # if product_ingredients == "" or product_name == "":
+            #     raise Exception("xpath return empty")
+            
+            add_product_to_db(
+                brand_name=retailer.company_name,
+                product_name=product_name,
+                product_url=product_url,
+                ingredients=product_ingredients
+            )
 
         except Exception as e:
             print("\n\n Error occured msg=%s", str(e))
@@ -118,7 +134,12 @@ def add_product_to_db(product_name, product_url, ingredients, brand_name, tablen
     database.add_table_entry(tablename, item)
 
 def url_scraper (tree, urlxpaths):
-    product_urls = tree.xpath(urlxpaths.product_url)
+
+    product_urls = []
+    for product_xpath in urlxpaths.product_url:
+        if tree.xpath(product_xpath):
+            product_urls = tree.xpath(product_xpath)
+            break
 
     return product_urls
 
@@ -228,7 +249,7 @@ if __name__ == "__main__":
         if line[0] == 'x':
             xpath_args = line.split()
             var = xpath_args[0][1:] #get word after x in xarg
-            xpaths[var] = xpath_args[1]
+            xpaths[var] = xpath_args[1:]
             continue
 
         if line[0] == 's':

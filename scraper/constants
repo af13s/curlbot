@@ -1,41 +1,137 @@
 
-base_url https://www.sheamoisture.com
-company Shea Moisture
+#### 1 succesfully scraped ####
 
-seed https://www.sheamoisture.com/hair
+# base_url https://www.sheamoisture.com
+# company Shea Moisture
 
-XPATHS
-xname /html/body/div[1]/div[2]/div[3]/div[3]/h2/text()
-xurl //*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href
-xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text() /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text() 
-# ximg //*[@id="slick-slide00"]/div/img/@src
-# xnext //*[@id="top"]/body/div[2]/div[1]/div[3]/div/div/div[2]/div/div/div[1]/div/a/text()
+# seed https://www.sheamoisture.com/hair
+
+# xname /html/body/div[1]/div[2]/div[3]/div[3]/h2/text()
+# xurl //*[@id="product-search-results"]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/a/@href
+# xingredients /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/text() /html/body/div[1]/div[2]/div[4]/div/div[1]/div[4]/div/p[1]/text()
 
 # FLAGS
-&extra start=0
-&limit sz=500
-$
-
-#company Deva_Curl
-#base_url https://www.devacurl.com
-# URLS
-# seed https://www.devacurl.com/products/cleansers
-# seed https://www.devacurl.com/products/conditioners
-# seed https://www.devacurl.com/products/treatments
-# seed https://www.devacurl.com/products/stylers
-
-
-# XPATHS
-# xurl /html/body/app-root/div/ng-component/app-product-grid/main/div/div[6]/div/div/app-card/div/app-clickable[1]/a/@href
-# xname /html/body/app-root/div/ng-component/app-product-detail/app-pdp-intro/article/section/div[1]/app-h2/h1/text()
-# ximg /html/body/app-root/div/ng-component/app-product-detail/main/div[1]/app-pdp-hero-carousel/flickity-carousel/div/div/div/div[1]/app-image/cld-image/img/@src
-# xingredients /html/body/app-root/div/ng-component/app-product-detail/main/div[6]/div/app-pdp-key-ingredients/section/div[2]/div/app-caption/p/p/text()[2]
+# &extra start=0
+# &limit sz=500
 # $
 
-# company aveda
-# base_url https://www.aveda.com/
-# seed https://www.aveda.com/hair-care
-# xurl /html/body/div[3]/div/div/article/div/div/div[2]/div/div/div/div[1]/div/div[1]/div/a[1]/@href
-# ximg /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[1]/div/div[3]/div[2]/div/div/div[2]/img/@src
-# xname /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/h2/text()[2]
-# xingredients /html/body/div[3]/div/div/article/div/div/div/div[1]/section/div[2]/div[14]/div[2]/div[3]/div/div[2]/text()
+#### 2 succesfully scraped ####
+
+# base_url https://themanechoice.com
+# company The Mane Choice
+
+# seed https://themanechoice.com/collections/pre-poo
+# seed https://themanechoice.com/collections/shampoo
+# seed https://themanechoice.com/collections/co-wash
+# seed https://themanechoice.com/collections/conditioner
+# seed https://themanechoice.com/collections/detangler-leave-in
+# seed https://themanechoice.com/collections/treatments
+# seed https://themanechoice.com/collections/styler
+
+# xurl //*[@id="collection-main"]/div[1]/div/div/p[1]/a/@href
+# xname //*[@id="PageContainer"]/main/div/div/div/div[2]/h1/text()
+# xingredients /html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/text() /html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/p/text()
+# $
+
+#### 3 succesfully scraped ####
+
+# company Mielle Organics
+# base_url https://mielleorganics.com
+# seed https://mielleorganics.com/collections/hair?page=1
+# seed https://mielleorganics.com/collections/hair?page=2
+# xurl //*[@id="shopify-section-collection-template"]/div/div[5]/div[1]/div/div/a/@href
+# xname //*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/h2/text()
+# xingredients //*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/div[5]/p[3]/text()[2] //*[@id="tab3"]/p[1]/text() //*[@id="tab3"]/p[1]/span/text()
+# $
+
+#### 4 not working ####
+
+company As I Am
+base_url https://asiamnaturally.com
+seed https://asiamnaturally.com/collections/shampoo
+seed https://asiamnaturally.com/collections/cowash
+seed https://asiamnaturally.com/collections/condition
+seed https://asiamnaturally.com/collections/leave-in-conditioner
+seed https://asiamnaturally.com/collections/stylers
+seed https://asiamnaturally.com/collections/oils
+seed https://asiamnaturally.com/collections/daily-moisturizers
+seed https://asiamnaturally.com/collections/treatment
+seed https://asiamnaturally.com/collections/vegan
+seed https://asiamnaturally.com/collections/henna-happiness
+
+xurl //*[@id="Collection"]/div/div/div/div/div[2]/a/@href
+xname //*[@id="product-box"]/div[2]/section/h1/text()
+xingredients //*[@class="product-description-wrapper"]/p/text()[contains(.,'Aqua/Water/Eau')] //*[@class="product-description-wrapper"]/p/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[contains(.,',')] //*[@class="product-description-wrapper"]/text()[contains(.,',')]
+$
+
+#### 5 not working ####
+
+# company Mixed Chicks
+# base_url https://mixedchicks.net
+# seed https://mixedchicks.net/product-category/hair-products/shampoo
+# seed https://mixedchicks.net/product-category/hair-products/condition-detangle
+# seed https://mixedchicks.net/product-category/hair-products/style-control
+# seed https://mixedchicks.net/product-category/hair-products/shine-straighten-thermal-protection
+# seed https://mixedchicks.net/product-category/hair-products/kids-haircare
+
+# Can't get response from urlxpath
+# xurl /html/body/div[4]/div/div[4]/div/main/div/article/div/ul/li/a[1]
+# xname //*[@id="wrap"]/div/div[3]/div/h1
+# xingredients 
+# $
+
+
+#### 6 not working ####
+
+### requests.exceptions.SSLError: HTTPSConnectionPool(host='unclefunkysdaughter.com', port=443): Max retries exceeded with url: /shop-online/hair-care.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056)')))
+### fix https://github.com/psf/requests/issues/4256
+
+# company Uncle_Funkys_Daugther
+# base_url https://unclefunkysdaughter.com
+# seed https://unclefunkysdaughter.com/shop-online/hair-care.html
+# xurl /html/body/div/div/div[2]/div/div[2]/div[3]/ul[1]/li[1]/div[1]/a/@href
+# ximg //*[@id="image"]/@src
+# xname //*[@id="product_addtocart_form"]/div[2]/div[1]/h1
+# xingredients //*[@id="sb-player"]/div/p[2]
+# $
+
+#### 7 not working ####
+
+# company Miss Jessies
+# base_url https://missjessies.com
+# seed https://missjessies.com/collections/stylers
+# seed https://missjessies.com/collections/cleansers
+# seed https://missjessies.com/collections/conditioners
+# seed https://missjessies.com/collections/treatments
+# seed https://missjessies.com/collections/moisturizers
+# seed https://missjessies.com/collections/hair-oils
+
+# Can't get response from urlxpath
+# xurl /html/body/div[4]/main/div[1]/div[1]/section/div[2]/div[1]/div[1]/a/div[2]/p/@href
+# xname //*[@id="ProductSection-product-template"]/div[1]/div[1]/div[1]/h2
+# xingredients //*[@id="ProductSection-product-template"]/div[1]/div[2]/div/div[4]/div/text()
+# $
+
+#### 8 succesfully scraped #### 
+
+# company Camille_Rose
+# base_url https://www.camillerose.com
+# seed https://www.camillerose.com/collections/cleanse?page=1
+# seed https://www.camillerose.com/collections/cleanse?page=2
+# seed https://www.camillerose.com/collections/hair-butters?page=1
+# seed https://www.camillerose.com/collections/hair-butters?page=2
+# seed https://www.camillerose.com/collections/conditioners?page=1
+# seed https://www.camillerose.com/collections/conditioners?page=2
+# seed https://www.camillerose.com/collections/deep-conditioners?page=1
+# seed https://www.camillerose.com/collections/deep-conditioners?page=2
+# seed https://www.camillerose.com/collections/hair-oils?page=1
+# seed https://www.camillerose.com/collections/hair-oils?page=2
+# seed https://www.camillerose.com/collections/leave-ins-detanglers?page=2
+# seed https://www.camillerose.com/collections/leave-ins-detanglers?page=1
+
+# xurl //*[@id]/main/div[1]/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div/div[1]/a/@href
+# xname /html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
+# xingredients //*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
+# $
+
+

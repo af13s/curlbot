@@ -1,0 +1,62 @@
+Adding New Retailer
+['https://asiamnaturally.com/collections/shampoo', 'https://asiamnaturally.com/collections/cowash', 'https://asiamnaturally.com/collections/condition', 'https://asiamnaturally.com/collections/leave-in-conditioner', 'https://asiamnaturally.com/collections/stylers', 'https://asiamnaturally.com/collections/oils', 'https://asiamnaturally.com/collections/daily-moisturizers', 'https://asiamnaturally.com/collections/treatment', 'https://asiamnaturally.com/collections/vegan', 'https://asiamnaturally.com/collections/henna-happiness']
+{'name': ['//*[@id="product-box"]/div[2]/section/h1/text()'], 'url': ['//*[@id="Collection"]/div/div/div/div/div[2]/a/@href'], 'ingredients': ['//*[@class="product-description-wrapper"]/p/text()[contains(.,\'Aqua/Water/Eau\')]', '//*[@class="product-description-wrapper"]/p/text()[not(contains(.,\'.\'))and(contains(.,\'Oil\'))]', '//*[@class="product-description-wrapper"]/p/span/text()[not(contains(.,\'.\'))and(contains(.,\'Oil\'))]', '//*[@class="product-description-wrapper"]/p/span/text()[contains(.,\',\')]', '//*[@class="product-description-wrapper"]/text()[contains(.,\',\')]'], 'next': None, 'img': None}
+{'page': None, 'next': None, 'limit': None, 'extra': []}
+ 
+ starting url:  https://asiamnaturally.com/collections/shampoo
+total number products:  6
+number successfully scraped:  6
+ 
+ starting url:  https://asiamnaturally.com/collections/cowash
+total number products:  7
+number successfully scraped:  7
+ 
+ starting url:  https://asiamnaturally.com/collections/condition
+total number products:  4
+number successfully scraped:  4
+ 
+ starting url:  https://asiamnaturally.com/collections/leave-in-conditioner
+total number products:  4
+number successfully scraped:  4
+ 
+ starting url:  https://asiamnaturally.com/collections/stylers
+total number products:  10
+number successfully scraped:  10
+ 
+ starting url:  https://asiamnaturally.com/collections/oils
+total number products:  9
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=Vitamin E Oil
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com/collections/oils/products/vitamin-e-oil
+
+
+number successfully scraped:  8
+ 
+ starting url:  https://asiamnaturally.com/collections/daily-moisturizers
+total number products:  7
+
+
+ Error occured msg=%s An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+name=CocoShea Whip
+ ingredients=
+ brand=As I Am
+ url=https://asiamnaturally.com/collections/daily-moisturizers/products/cocoshea-whip
+
+
+number successfully scraped:  6
+ 
+ starting url:  https://asiamnaturally.com/collections/treatment
+total number products:  1
+number successfully scraped:  1
+ 
+ starting url:  https://asiamnaturally.com/collections/vegan
+total number products:  18
+number successfully scraped:  18
+ 
+ starting url:  https://asiamnaturally.com/collections/henna-happiness
+total number products:  1
+number successfully scraped:  1

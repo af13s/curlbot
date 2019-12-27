@@ -26,6 +26,13 @@ class database:
         dynamodb = session.resource('dynamodb', region_name=REGION_NAME)
 
         return dynamodb
+    
+    @staticmethod
+    def dynambo_admin_client():
+        session = database.admin_session()
+        dynamodb = boto3.client('dynamodb', region_name=REGION_NAME)
+
+        return dynamodb
 
     @staticmethod
     def create_table(tablename, key_var, range_var, attributes):
