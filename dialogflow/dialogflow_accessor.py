@@ -100,9 +100,8 @@ class DialogFlowClient:
         client = dialogflow_v2.IntentsClient(credentials=DEFAULT_CREDENTIALS)
         return client
     
-    def create_product_lookup_intent(self, brand_name, product_name, extra_text=""):
-        client = self.get_intent_client()
-
+    def create_training_phrases(self, brand_name, product_name, extra_text=""):
+    
         parts = [
 
             dialogflow_v2.types.Intent.TrainingPhrase.Part(text=extra_text),
@@ -129,16 +128,19 @@ class DialogFlowClient:
         ]
 
         training_phrase = dialogflow_v2.types.Intent.TrainingPhrase(parts=parts)
+        return training_phrase
+    
+    def update_lookup_intent(self, training_phrase_list):
+
+        client = self.get_intent_client()
 
         intent = {
             "name" : "projects/{}/agent/intents/{}".format(PROJECT_ID, LOOKUP_INTENT_ID),
             "display_name": PRODUCT_LOOKUP_DISPLAY_NAME,
-            "training_phrases": [training_phrase]
+            "training_phrases": training_phrase_list
         }
         
         response = client.update_intent(intent=intent, language_code=LANGUAGE_CODE)
-
-        print(response)
 
 
 

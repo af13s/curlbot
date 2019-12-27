@@ -139,9 +139,10 @@ def generate_synonyms(product_name):
 
     if string_len/2 >= MATCH_WINDOW:
         synonyms.extend(list(itertools.combinations(product_description_list[:MATCH_WINDOW]+product_description_list[-MATCH_WINDOW:], MINIMUM_SIGNIFICANT_KEYWORDS)))
-        # synonyms.append(tuple(product_description_list))
-    elif string_len/2 < MATCH_WINDOW and string_len > 1: 
+        synonyms.append(tuple(product_description_list))
+    elif string_len/2 < MATCH_WINDOW and string_len > 3: 
         synonyms.extend(list(itertools.combinations(product_description_list, string_len-1)))
+        synonyms.append(tuple(product_description_list))
     else:
         synonyms.append(tuple(product_description_list))
     
@@ -177,13 +178,23 @@ def generate_intents_training_phrases(company_products=None):
 
     if company_products == None:
         company_products = get_brand_names()
+
+    training_phrase_list = []
     
     for company_name in tqdm(company_products):
         for product in tqdm(company_products[company_name]):
-            df.create_product_lookup_intent(brand_name=company_name, product_name=product)
-            df.create_product_lookup_intent(brand_name=company_name, product_name=product, extra_text=DEFAULT_SEARCH_PHRASES[randint(min_randon_number,max_random_number)])
-        
-        time.sleep(300)
+            choice = randint(0,1)
+            if choice:
+                training_phrase_list.append(
+                    df.create_training_phrases(brand_name=company_name, product_name=product)
+                )
+
+            else:
+                training_phrase_list.append( 
+                    df.create_training_phrases(brand_name=company_name, product_name=product, extra_text=DEFAULT_SEARCH_PHRASES[randint(min_randon_number,max_random_number)])
+                )
+    
+    df.update_lookup_intent(training_phrase_list)
 
 
 def update_company_names(company_products=None):
@@ -262,7 +273,7 @@ while (True):
     options = """
     (Update) All EntityTypes
     (Add) Company Names
-    (Create) Entity Types & Update Company Names
+    (Create) Entity Types
     (ALL) Update EntityTypes & Company Names
     (Intent) Creation
     (E) to (Exit)
