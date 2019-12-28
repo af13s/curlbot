@@ -1,5 +1,6 @@
 from dialogflow.dialogflow_accessor import DialogFlowClient
 from database.database_accessor import database
+from twilio_.twilio_accessor import TwilioClient
 import os
 from datetime import datetime
 from time import sleep
@@ -92,11 +93,12 @@ def generate_response(phone, message):
 
    # record_message(message=message,phone_number=phone)
    agent = DialogFlowClient(phone)
+   twilio_client = TwilioClient()
 
    reply = ""
    intent, variables, reply = agent.analyze_msg(message)
 
-   webapp.outbound_sms(reply,phone)
+   twilio_client.outbound_sms(reply,phone)
    sleep(3)
 
    
@@ -117,7 +119,7 @@ def generate_response(phone, message):
       ingredients_message = "{} Ingredients: {}".format(product_name, ingredients)
 
       if ingredients:
-         webapp.outbound_sms(ingredients_message, phone)
+         twilio_client.outbound_sms(ingredients_message, phone)
       # reply = ingredients_analyzer(ingredients)
 
       

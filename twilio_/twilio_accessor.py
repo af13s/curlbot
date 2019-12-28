@@ -8,7 +8,7 @@ auth_token = os.environ["AUTH_TOKEN"]
 TWILIO_NUMBER = "+18313161352"
 TEST_PHONE = "+19543984645"
 
-class Twilio:
+class TwilioClient:
 
     def __init__(self):
         self.client = Client(acct_sid, auth_token)
