@@ -1,5 +1,6 @@
 from dialogflow.dialogflow_accessor import DialogFlowClient
 from database.database_accessor import database
+from twilio_.twilio_accessor import TwilioClient
 import os
 from datetime import datetime
 from time import sleep
@@ -74,7 +75,7 @@ def record_user_info(phone_number, curl_type, **kwargs):
 
 def ingredients_analyzer(ingredients_string):
 
-   bad_ingredients = []
+   bad_ingredients = {}
    ingredients_list = ingredients_string.split(",")
 
    for ingredient in ingredients_list:
@@ -90,14 +91,15 @@ def ingredients_analyzer(ingredients_string):
 
 def generate_response(phone, message):
 
-   # record_message(message=message,phone_number=phone)
+   record_message(message=message,phone_number=phone)
    agent = DialogFlowClient(phone)
+   twilio_client = TwilioClient()
 
    reply = ""
    intent, variables, reply = agent.analyze_msg(message)
 
-   webapp.outbound_sms(reply,phone)
-   sleep(3)
+   twilio_client.outbound_sms(reply,phone)
+   sleep(5)
 
    
 
@@ -109,7 +111,7 @@ def generate_response(phone, message):
       hair_company = variables["HairCompany"].values[0].string_value
       product_name = variables[hair_company.replace(" ", "").lower()+"product"].values[0].string_value
 
-      # record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
+      record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
 
       print(hair_company, ":", product_name)
       ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
@@ -117,7 +119,7 @@ def generate_response(phone, message):
       ingredients_message = "{} Ingredients: {}".format(product_name, ingredients)
 
       if ingredients:
-         webapp.outbound_sms(ingredients_message, phone)
+         twilio_client.outbound_sms(ingredients_message, phone)
       # reply = ingredients_analyzer(ingredients)
 
       
