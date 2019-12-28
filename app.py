@@ -1,6 +1,7 @@
 # https://github.com/TwilioDevEd/sdk-starter-python
 
-
+import sentry_sdk
+from sentry_sdk.integrations.flask import FlaskIntegration
 import os
 from flask import Flask, jsonify, request
 from response_logic import generate_response
@@ -19,14 +20,19 @@ from inflection import underscore
 
 import dialogflow
 
+sentry_sdk.init(
+    dsn="https://c26911992b3a40beb9afc2aaa749ab83@sentry.io/1867953",
+    integrations=[FlaskIntegration()]
+)
+
 TWILIO_NUMBER = "+18313161352"
 
-acct_sid = os.environ["ACCT_SID"]
-auth_token = os.environ["AUTH_TOKEN"]
+# acct_sid = os.environ["ACCT_SID"]
+# auth_token = os.environ["AUTH_TOKEN"]
 
 TEST_PHONE = "+19543984645"
 
-client = Client(acct_sid, auth_token)
+# client = Client(acct_sid, auth_token)
 
 # Convert keys to snake_case to conform with the twilio-python api definition contract
 def snake_case_keys(somedict):
@@ -42,6 +48,10 @@ app = Flask(__name__)
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
+# @app.route('/debug-sentry')
+# def trigger_error():
+#     division_by_zero = 1 / 0
+
 @app.route('/inbound_sms', methods=['POST'])
 def inbound_sms():
     message = request.form['Body']
@@ -51,16 +61,16 @@ def inbound_sms():
     return str(response)
 
 
-@app.route('/outbound_sms', methods=['POST'])
-def outbound_sms(message, recipient_phone):
-    client.messages.create(
-        # to=recipient_phone,
-        to = TEST_PHONE,
-        from_=TWILIO_NUMBER,
-        body=message
-    )
+# @app.route('/outbound_sms', methods=['POST'])
+# def outbound_sms(message, recipient_phone):
+#     client.messages.create(
+#         # to=recipient_phone,
+#         to = TEST_PHONE,
+#         from_=TWILIO_NUMBER,
+#         body=message
+#     )
 
-    return ""
+#     return ""
 
 # Ensure that the Sync Default Service is provisioned
 def provision_sync_default_service():
