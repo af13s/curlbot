@@ -21,6 +21,11 @@ import dialogflow
 
 TWILIO_NUMBER = "+18313161352"
 
+acct_sid = os.environ["ACCT_SID"]
+auth_token = os.environ["AUTH_TOKEN"]
+
+TEST_PHONE = "+19543984645"
+
 client = Client(acct_sid, auth_token)
 
 # Convert keys to snake_case to conform with the twilio-python api definition contract
@@ -32,6 +37,8 @@ def snake_case_keys(somedict):
 
 app = Flask(__name__)
 # fake = Faker()
+
+#use this to set environment variables
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
@@ -45,10 +52,10 @@ def inbound_sms():
 
 
 @app.route('/outbound_sms', methods=['POST'])
-def outbound_sms(message):
+def outbound_sms(message, recipient_phone):
     client.messages.create(
-        # to=request.form["to"]
-        to="+19543984645",
+        # to=recipient_phone,
+        to = TEST_PHONE,
         from_=TWILIO_NUMBER,
         body=message
     )

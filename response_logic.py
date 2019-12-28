@@ -1,6 +1,9 @@
-from dialogflow_client import DialogFlowClient
+from dialogflow.dialogflow_accessor import DialogFlowClient
+from database.database_accessor import database
 import os
-import boto3
+from datetime import datetime
+from time import sleep
+
 
 AWS_ACCESS_KEY_ID =os.environ["AWS_ACCESS_KEY_ID"]
 AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
@@ -9,27 +12,15 @@ REGION_NAME='us-west-1'
 
 PRODUCT_LOOKUP = "Product Lookup"
 
-def admin_session():
-    session = boto3.Session(
-        aws_access_key_id=AWS_ACCESS_KEY_ID,
-        aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
-    )
-
-    return session
-
-
-def dynambo_admin_session():
-    session = admin_session()
-    dynamodb = boto3.client('dynamodb', region_name=REGION_NAME)
-    return dynamodb
+PRODUCT_TABLE = "product"
+PRODUCT_SEARCH_TABLE = "searches"
+MESSAGE_TABLE = "messages"
    
-def get_product_ingredients(key_var,range_var, tablename="product"):
-   print(key_var)
-   print(range_var)
-
-   client = dynambo_admin_session()
+def get_product_ingredients(key_var,range_var):
+   
+   client = database.dynambo_admin_client()
    response = client.get_item(
-    TableName=tablename,
+    TableName=PRODUCT_TABLE,
     Key={
        "product_name": {'S': key_var},
        "brand_name": {'S': range_var }
@@ -38,24 +29,36 @@ def get_product_ingredients(key_var,range_var, tablename="product"):
         "ingredients",
     ])
 
-   return response
+   return response["Item"]["ingredients"]["S"]
 
-def record_message(message, phone_number, tablename="messages"):
+def get_datetime_epoch():
+   epoch = int(datetime.now().timestamp())
+   return epoch
+
+def get_datetime():
+   return str(datetime.now())
+
+def record_message(message, phone_number):
+
    item = {
       "user_phone": phone_number,
+      "datetime": get_datetime(),
       "message": message,
+      "datetime_epoch": get_datetime_epoch()
    }
    
-   database.add_table_entry(tablename, item)
+   database.add_table_entry(MESSAGE_TABLE, item)
 
-def record_product_search(phone_number, product_name, brand_name, tablename="searches"):
+def record_product_search(phone_number, product_name, brand_name):
    item = {
       "user_phone": phone_number,
+      "datetime": get_datetime(),
       "product_name": product_name,
       "brand_name": brand_name,
+      "datetime_epoch": get_datetime_epoch()
    }
 
-   database.add_table_entry(tablename, item)
+   database.add_table_entry(PRODUCT_SEARCH_TABLE, item)
 
 def record_user_info(phone_number, curl_type, **kwargs):
    item = {
@@ -86,28 +89,40 @@ def ingredients_analyzer(ingredients_string):
 
 
 def generate_response(phone, message):
-   # record_message(phone, message)
 
+   # record_message(message=message,phone_number=phone)
    agent = DialogFlowClient(phone)
 
-   intent, variables = agent.analyze_msg(message)
-   reply = None
+   reply = ""
+   intent, variables, reply = agent.analyze_msg(message)
 
-   # psuedo
-   if intent == PRODUCT_LOOKUP:
-      # try:
-      #    record_product_search(phone_number=phone, product_name=variable["product_name"], brand_name=variable["brand_name"])
-      # except Exception as e:
-      #    print("Error occured trying to add new entry %s", s)
-      hair_company = variables["HairCompany"].replace(" ", "_")
-      product_name = variables[variables["HairCompany"].replace(" ", "").lower()+"product"]
-      ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
-      reply = str(ingredients)
-      # reply = ingredients_analyzer(ingredients)
-      
-
+   webapp.outbound_sms(reply,phone)
+   sleep(3)
 
    
+
+   if intent == PRODUCT_LOOKUP:
+
+      ## TODO ##
+      # if multiple values returned then ask user which one to go with
+
+      hair_company = variables["HairCompany"].values[0].string_value
+      product_name = variables[hair_company.replace(" ", "").lower()+"product"].values[0].string_value
+
+      # record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
+
+      print(hair_company, ":", product_name)
+      ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
+
+      ingredients_message = "{} Ingredients: {}".format(product_name, ingredients)
+
+      if ingredients:
+         webapp.outbound_sms(ingredients_message, phone)
+      # reply = ingredients_analyzer(ingredients)
+
+      
+      
+
    # if intent == hair_recommendation:
    #    try: 
    #       record_user_info(phone_number, curl_type, ...)

@@ -22,7 +22,7 @@ class DialogFlowClient:
     def __init__(self, phone_number):
         DialogFlowClient.phone_number = phone_number
 
-    def get_session(self,phone_number):
+    def get_session(self):
         session_client = dialogflow_v2.SessionsClient(credentials=DEFAULT_CREDENTIALS)
         session = session_client.session_path( AGENT_ID, DialogFlowClient.phone_number)
 
@@ -30,7 +30,6 @@ class DialogFlowClient:
             "client" : session_client,
             "session" : session
         }
-
 
     def analyze_msg(self, message):
 
@@ -44,9 +43,15 @@ class DialogFlowClient:
 
         query_input = dialogflow_v2.types.QueryInput(text=text_message)
         response = session_client.detect_intent(query_input=query_input,session=session)
-        print(response)
+        # print(response)
 
-        return self.get_intent(response), self.get_params(response)
+        return self.extract_intent(response), self.extract_params(response), self.extract_fulfillment_text(response)
+    
+    def extract_fulfillment_text(self,response):
+        try:
+            return response.query_result.fulfillment_text
+        except AttributeError as e:
+            return "I DONT HAVE AN ANSWER :("
     
     def extract_intent(self, response):
         return response.query_result.intent.display_name

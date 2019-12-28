@@ -19,13 +19,13 @@ product_schema = {
 user_messages = {
 
      "key_var" : "user_phone",
-    "range_var" : "message",
+    "range_var" : "datetime",
 
     "attributes" : {
         "user_phone": string,
-        "message": string,
-        # "epoch_time": number,
-        # "datetime" : string
+        "datetime": string,
+        # "message": string,
+        # "datetime_epoch": number,
     }
 }
 
@@ -36,6 +36,7 @@ user_schema = {
 
     "attributes" : {
         "user_phone": string,
+        # datetime: string,
         # "email" : string,
         # "name" : string, 
         # "porosity" : string,
@@ -49,11 +50,13 @@ user_schema = {
 user_product_searches = {
     
     "key_var" : "user_phone",
-    "range_var" : None,
+    "range_var" : "datetime",
 
     "attributes" : {
         "user_phone": string,
+        "datetime": string
         # "product_name" : string,
         # "brand_name" : string
+        # datetime_epoch: number
     }
 }
