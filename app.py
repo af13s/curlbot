@@ -6,27 +6,27 @@ from flask import Flask, jsonify, request
 from response_logic import generate_response
 from faker import Faker
 from twilio.rest import Client
-from twilio.jwt.access_token import AccessToken
-from twilio.twiml.messaging_response import MessagingResponse
-from twilio.jwt.access_token.grants import (
-    SyncGrant,
-    VideoGrant,
-    ChatGrant
-)
+# from twilio.jwt.access_token import AccessToken
+# from twilio.twiml.messaging_response import MessagingResponse
+# from twilio.jwt.access_token.grants import (
+#     SyncGrant,
+#     VideoGrant,
+#     ChatGrant
+# )
 from dotenv import load_dotenv, find_dotenv
 from os.path import join, dirname
 from inflection import underscore
 
 import dialogflow
 
-TWILIO_NUMBER = "+18313161352"
+# TWILIO_NUMBER = "+18313161352"
 
-acct_sid = os.environ["ACCT_SID"]
-auth_token = os.environ["AUTH_TOKEN"]
+# acct_sid = os.environ["ACCT_SID"]
+# auth_token = os.environ["AUTH_TOKEN"]
+
+# Client(acct_sid, auth_token)
 
 TEST_PHONE = "+19543984645"
-
-client = Client(acct_sid, auth_token)
 
 # Convert keys to snake_case to conform with the twilio-python api definition contract
 def snake_case_keys(somedict):
@@ -46,21 +46,22 @@ load_dotenv(dotenv_path)
 def inbound_sms():
     message = request.form['Body']
     phone_number = request.form['From']
-    response = MessagingResponse()
-    response.message(generate_response(message))
+    # response = MessagingResponse()
+    # response.message(generate_response(phone=phone_number, message=message))
+    response = generate_response(phone=phone_number, message=message)
     return str(response)
 
 
-@app.route('/outbound_sms', methods=['POST'])
-def outbound_sms(message, recipient_phone):
-    client.messages.create(
-        # to=recipient_phone,
-        to = TEST_PHONE,
-        from_=TWILIO_NUMBER,
-        body=message
-    )
+# @app.route('/outbound_sms', methods=['POST'])
+# def outbound_sms(message, recipient_phone):
+#     client.messages.create(
+#         # to=recipient_phone,
+#         to = TEST_PHONE,
+#         from_=TWILIO_NUMBER,
+#         body=message
+#     )
 
-    return ""
+#     return ""
 
 # Ensure that the Sync Default Service is provisioned
 def provision_sync_default_service():
