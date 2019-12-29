@@ -1,6 +1,16 @@
 from dialogflow.dialogflow_accessor import DialogFlowClient
 from database.database_accessor import database
 from twilio_.twilio_accessor import TwilioClient
+from ingredients_repo import (
+   ALCOHOL_INFO,
+   ALCOHOL_DICT,
+   SULFATE_INFO,
+   SULFATE_DICT,
+   PSW_INFO,
+   PSW_DICT,
+   WAX_INFO,
+   WAX_DICT
+)
 import os
 from datetime import datetime
 from time import sleep
@@ -12,6 +22,7 @@ REGION_NAME='us-west-1'
 
 
 PRODUCT_LOOKUP = "Product Lookup"
+HAIR_RECOMMENDATION = "Hair Recommendation"
 
 PRODUCT_TABLE = "product"
 PRODUCT_SEARCH_TABLE = "searches"
@@ -75,18 +86,40 @@ def record_user_info(phone_number, curl_type, **kwargs):
 
 def ingredients_analyzer(ingredients_string):
 
-   bad_ingredients = {}
    ingredients_list = ingredients_string.split(",")
+   ingredients_list = [ingredient.strip() for ingredient in ingredients_list]
 
-   for ingredient in ingredients_list:
-      if ingredient_is_harmful(ingredient):
-         bad_ingredients.append({
-            ingredient: ingredients_info(ingredient)
-         })
-   
-   report = report_format(bad_ingredients) 
+   ingredients_set = set(ingredients_list)
 
-   return report
+   ingred_infos = [
+      ALCOHOL_INFO,
+      SULFATE_INFO,
+      PSW_INFO,
+      WAX_INFO
+   ]
+
+   ingred_dicts = [
+      ALCOHOL_DICT,
+      SULFATE_DICT,
+      PSW_DICT,
+      WAX_DICT
+   ]
+
+   report = []
+
+   for x in range (len(ingred_dicts)):
+      detected = {}
+      for key,values in ingred_dicts[x].items():
+         for value in values:
+            if value in ingredients_set:
+               if key not in detected:
+                  detected[key] = []
+               detected[key].append(value)
+      for key in detected:
+         msg = ingred_infos[x][key] + " [" + ", ".join(detected[key]) + "]"
+         report.append(msg)
+
+   return "\n\n".join(report)
 
 
 def generate_response(phone, message):
@@ -108,24 +141,37 @@ def generate_response(phone, message):
       ## TODO ##
       # if multiple values returned then ask user which one to go with
 
-      hair_company = variables["HairCompany"].values[0].string_value
-      product_name = variables[hair_company.replace(" ", "").lower()+"product"].values[0].string_value
+      try:
+         hair_company = variables["HairCompany"].values[0].string_value
+      except Exception as e:
+         msg = "Try again and include the company"
+         twilio_client.outbound_sms(msg, phone)
+         return
+
+      try:
+         product_name = variables[hair_company.replace(" ", "").lower()+"product"].values[0].string_value
+      except Exception as e:
+         msg = "product couldnt be found :("
+         twilio_client.outbound_sms(msg, phone)
+         return
 
       record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
 
-      print(hair_company, ":", product_name)
+      # print(hair_company, ":", product_name)
       ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
 
       ingredients_message = "{} Ingredients: {}".format(product_name, ingredients)
 
       if ingredients:
          twilio_client.outbound_sms(ingredients_message, phone)
-      # reply = ingredients_analyzer(ingredients)
+         reply = ingredients_analyzer(ingredients)
+         twilio_client.outbound_sms(reply, phone)
+      else:
+         msg = "Ingredients haven't been found :("
+         twilio_client.outbound_sms(msg, phone)
+         return
 
-      
-      
-
-   # if intent == hair_recommendation:
+   # if intent == HAIR_RECOMMENDATION:
    #    try: 
    #       record_user_info(phone_number, curl_type, ...)
    #    except Exception as e:
@@ -139,16 +185,17 @@ def generate_response(phone, message):
    # string = "Hello from twilio\n "
    # string += message
 
-   return reply
+   # return reply
 
+# INGREDIENT_TEST_STRING = "wax, cire, cera, paraffin,ammonium lauryl sulfate, ammonium lauryl sulphate, aqua water eau, glycerin , xanthan gum, betaine, argania spinosa kernel oil , mauritia flexuosa fruit oil , cucurbita pepo pumpkin seed oil , aloe barbadensis leaf juice , pectin, helianthus annuus sunflower seed oil , rosmarinus officinalis rosemary leaf extract , citrus aurantium dulcis orange peel oil , citrus grandis grapefruit peel oil , citrus limon lemon peel oil , alcohol , cucumis sativus cucumber fruit extract , vanilla planifolia fruit extract , potassium sorbate, chenopodium quinoa seed extract , chamomilla recutita matricaria flower extract , calendula officinalis flower extract , limonene , sodium benzoate, fragrance parfum"
 
-
-while (True):
-   string = input(">: ")
-   if string == "exit":
-      break
+# while (True):
+#    string = input(">: ")
+#    if string == "exit":
+#       break
    
-   print(generate_response("+19543984645", string))
+#    # print(generate_response("+19543984645", string))
+#    # print(ingredients_analyzer(INGREDIENT_TEST_STRING))
    
 
 
