@@ -1,4 +1,6 @@
 import dialogflow_v2
+from google.oauth2 import service_account
+import os
 
 LANGUAGE_CODE = 'en'
 PROJECT_ID = AGENT_ID = "newagent-hrmeto"
@@ -7,8 +9,10 @@ DEFAULT_KIND="KIND_MAP"
 DEFAULT_NAME_APPENDAGE = "product"
 LOOKUP_INTENT_ID = "4091c1b0-d2d2-406a-a2bc-ed9253b110f6"
 
+current_directory = os.path.dirname(os.path.abspath(__file__))
+credentials = service_account.Credentials.from_service_account_file(os.path.join(current_directory, "newagent-hrmeto-f572ed490150.json"))
 
-DEFAULT_CREDENTIALS = None
+DEFAULT_CREDENTIALS = credentials
 
 COMPANY_ENTITY_NAME = "HairCompany"
 
@@ -43,7 +47,7 @@ class DialogFlowClient:
 
         query_input = dialogflow_v2.types.QueryInput(text=text_message)
         response = session_client.detect_intent(query_input=query_input,session=session)
-        # print(response)
+        print(response)
 
         return self.extract_intent(response), self.extract_params(response), self.extract_fulfillment_text(response)
     

@@ -1,6 +1,7 @@
 .env
 .vscode/
 scripts/
+dialogflow/newagent-hrmeto-f572ed490150.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

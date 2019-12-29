@@ -123,6 +123,7 @@ def ingredients_analyzer(ingredients_string):
 
 
 def generate_response(phone, message):
+   print(message)
 
    record_message(message=message,phone_number=phone)
    agent = DialogFlowClient(phone)
