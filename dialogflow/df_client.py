@@ -98,14 +98,14 @@ def get_brand_names():
         if company_name not in products:
             products[company_name] = []
         
-        product_name = re.sub(r'[^a-zA-Z]+', ' ', result["product_name"]['S'])
+        product_name = result["product_name"]['S']
 
         products[company_name].append(product_name)
 
 
     return products
 
-def get_product_type(product_description_list):
+def get_product_types(product_description_list):
     ## TODO ## 
     ## add fuzzy name matching
 
@@ -133,20 +133,28 @@ def generate_synonyms(product_name):
         pass
 
     string_len = len(product_description_list)
-    product_types = []
+    product_types = get_product_types(product_description_list)
 
     synonyms = []
 
     if string_len/2 >= MATCH_WINDOW:
         synonyms.extend(list(itertools.combinations(product_description_list[:MATCH_WINDOW]+product_description_list[-MATCH_WINDOW:], MINIMUM_SIGNIFICANT_KEYWORDS)))
         synonyms.append(tuple(product_description_list))
+        #TESTING
+        synonyms.extend(tuple(product_types))
     elif string_len/2 < MATCH_WINDOW and string_len > 3: 
         synonyms.extend(list(itertools.combinations(product_description_list, string_len-1)))
         synonyms.append(tuple(product_description_list))
+        #TESTING
+        synonyms.extend(tuple(product_types))
     else:
         synonyms.append(tuple(product_description_list))
+        #TESTING
+        synonyms.extend(tuple(product_types))
     
     unique_synonyms = []
+
+    # Not doing anything, suppose to be across products its for the same product
 
     for synonym in synonyms:
         if synonym not in common_set:

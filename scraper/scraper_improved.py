@@ -56,9 +56,15 @@ def htmlTree( URL ):
     tree = html.fromstring(page.content)
     return tree
 
-def normalize_string(string):
+def normalize_name(string):
     string = re.sub(r'[^\x00-\x7F]+','', string) # remove weird characters
-    string = re.sub(r'[^a-zA-Z,]+', ' ', string) # remove numbers and special characters
+    string = re.sub(r'[^a-zA-Z]+', ' ', string) # remove numbers and special characters
+    string = string.strip().replace("\n", "").replace("\t", "")
+    return string
+
+def normalize_ingredients_string(string):
+    string = re.sub(r'[^\x00-\x7F]+','', string) # remove weird characters
+    string = re.sub(r'[^a-zA-Z,-()0-9]+', ' ', string) # remove numbers and special characters
     string = string.strip().replace("\n", "").replace("\t", "")
     return string
 
@@ -78,7 +84,7 @@ def product_scraper (product_urls, retailer):
             for ingredients_xpath in retailer.xpaths.product_ingredient_list:
                 product_ingredients = tree.xpath(ingredients_xpath)
                 if len(product_ingredients) > 0:
-                    product_ingredients = normalize_string(product_ingredients[0]).lower()
+                    product_ingredients = normalize_name(product_ingredients[0]).lower()
                 else:
                     product_ingredients = ""
 
@@ -88,7 +94,7 @@ def product_scraper (product_urls, retailer):
             for product_name_xpath in retailer.xpaths.product_name:
                 product_name = tree.xpath(product_name_xpath)
                 if len(product_name) > 0:
-                    product_name = normalize_string(product_name[0])
+                    product_name = normalize_ingredients_string(product_name[0])
                 else:
                     product_name = ""
                 if product_ingredients != "":

@@ -55,7 +55,7 @@ class DialogFlowClient:
         try:
             return response.query_result.fulfillment_text
         except AttributeError as e:
-            return "I DONT HAVE AN ANSWER :("
+            return ""
     
     def extract_intent(self, response):
         return response.query_result.intent.display_name

@@ -1,21 +1,21 @@
 
 ALCOHOL_INFO = {
-    "bad": "Harsh Alcohols Detected: These alcohols will dry out your hair",
-    "good": "Curly Girl Approved Alcohols: These alcohols won't dry our your hair",
-    "not_alcohol": ""
+    "bad": "Harsh Alcohols Detected: These ingredients found will dry out your hair",
+    "good": "Approved Alcohols Detected: These ingredients found won't dry our your hair",
+    # "not_alcohol": ""
 }
 
 ALCOHOL_DICT = {
     "bad" : {"alcohol", "alcohol 1", "alcohol1", "ethanol", "isopropanol", "propanol", "alcohol 40-b", "alcohol 40b", "alcohol denat", "alcohol-40b", "denatured alcohol", "ethyl alcohol", "isopropanol", "isopropyl alcohol", "propyl alcohol", "sd alcohol", "sd alcohol 40", "sugarcane derived alcohol"},
     "good" : {"behenyl alcohol", "cetearyl alcohol", "ceteryl alcohol", "cetyl alcohol", "isocetyl alcohol", "isostearyl alcohol", "lauryl alcohol", "myristyl alcohol", "stearyl alcohol", "c30-50 alcohols", "lanolin alcohol", "benzyl alcohol", "stearyl alcohol", "aminomethyl propanol", "oleyl alcohol", "brassica alcohol", "benzyl alcohol", "arachidyl alcohol", "phenethyl alcohol", "undecyl alcohol", "amyl cinnamyl alcohol", "amylcinnamyl alcohol", "amino-2-methyl-1-propanol", "aminomethyl propanol", "amino methyl propanol", "c14-22 alcohol", "c20-c22 alcohol", "phenylpropanol", "acetyl alcohol", "steareth alcohol", "phenyl ethyl alcohol", "phenylethyl alcohol", "acetylated lanolin alcohol", "cinnamyl alcohol", "phenethyl alcohol", "cinnamic alcohol", "behenyl alcohol", "pantothenyl alcohol", "coconut alcohol", "butylene alcohol", "steoryl alcohol"},
-    "not_alcohol": {"triisopropanolamine"}
+    # "not_alcohol": {"triisopropanolamine"}
 }
 
 SULFATE_INFO = {
-    "bad": "Harsh Sulfates Detected: Yikes! These are either sulfates or detergents that the curly girl community considers drying",
-    "good": "Curly Girl Approved Cleansers: These are considered gentle by most of the curly girl community",
+    "bad": "Harsh Sulfates Detected: Yikes! These are either sulfates or detergents that the curly girl community considers hair drying",
+    "good": "Approved Cleansers Detected: These are considered gentle by most of the curly girl community",
     "caution": "More Research Recommended: Some consider these CG-safe, others do not",
-    "partial": "Unknown Cleansers: These may be misspelled non-CG sulfates or they may be fine"
+    "partial": "Unknown Cleansers Detected: These may be misspelled non-CG sulfates or they may be fine"
 }
 
 SULFATE_DICT = {
@@ -26,9 +26,9 @@ SULFATE_DICT = {
 }
 
 PSW_INFO = {
-    "paraben" : "Controversial, More Research Recommended: May be linked to cancer",
+    "paraben" : "More Research Recommended: May be linked to cancer",
     "soap": "More Research Recommended: Could contain soap which as harsh as sulfates",
-    "witchhazel" : "More research recommended: May contain alcohol, prone to cause dryness"
+    "witchhazel" : "More Research recommended: May contain alcohol, prone to cause hair dryness"
 } 
 
 PSW_DICT = {
@@ -38,8 +38,8 @@ PSW_DICT = {
 }
 
 SILICON_INFO = {
-    "good" : "Curly Girl Approved",
-    "bad": "Bad Silicones Detected: Most likely non-CG silicones so not water soluble and cause buildup"
+    "good" : "Approved Silicons Detected: ",
+    "bad": "Potentially Bad Silicones Detected: Most likely non-CG silicones so not water soluble and cause buildup"
 }
 
 SILICON = {
@@ -49,13 +49,13 @@ SILICON = {
 
 WAX_INFO = {
     "bad" : "Bad Waxes/Oils Detected: Can Cause Buildup and prevent moisture absorbtion",
-    "good": "Ok Waxes & Oils: modified to make them water soluble",
-    "not": "Curly Girl Approved"
+    "good": "Approved Waxes & Oils Detected: modified to make them water soluble",
+    # "not": "Curly Girl Approved Waxes: "
 }
 
 WAX_DICT = {
     "bad" : {"wax", "cire", "cera", "paraffin", "lanolin", "mineral oil", "petrolatum", "isohexadecane", "isohexanedecane", "isododecane", "dodecene", "dodecane", "isohexad", "shellac", "bees wax", "beeswax", "candelia wax", "cire dabeille", "cera alba", "microcrystalline wax", "myrica pubescens fruit wax", "synthetic beeswax", "euphorbia cerifera (candelilla) wax", "stearoxytrimethyl silane and stearyl alcohol (silky wax)", "cera alba (beeswax)", "microcrystalline wax (cera microcristallina)"},
     "good" : {"peg-8 beeswax", "emulsifying wax", "emulsifying wax nf", "peg 8 beeswax", "peg-75 lanolin"},
-    "not" : {"lonincera", "lonicera", "acetylated lanolin alcohol", "lanolin alcohol", "ceramide ng", "ceramides", "ceramide"}
+    # "not" : {"lonincera", "lonicera", "acetylated lanolin alcohol", "lanolin alcohol", "ceramide ng", "ceramides", "ceramide"}
 }
     

@@ -1,5 +1,5 @@
 from dialogflow.dialogflow_accessor import DialogFlowClient
-from database.database_accessor import database
+from database.database_accessor import database, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, REGION_NAME
 from twilio_.twilio_accessor import TwilioClient
 from ingredients_repo import (
    ALCOHOL_INFO,
@@ -14,19 +14,22 @@ from ingredients_repo import (
 import os
 from datetime import datetime
 from time import sleep
+import collections
 
 
-AWS_ACCESS_KEY_ID =os.environ["AWS_ACCESS_KEY_ID"]
-AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
-REGION_NAME='us-west-1'
-
+twilio_client = None
 
 PRODUCT_LOOKUP = "Product Lookup"
+DEFAULT_WELCOME = "Default Welcome Intent"
+DEFAULT_FALLBACK = "Default Fallback Intent"
+
 HAIR_RECOMMENDATION = "Hair Recommendation"
 
 PRODUCT_TABLE = "product"
 PRODUCT_SEARCH_TABLE = "searches"
 MESSAGE_TABLE = "messages"
+
+BAD_INGREDIENT_INDICATOR_KEYS = {"soap", "bad", "caution", "paraben", "witchhazel"}
    
 def get_product_ingredients(key_var,range_var):
    
@@ -49,6 +52,20 @@ def get_datetime_epoch():
 
 def get_datetime():
    return str(datetime.now())
+
+def get_twilio_client():
+   global twilio_client
+
+   if twilio_client == None:
+      twilio_client = TwilioClient()
+   
+   return twilio_client
+
+def record_and_send(response, phone_number):
+   client = get_twilio_client()
+   client.outbound_sms(response,phone_number)
+   record_message(message=response,phone_number=phone_number)
+
 
 def record_message(message, phone_number):
 
@@ -91,6 +108,8 @@ def ingredients_analyzer(ingredients_string):
 
    ingredients_set = set(ingredients_list)
 
+   cg_approved_bool = True
+
    ingred_infos = [
       ALCOHOL_INFO,
       SULFATE_INFO,
@@ -105,7 +124,7 @@ def ingredients_analyzer(ingredients_string):
       WAX_DICT
    ]
 
-   report = []
+   report = collections.deque()
 
    for x in range (len(ingred_dicts)):
       detected = {}
@@ -116,26 +135,34 @@ def ingredients_analyzer(ingredients_string):
                   detected[key] = []
                detected[key].append(value)
       for key in detected:
-         msg = ingred_infos[x][key] + " [" + ", ".join(detected[key]) + "]"
+         if key in BAD_INGREDIENT_INDICATOR_KEYS:
+            cg_approved_bool = False
+         msg = ingred_infos[x][key] + " [ " + ", ".join(detected[key]) + " ]"
          report.append(msg)
+   
+   beginning_message = ""
+
+   if cg_approved_bool:
+      beginning_message = "Curly Girl Approved Product!"
+   else:
+      beginning_message = "NOT Curly Girl Approved Product!"
+
+   report.appendleft(beginning_message)
 
    return "\n\n".join(report)
 
+def error_record(error_message, exception, phone):
+   print("Exception Caught: {}".format(str(exception)))
+   record_and_send(response=error_message, phone_number=phone)
+
 
 def generate_response(phone, message):
-   print(message)
 
    record_message(message=message,phone_number=phone)
    agent = DialogFlowClient(phone)
-   twilio_client = TwilioClient()
-
-   reply = ""
-   intent, variables, reply = agent.analyze_msg(message)
-
-   twilio_client.outbound_sms(reply,phone)
-   sleep(5)
 
    
+   intent, variables, default_reply = agent.analyze_msg(message)
 
    if intent == PRODUCT_LOOKUP:
 
@@ -144,33 +171,38 @@ def generate_response(phone, message):
 
       try:
          hair_company = variables["HairCompany"].values[0].string_value
-      except Exception as e:
-         msg = "Try again and include the company"
-         twilio_client.outbound_sms(msg, phone)
+      except Exception as exp:
+         error_record(error_message="Sorry I didn't get the Company Name, try again with both Company and Product Name \N{smiling face with smiling eyes}", exception=exp, phone=phone)
          return
 
       try:
          product_name = variables[hair_company.replace(" ", "").lower()+"product"].values[0].string_value
-      except Exception as e:
-         msg = "product couldnt be found :("
-         twilio_client.outbound_sms(msg, phone)
+      except Exception as exp:
+         error_record(error_message="Sorry I didn't get the Product Name for {}, try again with both Company and Product Name \N{smiling face with smiling eyes}".format(hair_company), exception=exp, phone=phone)
          return
 
-      record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
+      try:
+         record_and_send(response="Analyzing {}'s {} Ingredients".format(hair_company, product_name), phone_number=phone)
+         record_product_search(phone_number=phone, product_name=product_name, brand_name=hair_company)
+         ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
+      except Exception as exp:
+         error_record(error_message="Sorry I couldn't find ingredients for this product", exception="", phone=phone )
 
-      # print(hair_company, ":", product_name)
-      ingredients = get_product_ingredients(key_var=product_name, range_var=hair_company)
-
-      ingredients_message = "{} Ingredients: {}".format(product_name, ingredients)
+      ingredients_message = "{} Ingredients found: {}".format(product_name, ingredients)
 
       if ingredients:
-         twilio_client.outbound_sms(ingredients_message, phone)
+         record_and_send(ingredients_message, phone)
          reply = ingredients_analyzer(ingredients)
-         twilio_client.outbound_sms(reply, phone)
-      else:
-         msg = "Ingredients haven't been found :("
-         twilio_client.outbound_sms(msg, phone)
+         record_and_send(reply, phone)
          return
+      else:
+         error_record(error_message="Sorry I couldn't find ingredients for this product", exception="", phone=phone )
+         return
+
+   else:
+      record_and_send(response=default_reply, phone_number=phone)
+      return
+
 
    # if intent == HAIR_RECOMMENDATION:
    #    try: 

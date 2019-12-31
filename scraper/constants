@@ -27,10 +27,18 @@
 # seed https://themanechoice.com/collections/detangler-leave-in
 # seed https://themanechoice.com/collections/treatments
 # seed https://themanechoice.com/collections/styler
+# seed https://themanechoice.com/collections/moisturizer
+# seed https://themanechoice.com/collections/oil
+# seed https://themanechoice.com/collections/thermal-protection
 
 # xurl //*[@id="collection-main"]/div[1]/div/div/p[1]/a/@href
 # xname //*[@id="PageContainer"]/main/div/div/div/div[2]/h1/text()
 # xingredients /html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/text() /html/body/div[3]/main/div/div/div/div[3]/div/div/div/div[2]/p/text()
+
+# look into this more
+# xnext //*[@id="collection-main"]/div[2]/span[1]/a/text()
+# &page page
+# &next ←
 # $
 
 #### 3 succesfully scraped ####
@@ -44,25 +52,25 @@
 # xingredients //*[@id="shopify-section-product-template"]/div[1]/div[2]/div/div/div[1]/div[2]/div[5]/p[3]/text()[2] //*[@id="tab3"]/p[1]/text() //*[@id="tab3"]/p[1]/span/text()
 # $
 
-#### 4 not working ####
+#### 4 scraped successfully ####
 
-company As I Am
-base_url https://asiamnaturally.com
-seed https://asiamnaturally.com/collections/shampoo
-seed https://asiamnaturally.com/collections/cowash
-seed https://asiamnaturally.com/collections/condition
-seed https://asiamnaturally.com/collections/leave-in-conditioner
-seed https://asiamnaturally.com/collections/stylers
-seed https://asiamnaturally.com/collections/oils
-seed https://asiamnaturally.com/collections/daily-moisturizers
-seed https://asiamnaturally.com/collections/treatment
-seed https://asiamnaturally.com/collections/vegan
-seed https://asiamnaturally.com/collections/henna-happiness
+# company As I Am
+# base_url https://asiamnaturally.com
+# seed https://asiamnaturally.com/collections/shampoo
+# seed https://asiamnaturally.com/collections/cowash
+# seed https://asiamnaturally.com/collections/condition
+# seed https://asiamnaturally.com/collections/leave-in-conditioner
+# seed https://asiamnaturally.com/collections/stylers
+# seed https://asiamnaturally.com/collections/oils
+# seed https://asiamnaturally.com/collections/daily-moisturizers
+# seed https://asiamnaturally.com/collections/treatment
+# seed https://asiamnaturally.com/collections/vegan
+# seed https://asiamnaturally.com/collections/henna-happiness
 
-xurl //*[@id="Collection"]/div/div/div/div/div[2]/a/@href
-xname //*[@id="product-box"]/div[2]/section/h1/text()
-xingredients //*[@class="product-description-wrapper"]/p/text()[contains(.,'Aqua/Water/Eau')] //*[@class="product-description-wrapper"]/p/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[contains(.,',')] //*[@class="product-description-wrapper"]/text()[contains(.,',')]
-$
+# xurl //*[@id="Collection"]/div/div/div/div/div[2]/a/@href
+# xname //*[@id="product-box"]/div[2]/section/h1/text()
+# xingredients //*[@class="product-description-wrapper"]/p/text()[contains(.,'Aqua/Water/Eau')] //*[@class="product-description-wrapper"]/p/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[not(contains(.,'.'))and(contains(.,'Oil'))] //*[@class="product-description-wrapper"]/p/span/text()[contains(.,',')] //*[@class="product-description-wrapper"]/text()[contains(.,',')]
+# $
 
 #### 5 not working ####
 
@@ -114,7 +122,7 @@ $
 
 #### 8 succesfully scraped #### 
 
-# company Camille_Rose
+# company Camille Rose
 # base_url https://www.camillerose.com
 # seed https://www.camillerose.com/collections/cleanse?page=1
 # seed https://www.camillerose.com/collections/cleanse?page=2
@@ -133,5 +141,3 @@ $
 # xname /html/body/main/div/div/div/div[1]/div/div[2]/h1/text()
 # xingredients //*[@class="product_acc_right"]/p/text()[contains(.,'Ingredients')]
 # $
-
-
